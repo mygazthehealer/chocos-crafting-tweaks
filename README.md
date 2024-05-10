@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/master/logo.png?raw=true">
+</p>
 # Chocos' Crafting Tweaks
 Chocos' Crafting Tweaks is a minecraft datapack created to improve the vanilla building experience by correcting inconsistent recipes and adding new recipes for greater variety.
 
