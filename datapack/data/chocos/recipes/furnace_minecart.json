@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "I": {
+    "@": {
       "item": "minecraft:furnace"
     },
     "#": {
@@ -10,7 +10,7 @@
     }
   },
   "pattern": [
-    "#I#",
+    "#@#",
     "###"
   ],
   "result": {

@@ -2,19 +2,20 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "@": {
-      "item": "minecraft:chest"
-    },
     "#": {
-      "item": "minecraft:iron_ingot"
+      "tag": "minecraft:planks"
+    },
+    "@": {
+      "item": "minecraft:string"
     }
   },
   "pattern": [
-    "#@#",
-    "###"
+    "@@",
+    "##",
+    "##"
   ],
   "result": {
-    "item": "minecraft:chest_minecart"
+    "item": "minecraft:loom"
   },
   "show_notification": true
 }
