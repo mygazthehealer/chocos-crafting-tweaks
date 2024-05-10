@@ -72,4 +72,14 @@
 ### Boat with Chest
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_chestboat.gif?raw=true">
 
--
+- New Recipe for Boat with Chest (allows stacking)
+
+### Minecart with Workbench
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_minecart_workbench.gif?raw=true">
+
+- New Recipe for Minecart with Chest/Furnace/Dropper/TNT (allows stacking)
+
+### Loom
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_loom.gif?raw=true">
+
+- Input is 2 String and 4 Wooden Planks (instead of 2 String and 2 Wooden Planks)
