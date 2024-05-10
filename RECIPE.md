@@ -8,6 +8,8 @@
 - Puppur Stairs can no longer be crafted from Purpur Pillar
 - Sandstone Stairs can no longer be crafted from Cut Sandstone, Chiseled Sandstone
 - Red Sandstone Stairs can no longer be crafted from Cut Red Sandstone, Chiseled Red Sandstone
+<details>
+  
 - Added Bamboo Mosaic Stairs to "wooden_stairs" group
 - Created "cobblestone_stairs" group for Cobblestone Stairs, Mossy Cobblestone Stairs
 - Created "stone_brick_stairs" group for Stone Brick Stairs, Mossy Stone Brick Stairs
@@ -22,7 +24,7 @@
 - Created "quartz_stairs" group for Quartz Stairs, Smooth Quartz Stairs
 - Created "cut_copper_stairs" group for Cut Copper Stairs, Exposed Cut Copper Stairs, Weathered Cut Copper Stairs, Oxidized Cut Copper Stairs
 - Removed "waxed_weathered_cut_copper_stairs" "waxed_oxidized_cut_copper_stairs" "waxed_exposed_cut_copper_stairs" groups
-- Added Waxed Exposed Cut Copper Stairs, Waxed Weathered Cut Copper Stairs, Waxed Oxidized Cut Copper Stairs to "waxed_cut_copper_stairs" group
+- Added Waxed Exposed Cut Copper Stairs, Waxed Weathered Cut Copper Stairs, Waxed Oxidized Cut Copper Stairs to "waxed_cut_copper_stairs" group</details>
 
 ### Trapdoor
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_trapdoor_wooden.gif?raw=true">
@@ -66,3 +68,8 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_bowl.gif?raw=true">
 
 - Output is 3 Bowls (instead of 4)
+
+### Boat with Chest
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_chestboat.gif?raw=true">
+
+-
