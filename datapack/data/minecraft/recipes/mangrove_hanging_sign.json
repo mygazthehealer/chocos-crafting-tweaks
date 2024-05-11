@@ -4,7 +4,7 @@
   "group": "hanging_sign",
   "key": {
     "#": {
-      "item": "minecraft:stripped_mangrove_log"
+      "tag": "minecraft:stripped_mangrove_logs"
     },
     "X": {
       "item": "minecraft:chain"

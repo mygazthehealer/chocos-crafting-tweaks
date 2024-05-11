@@ -2,9 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "group": "hanging_sign",
-  "key": {
+  "z": {
     "#": {
-      "item": "minecraft:stripped_bamboo_block"
+      "tag": "minecraft:stripped_bamboo_logs"
     },
     "X": {
       "item": "minecraft:chain"

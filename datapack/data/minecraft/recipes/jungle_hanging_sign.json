@@ -4,7 +4,7 @@
   "group": "hanging_sign",
   "key": {
     "#": {
-      "item": "minecraft:stripped_jungle_log"
+      "tag": "minecraft:stripped_jungle_logs"
     },
     "X": {
       "item": "minecraft:chain"

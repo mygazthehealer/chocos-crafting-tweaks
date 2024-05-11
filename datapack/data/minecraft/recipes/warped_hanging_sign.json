@@ -4,7 +4,7 @@
   "group": "hanging_sign",
   "key": {
     "#": {
-      "item": "minecraft:stripped_warped_stem"
+      "tag": "minecraft:stripped_warped_stems"
     },
     "X": {
       "item": "minecraft:chain"
