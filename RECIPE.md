@@ -64,7 +64,19 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_hanging_sign.gif?raw=true">
 
 - Input is 1 Chain and 6 Stripped Log/Stem/Wood/Hyphae (instead of 2 Chain and 6 Stripped Log/Stem)
-
+<details>
+  
+- Created "stripped_oak_logs" group for Stripped Oak Log, Stripped Oak Wood
+- Created "stripped_spruce_logs" group for Stripped Spruce Log, Stripped Sprucd Wood
+- Created "stripped_dark_oak_logs" group for Stripped Dark Oak Log, Stripped Dark Oak Wood
+- Created "stripped_birch_logs" group for Stripped Birch Log, Stripped Birch Wood
+- Created "stripped_jungle_logs" group for Stripped Jungle Log, Stripped Jungle Wood
+- Created "stripped_acacia_logs" group for Stripped Acacia Log, Stripped Acacia Wood
+- Created "stripped_mangrove_logs" group for Stripped Mangrove Log, Stripped Mangrove Wood
+- Created "stripped_cherry_logs" group for Stripped Cherry Log, Stripped Cherry Wood
+- Created "stripped_crimson_stems" group for Stripped Crimson Stem, Stripped Crimson Hyphae
+- Created "stripped_warped_stems" group for Stripped Warped Stem, Stripped Warped Hyphae
+- Created "stripped_bamboo_logs" group for Stripped Bamboo Block, Bamboo Mosaic</details>
 ### Bowls
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_bowl.gif?raw=true">
 
