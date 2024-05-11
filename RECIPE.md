@@ -45,7 +45,8 @@
 - Output is 2 Pressure Plates (instead of 1 for Iron and Gold Ingot)
 
 ### Fence
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_fence.gif?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_fence_wooden.gif?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_fence_nether_brick.png?raw=true">
 
 - Output is 4 Fences (instead of 3 for Wooden Planks, 6 for Nether Bricks)
 
