@@ -64,6 +64,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_hanging_sign.gif?raw=true">
 
 - Input is 1 Chain and 6 Stripped Log/Stem/Wood/Hyphae (instead of 2 Chain and 6 Stripped Log/Stem)
+- Input is 1 Chain and 6 Stripped Bamboo Block/Bamboo Mosaic (instead of 2 Chain and 6 Stripped Bamboo Block)
 <details>
   
 - Created "stripped_oak_logs" group for Stripped Oak Log, Stripped Oak Wood
