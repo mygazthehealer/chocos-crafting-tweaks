@@ -254,7 +254,35 @@ Input is 3 Paper and 1 Rabbit Hide
 
 - New Recipe for Glow Item Frame
 - Input is 1 Item Frame and 1 Glowstone Dust
-  
+
+### Sea Lantern
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_sea_lantern.png?raw=true">
+
+- Input is 4 Prismarine Crystals (instead of 5 Prismarine Crystals and 4 Prismarine Shards)
+
+### Prismarine Bricks
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_prismarine_bricks.png?raw=true">
+
+- Output is 4 Prismarine Bricks for 4 Prismarine (instead of 1 Prismarine Brick for 9 Prismarine Shards)
+
+### Dark Prismarine
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_prismarine_dark.png?raw=true">
+
+- New Recipes for Dark Prismarine
+- Input is 8 Prismarine Shards and 1 Ink Sac for 1 Dark Prismarine (Bedrock Edition recipe)
+- Input is 8 Prismarine and 1 Black Dye/Ink Sac for 4 Dark Prismarine
+
+### Blaze Powder
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_blaze_powder.png?raw=true">
+
+- Output is 3 Blaze Powders (instead of 2)
+ 
+### Flowering Pot
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_flowering_pot.png?raw=true">
+
+- New Recipe
+- Input is 3 Terracotta for 3 Flowing Pot
+
 ### (Removed Recipes)
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_leather.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_leather_horse_armour.png?raw=true">
