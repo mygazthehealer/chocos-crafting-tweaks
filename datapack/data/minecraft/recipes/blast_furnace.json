@@ -1,23 +1,24 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "group": "hanging_sign",
   "key": {
     "#": {
-      "tag": "minecraft:stripped_bamboo_logs"
+      "tag": "minecraft:smooth_stones"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
     },
     "X": {
-      "item": "minecraft:chain"
+      "item": "minecraft:furnace"
     }
   },
   "pattern": [
-    " X ",
-    "###",
+    "III",
+    "IXI",
     "###"
   ],
   "result": {
-    "count": 6,
-    "item": "minecraft:bamboo_hanging_sign"
+    "item": "minecraft:blast_furnace"
   },
   "show_notification": true
 }
