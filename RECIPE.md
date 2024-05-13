@@ -1,4 +1,4 @@
-![image](https://github.com/mygazthehealer/chocos-crafting-tweaks/assets/128742341/884829a0-aea2-42b0-ac1e-70c63b84c889)![image](https://github.com/mygazthehealer/chocos-crafting-tweaks/assets/128742341/7db89505-4b47-48b6-86fd-96fa94c37dae)# Recipes
+### Recipes
 ## Crafting Table
 ### Stairs
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_stairs_wooden.gif?raw=true">
@@ -148,6 +148,7 @@
 ### Tripwire Hook
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_tripwire_hook.png?raw=true">
 
+- Input is 1 Iron Ingot and 1 Stick (instead of 1 Iron Ingot, 1 Stick and 1 Wooden Plank)
 - Output is 4 (instead of 1)
 
 ### Repeater
@@ -164,7 +165,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_iron_bar.png?raw=true">
 
 - Output is 12 Iron Bars (instead of 16)
-- 
+  
 ### Glass Pane
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_glass_pane.gif?raw=true">
 
@@ -187,7 +188,7 @@
 - Input is 4 Nether Sprouts
 
 ### Red Nether Bricks
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_red_nether_brick.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_red_nether_bricks.png?raw=true">
 
 - New Recipe for Red Nether Bricks
 - Input is 2 Nether Brick Blocks and 2 Nether Wart Blocks
