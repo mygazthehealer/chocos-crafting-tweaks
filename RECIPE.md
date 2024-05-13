@@ -231,7 +231,7 @@
 ### Leather Armour
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_leather_helmet.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_leather_chestplate.png?raw=true">
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_leather_helmet.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_leather_leggings.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_leather_boots.png?raw=true">
 
 - Input is Rabbit Hide/Leather (instead of Leather)
