@@ -79,6 +79,7 @@
 - Created "stripped_crimson_stems" group for Stripped Crimson Stem, Stripped Crimson Hyphae
 - Created "stripped_warped_stems" group for Stripped Warped Stem, Stripped Warped Hyphae
 - Created "stripped_bamboo_logs" group for Stripped Bamboo Block, Bamboo Mosaic</details>
+
 ### Bowls
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_bowl.gif?raw=true">
 
@@ -197,7 +198,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_ice_packed.png?raw=true">
 
 - Input is 4 Ice (instead of 9)
-- 
+  
 ### Blue Ice
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_ice_blue.png?raw=true">
 
