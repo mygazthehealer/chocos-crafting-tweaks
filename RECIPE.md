@@ -129,16 +129,25 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_stonecutter.png?raw=true">
 
 - Input is 1 Iron Ingot and 3 Stone/Deepslate (instead of 1 Iron Ingot and 3 Stone)
-  
+<details>
+
+- Created "stones" group for Stone, Deepslate</details>
+
 ### Blast Furnace
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_blast_furnace.png?raw=true">
 
 - Input is 5 Iron Ingots, 1 Furnace and 3 Smoothstone/Polished Deepslate/Polished Blackstone (instead of 5 Iron Ingots, 1 Furnace and 3 Smoothstone)
+<details>
+
+- Created "smooth_stones" group for Smoothstone, Polished Deepslate, Polished Blackstone</details>
 
 ### Armour Stand
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_armour_stand.gif?raw=true">
 
 - Input is 6 Sticks and 1 Smoothstone Slab/Polished Deepslate Slab/Polished Blackstone Slab (instead of 6 Sticks and 1 Smoothstone Slab)
+<details>
+
+- Created "smooth_stones_slab" group for Smoothstone Slab, Polished Deepslate Slab, Polished Blackstone Slab</details>
   
 ### Lever
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_lever.gif?raw=true">
@@ -236,6 +245,9 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_leather_boots.png?raw=true">
 
 - Input is Rabbit Hide/Leather (instead of Leather)
+<details>
+
+- Created "leathers" group for Leather, Rabbit Hide</details>
 
 ### Book
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_book.png?raw=true">
@@ -254,6 +266,9 @@ Input is 3 Paper and 1 Rabbit Hide
 
 - New Recipe for Glow Item Frame
 - Input is 1 Item Frame and 1 Glowstone Dust
+<details>
+
+- Created "glow_dyes" group for Glowstone Dust, Glow Ink Sac</details>
 
 ### Sea Lantern
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_sea_lantern.png?raw=true">
@@ -271,6 +286,9 @@ Input is 3 Paper and 1 Rabbit Hide
 - New Recipes for Dark Prismarine
 - Input is 8 Prismarine Shards and 1 Ink Sac for 1 Dark Prismarine (Bedrock Edition recipe)
 - Input is 8 Prismarine and 1 Black Dye/Ink Sac for 4 Dark Prismarine
+<details>
+
+- Created "black_dyes" group for Black Dye, Ink Sac</details>
 
 ### Blaze Powder
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_blaze_powder.png?raw=true">
@@ -280,7 +298,7 @@ Input is 3 Paper and 1 Rabbit Hide
 ### Flowering Pot
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_flowering_pot.png?raw=true">
 
-- New Recipe
+- New Recipe for Flowering Pot
 - Input is 3 Terracotta for 3 Flowing Pot
 
 ### (Removed Recipes)
