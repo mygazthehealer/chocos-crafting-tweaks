@@ -216,8 +216,7 @@
 ### Melon Slices
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_melon_slices.png?raw=true">
 
-- New Recipe for Melon Slices
-- Input is 1 Melon
+- New Recipe for Melon Slices (can now be crafted from 1 Melon)
 
 ### Carpet
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_carpet_wool.gif?raw=true">
@@ -230,11 +229,11 @@
 ### String
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_string.png?raw=true">
 
-- New Recipe for String
-- Input is 1 Cobweb (removed Bedrock Edition recipe)
+- New Recipe for String (can now be crafted from 1 Cobweb)(removed Bedrock Edition recipe)
 
-### Templates
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_template.gif?raw=true">
+### Smithing/Upgrade Template
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_template_smithing.gif?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_template_upgrade.png?raw=true">
 
 - Input is 1 Template, 1 Diamond and 7 Blocks (instead of 1 Template, 7 Diamonds and 1 Block)
 
@@ -244,7 +243,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_leather_leggings.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_leather_boots.png?raw=true">
 
-- Input is Rabbit Hide/Leather (instead of Leather)
+- Leather Armour can now also be crafted from Rabbit Hide
 <details>
 
 - Created "leathers" group for Leather, Rabbit Hide</details>
@@ -252,20 +251,17 @@
 ### Book
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_book.png?raw=true">
 
-- New Recipe for Book
-Input is 3 Paper and 1 Rabbit Hide
+- New Recipe for Book (can now also be crafted from 3 Paper and 1 Rabbit Hide)
 
 ### Item Frame
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_item_frame.png?raw=true">
 
-- New Recipe for Item Frame
-- Input is 8 Sticks and 1 Rabbit Hide
+- New Recipe for Item Frame (can now also be crafted from 8 Sticks and 1 Rabbit Hide)
 
 ### Glow Item Frame
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_item_frame_glow.png?raw=true">
 
-- New Recipe for Glow Item Frame
-- Input is 1 Item Frame and 1 Glowstone Dust
+- New Recipe for Glow Item Frame (can now also be crafted from 1 Item Frame and 1 Glowstone Dust)
 <details>
 
 - Created "glow_dyes" group for Glowstone Dust, Glow Ink Sac</details>
