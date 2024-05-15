@@ -107,8 +107,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_dispenser_from_dropper.png?raw=true">
 
 - Input is 1 Redstone Dust, 1 Tripwire Hook and 7 Cobblestone/Cobbled Deepslate/Blackstone (instead of 1 Redstone Dust, 1 Bow and 7 Cobblestone)
-- New Recipe for Dispenser (allows Dropper as crafting ingredient)
-- Input is 1 Dropper and 1 Tripwire Hook
+- New Recipe for Dispenser (can now also be crafted 1 Dropper and 1 Tripwire Hook)
 
 ### Dropper
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_dropper.png?raw=true">
@@ -194,14 +193,12 @@
 ### Warped Wart Block
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_wart_block_warped.png?raw=true">
 
-- New Recipe for Warped Wart Block
-- Input is 4 Nether Sprouts
+- New Recipe for Warped Wart Block (can now be crafted from 4 Nether Sprouts)
 
 ### Red Nether Bricks
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_red_nether_bricks.png?raw=true">
 
-- New Recipe for Red Nether Bricks
-- Input is 2 Nether Brick Blocks and 2 Nether Wart Blocks
+- New Recipe for Red Nether Bricks (can now also be crafted from 2 Nether Brick Blocks and 2 Nether Wart Blocks)
 
 ### Packed Ice
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_ice_packed.png?raw=true">
@@ -278,6 +275,7 @@
 
 ### Dark Prismarine
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_prismarine_dark.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_prismarine_dark_2.gif?raw=true">
 
 - New Recipes for Dark Prismarine
 - Input is 8 Prismarine Shards and 1 Ink Sac for 1 Dark Prismarine (Bedrock Edition recipe)
@@ -291,12 +289,11 @@
 
 - Output is 3 Blaze Powders (instead of 2)
  
-### Flowering Pot
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_flowering_pot.png?raw=true">
+### Flower Pot
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_flower_pot.png?raw=true">
 
-- New Recipe for Flowering Pot
-- Input is 3 Terracotta for 3 Flowing Pot
-
+- New Recipe for Flower Pot (can now also be crafted from 3 Terracotta)
+  
 ### (Removed Recipes)
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_leather.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_leather_horse_armour.png?raw=true">
