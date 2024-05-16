@@ -1,14 +1,14 @@
-### Recipes
-## Crafting Table
+# Recipes
+## Crafting
 ### Stairs
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stairs_wooden.gif?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stairs_wooden_alt.gif?raw=true">
 
 - Output is 6 Stairs (instead of 4)
-- Quartz Stairs can no longer be crafted from Quartz Pillar, Chiseled Quartz Block
-- Puppur Stairs can no longer be crafted from Purpur Pillar
-- Sandstone Stairs can no longer be crafted from Cut Sandstone, Chiseled Sandstone
-- Red Sandstone Stairs can no longer be crafted from Cut Red Sandstone, Chiseled Red Sandstone
+- Quartz Stairs can no longer be Crafted from Quartz Pillar, Chiseled Quartz Block
+- Puppur Stairs can no longer be Crafted from Purpur Pillar
+- Sandstone Stairs can no longer be Crafted from Cut Sandstone, Chiseled Sandstone
+- Red Sandstone Stairs can no longer be Crafted from Cut Red Sandstone, Chiseled Red Sandstone
 <details>
   
 - Added Bamboo Mosaic Stairs to "wooden_stairs" tag
@@ -107,7 +107,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/dispenser_from_dropper.png?raw=true">
 
 - Input is 1 Redstone Dust, 1 Tripwire Hook and 7 Cobblestone/Cobbled Deepslate/Blackstone (instead of 1 Redstone Dust, 1 Bow and 7 Cobblestone)
-- New Recipe for Dispenser (can also be crafted 1 Dropper and 1 Tripwire Hook)
+- New Recipe for Dispenser (can also be Crafted 1 Dropper and 1 Tripwire Hook)
 
 ### Dropper
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/dropper.png?raw=true">
@@ -216,12 +216,12 @@
 ### Warped Wart Block
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/wart_block_warped.png?raw=true">
 
-- New Recipe for Warped Wart Block (can be crafted from 4 Nether Sprouts)
+- New Recipe for Warped Wart Block (can be Crafted from 4 Nether Sprouts)
 
 ### Red Nether Bricks
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/red_nether_bricks.png?raw=true">
 
-- New Recipe for Red Nether Bricks (can also be crafted from 2 Nether Brick Blocks and 2 Nether Wart Blocks)
+- New Recipe for Red Nether Bricks (can also be Crafted from 2 Nether Brick Blocks and 2 Nether Wart Blocks)
 
 ### Packed Ice
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/ice_packed.png?raw=true">
@@ -236,12 +236,12 @@
 ### Melon Slices
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/melon_slices.png?raw=true">
 
-- New Recipe for Melon Slices (can be crafted from 1 Melon)
+- New Recipe for Melon Slices (can be Crafted from 1 Melon)
 
 ### Bamboo
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/bamboo.png?raw=true">
 
-- New Recipe for Bamboo (can be crafted from 1 Block of Bamboo)
+- New Recipe for Bamboo (can be Crafted from 1 Block of Bamboo)
 
 ### Bamboo Planks
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/bamboo_planks.png?raw=true">
@@ -251,37 +251,37 @@
 ### White Dye
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/dye_white.gif?raw=true">
 
-- New Recipe for White Dye (can be crafted from Azure Bluet, Oxeye Daisy, White Tulip)
+- New Recipe for White Dye (can be Crafted from Azure Bluet, Oxeye Daisy, White Tulip)
 - Output is 1 White Dye (instead of 1 Light Grey Dye)
 
 ### Purple Dye
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/dye_purple.png?raw=true">
 
-- New Recipe for Purple Dye (can be crafted from Allium)
+- New Recipe for Purple Dye (can be Crafted from Allium)
 - Output is 1 Purple Dye (instead of 1 Magenta Dye)
 
 ### Pink Dye
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/dye_pink.png?raw=true">
 
-- New Recipe for Pink Dye (can be crafted from Spore Blossom)
+- New Recipe for Pink Dye (can be Crafted from Spore Blossom)
 - Output is 2 Pink Dye
 
 ### Black Dye
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/dye_black.gif?raw=true">
 
-- New Recipe for Black Dye (can be crafted from Coal, Charcoal)
+- New Recipe for Black Dye (can be Crafted from Coal, Charcoal)
 - Output is 1 Black Dye
 
 ### Red Dye
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/dye_red.png?raw=true">
 
-- New Recipe for Red Dye (can be crafted from Nether Wart)
+- New Recipe for Red Dye (can be Crafted from Nether Wart)
 - Output is 1 Red Dye
 
 ### Cyan Dye
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/dye_cyan.gif?raw=true">
 
-- New Recipe for Cyan Dye (can be crafted from Nether Sprout, Glow Ink Sac)
+- New Recipe for Cyan Dye (can be Crafted from Nether Sprout, Glow Ink Sac)
 - Output is 1 Cyan Dye
 
 ### Carpet
@@ -297,13 +297,13 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/candle.png?raw=true">
 
 - Output is 4 Candles (instead of 1)
-- New Recipe for Dyed Candles (can also be crafted from 1 String, 1 Honeycomb and 1 Dye)
+- New Recipe for Dyed Candles (can also be Crafted from 1 String, 1 Honeycomb and 1 Dye)
 
 ### Lead
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/lead.gif?raw=true">
 
 - Output is 4 Lead (instead of 2)
-- New Recipe for Lead (can also be crafted from 4 String and 1 Honey Bottle)
+- New Recipe for Lead (can also be Crafted from 4 String and 1 Honey Bottle)
 <details>
 
 - Created "sticky" tag for Slimeball, Honey Bottle</details>
@@ -311,7 +311,7 @@
 ### String
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/string.png?raw=true">
 
-- New Recipe for String (can be crafted from 1 Cobweb)(removed Bedrock Edition recipe)
+- New Recipe for String (can be Crafted from 1 Cobweb)(removed Bedrock Edition recipe)
 
 ### Smithing/Upgrade Template
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/template_smithing.gif?raw=true">
@@ -325,7 +325,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/leather_leggings.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/leather_boots.png?raw=true">
 
-- Leather Armour can also be crafted from Rabbit Hide
+- Leather Armour can also be Crafted from Rabbit Hide
 <details>
 
 - Created "leathers" tag for Leather, Rabbit Hide</details>
@@ -333,17 +333,17 @@
 ### Book
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/book.png?raw=true">
 
-- New Recipe for Book (can also be crafted from 3 Paper and 1 Rabbit Hide)
+- New Recipe for Book (can also be Crafted from 3 Paper and 1 Rabbit Hide)
 
 ### Item Frame
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/item_frame.png?raw=true">
 
-- New Recipe for Item Frame (can also be crafted from 8 Sticks and 1 Rabbit Hide)
+- New Recipe for Item Frame (can also be Crafted from 8 Sticks and 1 Rabbit Hide)
 
 ### Glow Item Frame
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/item_frame_glow.png?raw=true">
 
-- New Recipe for Glow Item Frame (can also be crafted from 1 Item Frame and 1 Glowstone Dust)
+- New Recipe for Glow Item Frame (can also be Crafted from 1 Item Frame and 1 Glowstone Dust)
 <details>
 
 - Created "glow_dyes" tag for Glowstone Dust, Glow Ink Sac</details>
@@ -377,10 +377,85 @@
 ### Flower Pot
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/flower_pot.png?raw=true">
 
-- New Recipe for Flower Pot (can also be crafted from 3 Terracotta)
+- New Recipe for Flower Pot (can also be Crafted from 3 Terracotta)
   
 ### (Removed Recipes)
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/leather.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/leather_horse_armour.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/dye_red_from_beetroot.png?raw=true">
 
-- Vanilla Recipes for Leather (from 4 Rabbit Hide) and Leather Horse Armour no longer work
+- Vanilla Recipe for Leather (from Rabbit Hide) no longer work
+- Vanilla Recipe for Leather Horse Armour no longer work
+- Vanilla Recipe for Red Dye (from Beetroot) no longer work
+
+## Smelting
+### Gold Ingot
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/gold_ingot.png?raw=true">
+
+- Gold Ingot can also be Smelted from Gilded Blackstone
+- Gold Ingot can also be Blasted from Gilded Blackstone
+
+### Nether Brick
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/nether_brick.gif?raw=true">
+
+- Nether Brick can also be Smelted/Blasted from Crimson Nylium, Warped Nylium
+- Nether Brick can also be Blasted from Netherrack
+
+### Brick
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/brick.png?raw=true">
+
+- Brick can also be Blasted from Clay Ball
+
+### Dyes
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/dyes.gif?raw=true">
+
+- Red Dye can also be Smelted/Smoked from Beetroot
+- Orange Dye can also be Smelted/Smoked from Carrot
+- Green Dye can also be Smoked from Cactus
+- Lime Dye can also be Smoked from Sea Pickle
+
+### Stones
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stones.gif?raw=true">
+
+- Stone can also be Blasted from Cobblestone
+- Deepslate can also be Blasted from Cobbled Deepslate
+
+### Smooth Stones
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smooth_stones.gif?raw=true">
+
+- Smooth Stone can also be Blasted from Stone
+- Smooth Sandstone can also be Blasted from Sandstone
+- Smooth Red Sandstone can also be Blasted from Red Sandstone
+- Smooth Basalt can also be Blasted from Basalt
+- Smooth Quartz can also be Blasted from Block of Quartz
+
+### Cracked Bricks
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/cracked_bricks.gif?raw=true">
+
+- Cracked Stone Bricks can also be Blasted from Stone Bricks
+- Cracked Deepslate Bricks can also be Blasted from Deepslate Bricks
+- Cracked Deepslate Tiles can also be Blasted from Deepslate Tiles
+- Cracked Nether Bricks can also be Blasted from Nether Bricks
+- Cracked Polished Blackstone Bricks can also be Blasted from Polished Blackstone Bricks
+
+### Glazed Terracotta
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/terracotta.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/glazed_terracotta.gif?raw=true">
+
+- Terracotta can also be Blasted from Clay
+- Glazed Terracotta can also be Blasted from Dyed Terracotta
+
+### Glass
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/glass.gif?raw=true">
+
+- Sand can also be Blasted from Sand, Red Sand
+
+### Sponge
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/sponge.png?raw=true">
+
+- Sponge can also be Smoked from Wet Sponge
+
+### Charcoal
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/charcoal.gif?raw=true">
+
+- Charcoal can also be Smoked from Log/Stem or Stripped Log/Stem
