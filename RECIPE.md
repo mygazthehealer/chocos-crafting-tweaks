@@ -2,6 +2,7 @@
 ## Crafting Table
 ### Stairs
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_stairs_wooden.gif?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_stairs_wooden_alt.gif?raw=true">
 
 - Output is 6 Stairs (instead of 4)
 - Quartz Stairs can no longer be crafted from Quartz Pillar, Chiseled Quartz Block
@@ -275,7 +276,7 @@
 
 ### Dark Prismarine
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_prismarine_dark.png?raw=true">
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_prismarine_dark_2.gif?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/recipe_prismarine_dark_alt.gif?raw=true">
 
 - New Recipes for Dark Prismarine
 - Input is 8 Prismarine Shards and 1 Ink Sac for 1 Dark Prismarine (Bedrock Edition recipe)
