@@ -1,23 +1,21 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "group": "hanging_sign",
   "key": {
     "#": {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "minecraft:gold_block"
     },
     "X": {
-      "item": "minecraft:chain"
+      "item": "minecraft:golden_apple"
     }
   },
   "pattern": [
-    " X ",
     "###",
+    "#X#",
     "###"
   ],
   "result": {
-    "count": 6,
-    "item": "minecraft:bamboo_hanging_sign"
+    "item": "minecraft:enchanted_golden_apple"
   },
   "show_notification": true
 }
