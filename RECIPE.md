@@ -400,6 +400,9 @@
 
 - Nether Brick can also be Smelted/Blasted from Crimson Nylium, Warped Nylium
 - Nether Brick can also be Blasted from Netherrack
+<details>
+
+- Created "nylium" tag for Crimson Nylium, Warped Nylium</details>
 
 ### Brick
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/brick.png?raw=true">
