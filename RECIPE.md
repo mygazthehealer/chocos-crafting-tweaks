@@ -443,7 +443,7 @@
 
 ### Glazed Terracotta
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/terracotta.png?raw=true">
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/glazed_terracotta.gif?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/terracotta_glazed.gif?raw=true">
 
 - Terracotta can also be Blasted from Clay
 - Glazed Terracotta can also be Blasted from Dyed Terracotta
@@ -462,3 +462,10 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/charcoal.gif?raw=true">
 
 - Charcoal can also be Smoked from Log/Stem or Stripped Log/Stem
+
+### Anvil
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/netherite_tools.gif?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/netherite_armour.gif?raw=true">
+
+- Netherite Upgrade Template no longer works
+- Netherite Gear can be smithed from Diamond Gear and Netherite Ingot
