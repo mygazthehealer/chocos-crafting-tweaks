@@ -463,7 +463,8 @@
 
 - Charcoal can also be Smoked from Log/Stem or Stripped Log/Stem
 
-### Anvil
+## Smithing Table
+### Netherite Gear
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/netherite_tools.gif?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/netherite_armour.gif?raw=true">
 
