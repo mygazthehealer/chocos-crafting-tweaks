@@ -465,8 +465,12 @@
 
 ## Smithing Table
 ### Netherite Gear
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/netherite_tools_alt.gif?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/netherite_armour_alt.gif?raw=true">
+
+- Netherite Upgrade Template no longer works
+
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/netherite_tools.gif?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/netherite_armour.gif?raw=true">
 
-- Netherite Upgrade Template no longer works
 - Netherite Gear can be smithed from Diamond Gear and Netherite Ingot
