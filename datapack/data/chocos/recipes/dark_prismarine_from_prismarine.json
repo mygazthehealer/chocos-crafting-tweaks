@@ -3,7 +3,7 @@
   "category": "building",
   "key": {
     "I": {
-      "tag": "minecraft:black_dyes"
+      "item": "minecraft:black_dye"
     },
     "S": {
       "item": "minecraft:prismarine"

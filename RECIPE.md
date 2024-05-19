@@ -90,7 +90,7 @@
 
 - New Recipe for Boat with Chest (allows stacking)
 - Input is 5 Wooden Planks and 1 Chest
-  
+
 ### Minecart with Workbench
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/minecart_workbench.gif?raw=true">
 
@@ -135,7 +135,7 @@
 ### Lodestone
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/lodestone.png?raw=true">
 
-- Input is 8 Chiseled Stone Bricks/Chiseled Deepslate/Chiseled Polished Blackstone and 1 Iron Ingot (instead of 8 Chiseled Stone Bricks and 1 Netherrite Ingot)
+- Input is 8 Chiseled Stone Bricks/Chiseled Deepslate/Chiseled Polished Blackstone and 1 Netherite Ingot (instead of 8 Chiseled Stone Bricks and 1 Netherite Ingot)
 <details>
 
 - Created "chiseled_stones" tag for Chiseled Stone Bricks, Chiseled Deepslate, Chiseled Polished Blackstone</details>
@@ -360,14 +360,9 @@
 
 ### Dark Prismarine
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/prismarine_dark.png?raw=true">
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/prismarine_dark_alt.gif?raw=true">
 
 - New Recipes for Dark Prismarine
-- Input is 8 Prismarine Shards and 1 Ink Sac for 1 Dark Prismarine (Bedrock Edition recipe)
-- Input is 8 Prismarine and 1 Black Dye/Ink Sac for 4 Dark Prismarine
-<details>
-
-- Created "black_dyes" tag for Black Dye, Ink Sac</details>
+- Input is 8 Prismarine and 1 Black Dye for 4 Dark Prismarine
 
 ### Blaze Powder
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/blaze_powder.png?raw=true">
@@ -478,4 +473,21 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/netherite_tools.gif?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/netherite_armour.gif?raw=true">
 
-- Netherite Gear can be smithed from Diamond Gear and Netherite Ingot
+- Netherite Gear can be Smithed from Diamond Gear and Netherite Ingot
+
+## Stonecutting
+### Deepslate
+
+- Deepslate can be Stonecut into Chiseled Deepslate, Deepslate Bricks (Stairs/2 Slabs/Walls), Deepslate Tiles (Stairs/2 Slabs/Walls), Polished Deepslate (Stairs/Slabs/Walls)
+
+### Stone
+
+- Stone can be Stonecut into 4 Stone Buttons, 2 Stone Pressure Plate
+
+### Blackstone
+
+- Blackstone/Polished Blackstone can be Stonecut into 4 Polished Blackstone Buttons, 2 Polished Blackstone Pressure Plate
+
+### Bamboo
+
+- Bamboo Mosaic can be stonecut into 1 Bamboo Mosaic Stairs, 2 Bamboo Mosaic Slabs
