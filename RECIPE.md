@@ -378,6 +378,11 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/flower_pot.png?raw=true">
 
 - New Recipe for Flower Pot (can also be Crafted from 3 Terracotta)
+
+### Pottery Sherds
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/pottery_sherds.gif?raw=true">
+
+- New Recipe for Pottery Sherds (can be crafted from 1 Pottery Sherd and 1 Brick)
   
 ### (Removed Recipes)
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/leather.png?raw=true">
