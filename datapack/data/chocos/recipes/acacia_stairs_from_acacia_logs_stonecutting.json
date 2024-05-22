@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "minecraft:acacia_logs"
+  },
+  "count": 4,
+  "result": "minecraft:acacia_stairs"
+}

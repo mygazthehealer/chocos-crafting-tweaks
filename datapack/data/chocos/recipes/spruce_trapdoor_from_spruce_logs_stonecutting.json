@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "minecraft:spruce_logs"
+  },
+  "count": 4,
+  "result": "minecraft:spruce_trapdoor"
+}

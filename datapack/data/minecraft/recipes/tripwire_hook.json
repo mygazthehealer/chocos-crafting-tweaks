@@ -2,6 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "redstone",
   "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
     "I": {
       "item": "minecraft:iron_ingot"
     },
@@ -11,7 +14,8 @@
   },
   "pattern": [
     "I",
-    "S"
+    "S",
+    "#"
   ],
   "result": {
     "count": 4,
