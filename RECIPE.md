@@ -484,6 +484,5 @@
 
 ### Wooden Planks
 
-- Wood/Hyphae can be Stonecut into Log/Stem, Stripped Log/Stem/Wood/Hyphae, Wooden Planks (and Products)
-- Log/Stem can be Stonecut into Stripped Log/Stem, Wooden Planks (and Products)
+- Log/Stem/Wood/Hyphae can be Stonecut into Stripped Log/Stem/Wood/Hyphae, Wooden Planks (and Products)
 - Wooden Planks can be Stonecut into Wooden Stairs, 2 Slabs, Fence, Fence Gate, Trapdoor, Sign, 2 Pressure Plates and 4 Buttons
