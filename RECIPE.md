@@ -5,11 +5,11 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/stairs_wooden_alt.gif?raw=true">
 
 - Output is 6 Stairs (instead of 4)
+- New Recipe for Stairs (can also be Crafted with 3 Blocks)
 - Quartz Stairs can no longer be Crafted from Quartz Pillar, Chiseled Quartz Block
 - Puppur Stairs can no longer be Crafted from Purpur Pillar
 - Sandstone Stairs can no longer be Crafted from Cut Sandstone, Chiseled Sandstone
 - Red Sandstone Stairs can no longer be Crafted from Cut Red Sandstone, Chiseled Red Sandstone
-- New Recipe for Stairs (can also be Crafted with 3 Blocks)
 <details>
   
 - Added Bamboo Mosaic Stairs to "wooden_stairs" tag
