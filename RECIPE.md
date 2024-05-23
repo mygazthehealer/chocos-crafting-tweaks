@@ -84,6 +84,11 @@
 
 - Output is 3 Bowls (instead of 4)
 
+### Ladder
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/ladder.png?raw=true">
+
+- Output is 6 Ladders (instead of 3)
+
 ### Boat with Chest
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/chestboat.gif?raw=true">
 
@@ -176,6 +181,16 @@
 
 - Input is 3 Redstone Torch, 1 Quartz and 3 Stone/Deepslate (instead of 3 Redstone Torch, 1 Quartz and 3 Stone)
 
+### Activator Rail
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_activator.png?raw=true">
+
+- Input is 1 Redstone Torch and 1 Rail (instead of 1 Redstone Torch, 2 Sticks and 6 Iron Ingots)
+
+### Detector Rail
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_detector.gif?raw=true">
+
+- Input is 1 Stone/Blackstone Pressure Plate and 1 Rail (instead of 1 Stone Pressure Plate, 1 Redstone Dust and 6 Iron Ingots)
+
 ### Deepslate Bricks
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/deepslate_bricks.png?raw=true">
 
@@ -236,41 +251,74 @@
 
 - Input is 4 Bamboo (instead of 1 Block of Bamboo/Block of Stripped Bamboo)
 
-### White Dye
+### Bread
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/bread.png?raw=true">
+
+- Recipe is now Shapeless
+
+### Cookie
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/cookie.png?raw=true">
+
+- Recipe is now Shapeless
+
+### Paper
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/paper.png?raw=true">
+
+- Recipe is now Shapeless
+
+### Dyes from Flowers
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_white.gif?raw=true">
 
 - New Recipe for White Dye (can be Crafted from Azure Bluet, Oxeye Daisy, White Tulip)
 - Output is 1 White Dye (instead of 1 Light Grey Dye)
 
-### Purple Dye
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_purple.png?raw=true">
 
 - New Recipe for Purple Dye (can be Crafted from Allium)
 - Output is 1 Purple Dye (instead of 1 Magenta Dye)
 
-### Pink Dye
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_pink.png?raw=true">
 
 - New Recipe for Pink Dye (can be Crafted from Spore Blossom)
 - Output is 2 Pink Dye
 
-### Black Dye
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_black.gif?raw=true">
 
 - New Recipe for Black Dye (can be Crafted from Coal, Charcoal)
 - Output is 1 Black Dye
 
-### Red Dye
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_red.png?raw=true">
 
-- New Recipe for Red Dye (can be Crafted from Nether Wart)
+- New Recipe for Red Dye (can be Crafted from Crimson Roots)
 - Output is 1 Red Dye
 
-### Cyan Dye
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_cyan.gif?raw=true">
 
-- New Recipe for Cyan Dye (can be Crafted from Nether Sprout, Glow Ink Sac)
+- New Recipe for Cyan Dye (can be Crafted from Warped Roots, Glow Ink Sac)
 - Output is 1 Cyan Dye
+
+### Dyes from Dyes
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_magenta_from_dye.gif?raw=true">
+
+ - Input is 1 Red 1 Blue 2 Pink (instead of 1 Red 1 Blue 1 Pink)
+ - New Recipe for Magenta Dye (can be Crafted from 1 Red 1 Light Blue)
+
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_light_gray_from_dye.gif?raw=true">
+
+ - Input is 1 Black 3 White (instead of 1 Black 2 White)
+ - New Recipe for Gray Dye (can be Crafted from 1 Black 2 Light Gray)
+
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_brown_from_dye.png?raw=true">
+
+ - New Recipe for Brown Dye (can be Crafted from 1 Red 1 Black)
+
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_green_from_dye.png?raw=true">
+
+ - New Recipe for Green Dye (can be Crafted from 1 Yellow 1 Blue)
+
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_lime_from_dye.png?raw=true">
+
+ - New Recipe for Lime Dye (can be Crafted from 1 Yellow 1 White 2 Light Blue)
 
 ### Carpet
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/carpet_wool.gif?raw=true">
@@ -292,9 +340,6 @@
 
 - Output is 4 Lead (instead of 2)
 - New Recipe for Lead (can also be Crafted from 4 String and 1 Honey Bottle)
-<details>
-
-- Created "sticky" tag for Slimeball, Honey Bottle</details>
 
 ### String
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/string.png?raw=true">
@@ -332,9 +377,6 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/item_frame_glow.png?raw=true">
 
 - New Recipe for Glow Item Frame (can also be Crafted from 1 Item Frame and 1 Glowstone Dust)
-<details>
-
-- Created "glow_dyes" tag for Glowstone Dust, Glow Ink Sac</details>
 
 ### Sea Lantern
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/sea_lantern.png?raw=true">
@@ -351,6 +393,16 @@
 
 - New Recipes for Dark Prismarine
 - Input is 8 Prismarine and 1 Black Dye for 4 Dark Prismarine
+
+### Purpur Block
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/purpur_block.png?raw=true">
+
+- Output is 1 Purpur Block (instead of 4)
+
+### Purpur Pillar
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/purpur_pillar.png?raw=true">
+
+- Input is 2 Purpur Block (instead of 2 Purpur Slabs)
 
 ### Blaze Powder
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/blaze_powder.png?raw=true">
@@ -371,10 +423,13 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/leather.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/leather_horse_armour.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_red_from_beetroot.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_activator_removed.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_detector_removed.png?raw=true">
 
 - Vanilla Recipe for Leather (from Rabbit Hide) no longer work
 - Vanilla Recipe for Leather Horse Armour no longer work
 - Vanilla Recipe for Red Dye (from Beetroot) no longer work
+- Vanilla Recipe for Activator and Detector Rail no longer work 
 
 ## Smelting
 ### Gold Ingot
@@ -476,13 +531,25 @@
 
 - Blackstone/Polished Blackstone can be Stonecut into 4 Polished Blackstone Buttons, 2 Polished Blackstone Pressure Plate
 
-### Bamboo
+### Prismarine 
 
-- Bamboo Planks can be Stonecut into Bamboo Mosaic (Stairs/2 Slabs)
-- Bamboo Mosaic can be Stonecut into Bamboo Mosaic Stairs, 2 Slabs
-- Bamboo Block can be Stonecut into Stripped Bamboo Block
+- Prismarine can be Stonecut into Prismarine Bricks (Stairs/2 Slabs)
 
 ### Wooden Planks
 
 - Log/Stem/Wood/Hyphae can be Stonecut into Stripped Log/Stem/Wood/Hyphae, Wooden Planks (and Products)
 - Wooden Planks can be Stonecut into Wooden Stairs, 2 Slabs, Fence, Fence Gate, Trapdoor, Sign, 2 Pressure Plates and 4 Buttons
+
+### Bamboo
+
+- Bamboo Planks can be Stonecut into Bamboo Mosaic (Stairs/2 Slabs)
+- Bamboo Mosaic can be Stonecut into Bamboo Mosaic Stairs, 2 Slabs
+- Bamboo Block can be Stonecut into Stripped Bamboo Block
+<<<<<<< Updated upstream
+
+### Wooden Planks
+
+- Log/Stem/Wood/Hyphae can be Stonecut into Stripped Log/Stem/Wood/Hyphae, Wooden Planks (and Products)
+- Wooden Planks can be Stonecut into Wooden Stairs, 2 Slabs, Fence, Fence Gate, Trapdoor, Sign, 2 Pressure Plates and 4 Buttons
+=======
+>>>>>>> Stashed changes
