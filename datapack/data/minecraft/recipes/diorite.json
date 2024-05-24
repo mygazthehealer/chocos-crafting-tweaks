@@ -3,15 +3,14 @@
   "category": "building",
   "ingredients": [
     {
-      "item": "minecraft:nether_bricks"
+      "item": "minecraft:quartz"
     },
     {
-      "item": "minecraft:nether_wart_block"
+      "item": "minecraft:stone"
     }
   ],
   "result": {
-    "count": 2,
-    "item": "minecraft:red_nether_bricks"
+    "item": "minecraft:diorite"
   },
   "show_notification": true
 }

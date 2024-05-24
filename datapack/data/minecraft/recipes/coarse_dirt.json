@@ -3,15 +3,15 @@
   "category": "building",
   "ingredients": [
     {
-      "item": "minecraft:nether_bricks"
+      "item": "minecraft:dirt"
     },
     {
-      "item": "minecraft:nether_wart_block"
+      "item": "minecraft:gravel"
     }
   ],
   "result": {
     "count": 2,
-    "item": "minecraft:red_nether_bricks"
+    "item": "minecraft:coarse_dirt"
   },
   "show_notification": true
 }

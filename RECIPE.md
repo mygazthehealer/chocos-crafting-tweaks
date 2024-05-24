@@ -121,7 +121,7 @@
 ### Observer
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/observer.png?raw=true">
 
-- Input is 2 Redstone Dust, 1 Quartz and 6 Cobblestone/Cobbled Deepslate/Blackstone (instead of 2 Redstone Dust, 1 Quartz and 6 Cobblestone)
+- Input is 1 Redstone Dust, 1 Quartz and 7 Cobblestone/Cobbled Deepslate/Blackstone (instead of 2 Redstone Dust, 1 Quartz and 6 Cobblestone)
   
 ### Piston
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/piston.png?raw=true">
@@ -224,7 +224,23 @@
 ### Red Nether Bricks
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/red_nether_bricks.png?raw=true">
 
-- New Recipe for Red Nether Bricks (can also be Crafted from 2 Nether Brick Blocks and 2 Nether Wart Blocks)
+- New Recipe for Red Nether Bricks (can also be Crafted from 1 Nether Bricks and 1 Nether Wart Block)
+
+### Coarse Dirt
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/coarse_dirt.png?raw=true">
+
+- Recipe is now Shapeless
+
+### Andesite 
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/andesite.png?raw=true">
+
+- Input is 1 Stone and 1 Diorite (instead of 1 Cobblestone and 1 Diorite)
+
+### Diorite 
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/diorite.png?raw=true">
+
+- Recipe is now Shapeless
+- Input is 1 Stone and 1 Quartz (instead of 2 Stone and 2 Quartz)
 
 ### Packed Ice
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/ice_packed.png?raw=true">
