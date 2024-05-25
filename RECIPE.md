@@ -445,7 +445,7 @@
 - Vanilla Recipe for Leather (from Rabbit Hide) no longer work
 - Vanilla Recipe for Leather Horse Armour no longer work
 - Vanilla Recipe for Red Dye (from Beetroot) no longer work
-- Vanilla Recipe for Activator and Detector Rail no longer work 
+- Vanilla Recipe for Activator Rail and Detector Rail no longer work 
 
 ## Smelting
 ### Gold Ingot
