@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "minecraft:crimson_stems"
+  },
+  "count": 2,
+  "result": "minecraft:crimson_door"
+}
