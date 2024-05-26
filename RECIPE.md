@@ -41,9 +41,11 @@
 
 ### Pressure Plate
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/pressure_plate_wooden_stone.gif?raw=true">
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/pressure_plate_iron_gold.gif?raw=true">
 
 - Output is 4 Pressure Plates (instead of 4 for Wooden Planks, Stone and Polished Blackstone)
+
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/pressure_plate_iron_gold.gif?raw=true">
+
 - Output is 2 Pressure Plates (instead of 1 for Iron and Gold Ingot)
 
 ### Fence
@@ -201,11 +203,6 @@
 
 - Input is 5 Iron Ingots (instead of 5 Iron Ingots and 1 Chest)
 
-### Lightning Rod
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/lightning_rod.png?raw=true">
-
-- Output is 3 Lightning Rods (instead of 1)
-
 ### Enchanted Golden Apple
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/enchanted_golden_apple.png?raw=true">
 
@@ -339,9 +336,11 @@
 ### Carpet
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/carpet_wool.gif?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/carpet_moss.png?raw=true">
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/carpet_snow.png?raw=true">
 
 - Output is 4 Carpets (instead of 3 for Wools and Moss Block)
+
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/carpet_snow.png?raw=true">
+
 - Output is 4 Snows for 2 Snow Blocks (instead of 6 Snows for 3 Snow Blocks)
 
 ### Dyed Candles
@@ -438,13 +437,16 @@
 ### (Removed Recipes)
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/leather.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/leather_horse_armour.png?raw=true">
+
+- Vanilla Recipe for Leather and Leather Horse Armour no longer work
+
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_red_from_beetroot.png?raw=true">
+
+- Vanilla Recipe for Red Dye (from Beetroot) no longer work
+
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_activator_removed.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_detector_removed.png?raw=true">
 
-- Vanilla Recipe for Leather (from Rabbit Hide) no longer work
-- Vanilla Recipe for Leather Horse Armour no longer work
-- Vanilla Recipe for Red Dye (from Beetroot) no longer work
 - Vanilla Recipe for Activator Rail and Detector Rail no longer work 
 
 ## Smelting
