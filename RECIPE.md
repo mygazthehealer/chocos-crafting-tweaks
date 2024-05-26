@@ -424,11 +424,6 @@
 
 - Output is 3 Blaze Powders (instead of 2)
  
-### Flower Pot
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/flower_pot.png?raw=true">
-
-- New Recipe for Flower Pot (can also be Crafted from 3 Terracotta)
-
 ### Pottery Sherds
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/pottery_sherds.gif?raw=true">
 
