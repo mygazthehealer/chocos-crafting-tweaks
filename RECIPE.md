@@ -512,7 +512,7 @@
 ### Glass
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/glass.gif?raw=true">
 
-- Sand can also be Blasted from Sand, Red Sand
+- Glass can also be Blasted from Sand, Red Sand
 
 ### Sponge
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/sponge.png?raw=true">
