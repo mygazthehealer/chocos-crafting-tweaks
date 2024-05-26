@@ -444,6 +444,18 @@
 
 - Vanilla Recipe for Activator Rail and Detector Rail no longer work 
 
+## Smithing
+### Netherite Gear
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smithing/netherite_tools_alt.gif?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smithing/netherite_armour_alt.gif?raw=true">
+
+- Netherite Upgrade Template no longer works
+
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smithing/netherite_tools.gif?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smithing/netherite_armour.gif?raw=true">
+
+- Netherite Gear can be Smithed from Diamond Gear and Netherite Ingot
+
 ## Smelting
 ### Gold Ingot
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/gold_ingot.png?raw=true">
@@ -518,18 +530,6 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/charcoal.gif?raw=true">
 
 - Charcoal can also be Smoked from Log/Wood or Stripped Log/Wood
-
-## Smithing Table
-### Netherite Gear
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smithing/netherite_tools_alt.gif?raw=true">
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smithing/netherite_armour_alt.gif?raw=true">
-
-- Netherite Upgrade Template no longer works
-
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smithing/netherite_tools.gif?raw=true">
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smithing/netherite_armour.gif?raw=true">
-
-- Netherite Gear can be Smithed from Diamond Gear and Netherite Ingot
 
 ## Stonecutting
 ### Deepslate
