@@ -30,9 +30,12 @@
 
 ### Trapdoor
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/trapdoor_wooden.gif?raw=true">
+
+- Output is 6 Trapdoors (instead of 4 for Wooden Planks)
+  
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/trapdoor_iron.png?raw=true">
 
-- Output is 6 Trapdoors (instead of 4 for Wooden Planks, 2 for Iron Ingot)
+- Output is 4 Trapdoors (instead of 2 for Iron Ingot)
 
 ### Button
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/button.gif?raw=true">
