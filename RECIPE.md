@@ -45,7 +45,7 @@
 ### Pressure Plate
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/pressure_plate_wooden_stone.gif?raw=true">
 
-- Output is 4 Pressure Plates (instead of 4 for Wooden Planks, Stone and Polished Blackstone)
+- Output is 4 Pressure Plates (instead of 1 for Wooden Planks, Stone and Polished Blackstone)
 
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/pressure_plate_iron_gold.gif?raw=true">
 
@@ -433,6 +433,11 @@
 - New Recipes for Dark Prismarine
 - Input is 8 Prismarine and 1 Black Dye for 4 Dark Prismarine
 
+### Sculk
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/sculk.png?raw=true">
+
+- New Recipe for Sculk (can be Crafted from 4 Sculk Vein)
+
 ### Purpur Block
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/purpur_block.png?raw=true">
 
@@ -443,10 +448,11 @@
 
 - Input is 2 Purpur Block (instead of 2 Purpur Slabs)
 
-### Sculk
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/sculk.png?raw=true">
+### Shulker Box
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/shulker_box.png?raw=true">
 
-- New Recipe for Sculk (can be Crafted from 4 Sculk Vein)
+- Recipe is now Shapeless
+
 
 ### Blaze Powder
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/blaze_powder.png?raw=true">
@@ -563,12 +569,12 @@
 ## Stonecutting
 ### Deepslate
 
-- Deepslate can be Stonecut into Chiseled Deepslate, Deepslate Bricks (Stairs/2 Slabs/Walls), Deepslate Tiles (Stairs/2 Slabs/Walls), Polished Deepslate (Stairs/Slabs/Walls)
+- Deepslate can be Stonecut into Cobbled Deepslate (Stairs/2 Slabs/Walls), Chiseled Deepslate, Deepslate Bricks (Stairs/2 Slabs/Walls), Deepslate Tiles (Stairs/2 Slabs/Walls), Polished Deepslate (Stairs/Slabs/Walls)
 - Cracked Deepslate Bricks can be Stonecut into Cracked Deepslate Tiles
 
 ### Stone
 
-- Stone can be Stonecut into 4 Stone Buttons, 2 Stone Pressure Plate
+- Stone can be Stonecut into Cobblestone (Stairs/2 Slabs/Walls), 4 Stone Buttons, 2 Stone Pressure Plate
 
 ### Blackstone
 
