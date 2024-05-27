@@ -13,18 +13,6 @@
 <details>
   
 - Added Bamboo Mosaic Stairs to "wooden_stairs" tag
-- Created "cobblestone_stairs" tag for Cobblestone Stairs, Mossy Cobblestone Stairs
-- Created "stone_brick_stairs" tag for Stone Brick Stairs, Mossy Stone Brick Stairs
-- Created "granite_stairs" tag for Granite Stairs, Polished Granite Stairs
-- Created "diorite_stairs" tag for Diorite Stairs, Polished Diorite Stairs
-- Created "andesite_stairs" tag for Andesite Stairs, Polished Andesite Stairs
-- Created "deepslate_stairs" tag for Cobbled Deepslate Stairs, Polished Deepslate Stairs, Deepslate Brick Stairs, Deepslate Tile Stairs
-- Created "sandstone_stairs" tag for Sandstone Stairs, Smooth Sandstone Stairs, Red Sandstone Stairs, Smooth Red Sandstone Stairs
-- Created "prismarine_stairs" tag for Prismarine Stairs, Prismarine Brick Stairs, Dark Prismarine Stairs
-- Created "nether_brick_stairs" tag for Nether Brick Stairs, Red Nether Brick Stairs
-- Created "blackstone_stairs" tag for Blackstone Stairs, Polished Blackstone Stairs, Polished Blackstone Brick Stairs
-- Created "quartz_stairs" tag for Quartz Stairs, Smooth Quartz Stairs
-- Created "cut_copper_stairs" tag for Cut Copper Stairs, Exposed Cut Copper Stairs, Weathered Cut Copper Stairs, Oxidized Cut Copper Stairs
 - Removed "waxed_weathered_cut_copper_stairs" "waxed_oxidized_cut_copper_stairs" "waxed_exposed_cut_copper_stairs" tags
 - Added Waxed Exposed Cut Copper Stairs, Waxed Weathered Cut Copper Stairs, Waxed Oxidized Cut Copper Stairs to "waxed_cut_copper_stairs" tag</details>
 
@@ -71,18 +59,6 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/sign_hanging.gif?raw=true">
 
 - Input is 1 Chain and 6 Stripped Log/Wood or Stem/Hyphae or Bamboo Block (instead of 2 Chain and 6 Stripped Log/Stem/Bamboo Block)
-<details>
-  
-- Created "stripped_oak_logs" tag for Stripped Oak Log, Stripped Oak Wood
-- Created "stripped_spruce_logs" tag for Stripped Spruce Log, Stripped Sprucd Wood
-- Created "stripped_dark_oak_logs" tag for Stripped Dark Oak Log, Stripped Dark Oak Wood
-- Created "stripped_birch_logs" tag for Stripped Birch Log, Stripped Birch Wood
-- Created "stripped_jungle_logs" tag for Stripped Jungle Log, Stripped Jungle Wood
-- Created "stripped_acacia_logs" tag for Stripped Acacia Log, Stripped Acacia Wood
-- Created "stripped_mangrove_logs" tag for Stripped Mangrove Log, Stripped Mangrove Wood
-- Created "stripped_cherry_logs" tag for Stripped Cherry Log, Stripped Cherry Wood
-- Created "stripped_crimson_stems" tag for Stripped Crimson Stem, Stripped Crimson Hyphae
-- Created "stripped_warped_stems" tag for Stripped Warped Stem, Stripped Warped Hyphae</details>
 
 ### Bowls
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/bowl.gif?raw=true">
@@ -137,33 +113,21 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/stonecutter.png?raw=true">
 
 - Input is 1 Iron Ingot and 3 Stone/Deepslate (instead of 1 Iron Ingot and 3 Stone)
-<details>
-
-- Created "stones" tag for Stone, Deepslate</details>
   
 ### Lodestone
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/lodestone.png?raw=true">
 
 - Input is 8 Chiseled Stone Bricks/Chiseled Deepslate/Chiseled Polished Blackstone and 1 Netherite Ingot (instead of 8 Chiseled Stone Bricks and 1 Netherite Ingot)
-<details>
-
-- Created "chiseled_stones" tag for Chiseled Stone Bricks, Chiseled Deepslate, Chiseled Polished Blackstone</details>
 
 ### Blast Furnace
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/blast_furnace.png?raw=true">
 
 - Input is 5 Iron Ingots, 1 Furnace and 3 Smoothstone/Polished Deepslate/Polished Blackstone (instead of 5 Iron Ingots, 1 Furnace and 3 Smoothstone)
-<details>
-
-- Created "smooth_stones" tag for Smoothstone, Polished Deepslate, Polished Blackstone</details>
 
 ### Armour Stand
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/armour_stand.gif?raw=true">
 
 - Input is 6 Sticks and 1 Smoothstone Slab/Polished Deepslate Slab/Polished Blackstone Slab (instead of 6 Sticks and 1 Smoothstone Slab)
-<details>
-
-- Created "smooth_stones_slab" tag for Smoothstone Slab, Polished Deepslate Slab, Polished Blackstone Slab</details>
 
 ### Lever
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/lever.gif?raw=true">
@@ -583,6 +547,10 @@
 ### Prismarine 
 
 - Prismarine can be Stonecut into Prismarine Bricks (Stairs/2 Slabs)
+
+### Cut Copper
+
+- Copper can be Stonecut into 1 Cut Copper/Products (instead of 4) (also applies to Waxed/Exposed/Weathered/Oxidised Cut Copper/Products)
 
 ### Wooden Planks
 

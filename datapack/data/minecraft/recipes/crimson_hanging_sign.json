@@ -1,11 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
+  "category": "building",
   "group": "hanging_sign",
   "key": {
-    "#": {
-      "tag": "minecraft:stripped_crimson_stems"
+    "#": [
+      {
+      "item": "minecraft:stripped_crimson_stem"
     },
+      {
+      "item": "minecraft:stripped_crimson_hyphae"
+    }
+  ],
     "X": {
       "item": "minecraft:chain"
     }
@@ -18,6 +23,5 @@
   "result": {
     "count": 6,
     "item": "minecraft:crimson_hanging_sign"
-  },
-  "show_notification": true
+  }
 }

@@ -5,9 +5,14 @@
     "#": {
       "item": "minecraft:redstone_torch"
     },
-    "I": {
-      "tag": "minecraft:stones"
+    "I": [
+      {
+        "tag": "minecraft:stone"
     },
+      {
+        "tag": "minecraft:deepslate"
+    }
+  ],
     "X": {
       "item": "minecraft:quartz"
     }
@@ -18,7 +23,7 @@
     "III"
   ],
   "result": {
+    "count": 1,
     "item": "minecraft:comparator"
-  },
-  "show_notification": true
+  }
 }

@@ -5,9 +5,14 @@
     "#": {
       "item": "minecraft:redstone_torch"
     },
-    "I": {
-      "tag": "minecraft:stones"
+    "I": [
+      {
+        "tag": "minecraft:stone"
     },
+      {
+        "tag": "minecraft:deepslate"
+    }
+  ],
     "X": {
       "item": "minecraft:redstone"
     }
@@ -17,7 +22,7 @@
     "III"
   ],
   "result": {
+    "count": 1,
     "item": "minecraft:repeater"
-  },
-  "show_notification": true
+  }
 }

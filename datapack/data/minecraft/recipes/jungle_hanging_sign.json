@@ -1,11 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
+  "category": "building",
   "group": "hanging_sign",
   "key": {
-    "#": {
-      "tag": "minecraft:stripped_jungle_logs"
+    "#": [
+      {
+      "item": "minecraft:stripped_jungle_log"
     },
+      {
+      "item": "minecraft:stripped_jungle_wood"
+    }
+  ],
     "X": {
       "item": "minecraft:chain"
     }
@@ -18,6 +23,5 @@
   "result": {
     "count": 6,
     "item": "minecraft:jungle_hanging_sign"
-  },
-  "show_notification": true
+  }
 }

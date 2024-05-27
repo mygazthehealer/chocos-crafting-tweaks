@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
+  "category": "building",
   "group": "wooden_fence",
   "key": {
     "#": {
@@ -17,6 +17,5 @@
   "result": {
     "count": 4,
     "item": "minecraft:crimson_fence"
-  },
-  "show_notification": true
+  }
 }

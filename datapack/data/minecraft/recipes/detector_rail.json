@@ -2,14 +2,20 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
+    [
+      {
+        "item": "minecraft:stone_pressure_plate"
+    },
+      {
+        "item": "minecraft:polished_blackstone_pressure_plate"
+    }
+    ],
     {
-      "tag": "minecraft:stone_pressure_plates"
-    },{
       "item": "minecraft:rail"
     }
   ],
   "result": {
+    "count": 1,
     "item": "minecraft:detector_rail"
-  },
-  "show_notification": true
+  }
 }

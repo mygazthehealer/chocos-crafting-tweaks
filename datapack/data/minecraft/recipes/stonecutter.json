@@ -2,9 +2,14 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "minecraft:stones"
+    "#": [
+      {
+        "tag": "minecraft:stone"
     },
+      {
+        "tag": "minecraft:deepslate"
+    }
+  ],
     "I": {
       "item": "minecraft:iron_ingot"
     }
@@ -14,7 +19,7 @@
     "###"
   ],
   "result": {
+    "count": 1,
     "item": "minecraft:stonecutter"
-  },
-  "show_notification": true
+  }
 }

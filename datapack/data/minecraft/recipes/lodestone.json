@@ -5,9 +5,17 @@
     "#": {
       "item": "minecraft:netherite_ingot"
     },
-    "S": {
-      "tag": "minecraft:chiseled_stones"
+    "S": [
+      {
+      "item": "minecraft:chiseled_stone_bricks"
+    },
+      {
+      "item": "minecraft:chiseled_polished_blackstone"
+    },
+      {
+      "item": "minecraft:chiseled_deepslate"
     }
+  ]
   },
   "pattern": [
     "SSS",
@@ -15,7 +23,7 @@
     "SSS"
   ],
   "result": {
+    "count": 1,
     "item": "minecraft:lodestone"
-  },
-  "show_notification": true
+  }
 }

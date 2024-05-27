@@ -1,13 +1,21 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
+  "category": "building",
   "key": {
     "/": {
       "item": "minecraft:stick"
     },
-    "_": {
-      "tag": "minecraft:smooth_stones_slab"
+    "_": [
+      {
+      "item": "minecraft:smooth_stone_slab"
+    },
+      {
+      "item": "minecraft:polished_deepslate_slab"
+    },
+      {
+      "item": "minecraft:polished_blackstone_slab"
     }
+    ]
   },
   "pattern": [
     "///",
@@ -15,7 +23,7 @@
     "/_/"
   ],
   "result": {
+    "count": 1,
     "item": "minecraft:armor_stand"
-  },
-  "show_notification": true
+  }
 }
