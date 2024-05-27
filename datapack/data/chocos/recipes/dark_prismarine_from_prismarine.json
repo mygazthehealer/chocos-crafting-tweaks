@@ -5,9 +5,14 @@
     "I": {
       "item": "minecraft:black_dye"
     },
-    "S": {
+    "S": [
+      {
       "item": "minecraft:prismarine"
+    },
+    {
+      "item": "minecraft:prismarine_bricks"
     }
+  ]
   },
   "pattern": [
     "SSS",

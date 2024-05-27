@@ -428,10 +428,10 @@
 - Output is 4 Prismarine Bricks for 4 Prismarine (instead of 1 Prismarine Brick for 9 Prismarine Shards)
 
 ### Dark Prismarine
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/prismarine_dark.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/prismarine_dark.gif?raw=true">
 
 - New Recipes for Dark Prismarine
-- Input is 8 Prismarine and 1 Black Dye for 4 Dark Prismarine
+- Input is 8 Prismarine/Ptismarine Bricks and 1 Black Dye for 4 Dark Prismarine
 
 ### Sculk
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/sculk.png?raw=true">
