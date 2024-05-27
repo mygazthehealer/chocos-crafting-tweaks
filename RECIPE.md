@@ -201,6 +201,21 @@
 
 - Input is 4 Deepslate (instead of 4 Polished Deepslate)
 
+### Cracked Deepslate Tiles
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/cracked_deepslate_tiles.png?raw=true">
+
+- New Recipe for Cracked Deepslate Tiles (can be crafted from 4 Cracked Deepslate Bricks)
+
+### Mossy Cobblestone
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/mossy_cobblestone.gif?raw=true">
+
+- New Recipe for Mossy Cobblestone Stairs/Slabs/Walls (can be crafted from 1 Cobblestone Stairs/Slabs/Walls and 1 Vine/Moss Block)
+
+### Mossy Stone Bricks
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/mossy_stone_bricks.gif?raw=true">
+
+- New Recipe for Mossy Stone Bricks Stairs/Slabs/Walls (can be crafted from 1 Stone Bricks Stairs/Slabs/Walls and 1 Vine/Moss Block)
+
 ### Hopper
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/hopper.png?raw=true">
 
@@ -267,6 +282,12 @@
 
 - Input is 4 Bamboo (instead of 1 Block of Bamboo/Block of Stripped Bamboo)
 
+### Coral Blocks
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/coral_block.gif?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dead_coral_block.gif?raw=true">
+
+- New Recipe for Coral Block/Dead Coral Block (can be Crafted from 4 Coral/Dead Coral)
+
 ### Bread
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/bread.png?raw=true">
 
@@ -316,25 +337,25 @@
 ### Dyes from Dyes
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_magenta_from_dye.gif?raw=true">
 
- - Input is 1 Red 1 Blue 2 Pink (instead of 1 Red 1 Blue 1 Pink)
- - New Recipe for Magenta Dye (can be Crafted from 1 Red 1 Light Blue)
+- Input is 1 Red 1 Blue 2 Pink (instead of 1 Red 1 Blue 1 Pink)
+- New Recipe for Magenta Dye (can be Crafted from 1 Red 1 Light Blue)
 
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_light_gray_from_dye.gif?raw=true">
 
- - Input is 1 Black 3 White (instead of 1 Black 2 White)
- - New Recipe for Gray Dye (can be Crafted from 1 Black 2 Light Gray)
+- Input is 1 Black 3 White (instead of 1 Black 2 White)
+- New Recipe for Gray Dye (can be Crafted from 1 Black 2 Light Gray)
 
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_brown_from_dye.png?raw=true">
 
- - New Recipe for Brown Dye (can be Crafted from 1 Red 1 Black)
+- New Recipe for Brown Dye (can be Crafted from 1 Red 1 Black)
 
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_green_from_dye.png?raw=true">
 
- - New Recipe for Green Dye (can be Crafted from 1 Yellow 1 Blue)
+- New Recipe for Green Dye (can be Crafted from 1 Yellow 1 Blue)
 
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_lime_from_dye.png?raw=true">
 
- - New Recipe for Lime Dye (can be Crafted from 1 Yellow 1 White 2 Light Blue)
+- New Recipe for Lime Dye (can be Crafted from 1 Yellow 1 White 2 Light Blue)
 
 ### Carpet
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/carpet_wool.gif?raw=true">
@@ -421,6 +442,11 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/purpur_pillar.png?raw=true">
 
 - Input is 2 Purpur Block (instead of 2 Purpur Slabs)
+
+### Sculk
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/sculk.png?raw=true">
+
+- New Recipe for Sculk (can be Crafted from 4 Sculk Vein)
 
 ### Blaze Powder
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/blaze_powder.png?raw=true">
@@ -538,6 +564,7 @@
 ### Deepslate
 
 - Deepslate can be Stonecut into Chiseled Deepslate, Deepslate Bricks (Stairs/2 Slabs/Walls), Deepslate Tiles (Stairs/2 Slabs/Walls), Polished Deepslate (Stairs/Slabs/Walls)
+- Cracked Deepslate Bricks can be Stonecut into Cracked Deepslate Tiles
 
 ### Stone
 

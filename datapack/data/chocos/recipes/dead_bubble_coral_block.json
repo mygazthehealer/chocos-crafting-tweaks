@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "dead_coral_blocks",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+        "item": "minecraft:dead_bubble_coral"
+    }
+  },
+  "result": {
+    "count": 1,
+    "item": "minecraft:dead_bubble_coral_block"
+  }
+}
