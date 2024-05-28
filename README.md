@@ -1,4 +1,4 @@
-# Chocos' Crafting Tweaks (wip)
+# Chocos' Crafting Tweaks
 
 CCT is a minecraft datapack created to improve the vanilla building experience by correcting inconsistent recipes and adding new recipes for greater variety.
 
