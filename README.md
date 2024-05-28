@@ -29,4 +29,4 @@ Join [MCS](https://discord.com/invite/NtVxyW5) and visit the [CCT brainforum](ht
 - More stonecutting recipes for Deepslate, Prismarine, Stone and Blackstone
 - Stonecutting recipes for Logs and Planks
 
-(for the complete list of changes, read the [CCT Wiki](https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/RECIPE.md)
+(for the complete list of changes, read the [CCT Wiki](https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/RECIPE.md))
