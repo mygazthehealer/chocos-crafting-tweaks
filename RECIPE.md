@@ -140,6 +140,11 @@
 
 - Output is 4 (instead of 1)
 
+### Redstone Torch
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/redstone_torch.png?raw=true">
+
+- Output is 4 (instead of 1)
+
 ### Repeater
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/repeater.png?raw=true">
 
