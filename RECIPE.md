@@ -332,8 +332,8 @@
 - Output is 4 Snows for 2 Snow Blocks (instead of 6 Snows for 3 Snow Blocks)
 
 ### Dyed Candles
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/candle_dyed.gif?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/candle.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/candle_dyed.gif?raw=true">
 
 - Output is 4 Candles (instead of 1)
 - New Recipe for Dyed Candles (can also be Crafted from 1 String, 1 Honeycomb and 1 Dye)
@@ -414,9 +414,10 @@
 
 ### Shulker Box
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/shulker_box.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/shulker_box_dyed.gif?raw=true">
 
 - Recipe is now Shapeless
-
+- New Recipe for Dyed Shulker Box (cab be Crafted from 2 Shulker Shells, 1 Chest and 1 Dye)
 
 ### Blaze Powder
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/blaze_powder.png?raw=true">
