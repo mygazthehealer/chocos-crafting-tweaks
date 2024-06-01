@@ -4,10 +4,10 @@
   "key": {
     "#": [
       {
-        "tag": "minecraft:stone"
+        "item": "minecraft:stone"
     },
       {
-        "tag": "minecraft:deepslate"
+        "item": "minecraft:deepslate"
     }
   ],
     "I": {
