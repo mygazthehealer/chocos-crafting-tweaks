@@ -23,6 +23,7 @@ Join [MCS](https://discord.com/invite/NtVxyW5) and visit the [CCT brainforum](ht
 - Rabbit Hide can be substituted for Leather
 - Shapeless recipe for Undyed and Dyed Shulker Box
 - New recipe for Pottery Sherd duping
+- Leather from Rabbit Hide, Leather Horse Armour crafting recipes no longer work
 - Smithing Netherite gear no longer requires Upgrade Template
 - Gilded Blackstone can now be smelted to Gold Ingot
 - Nylium can now be smelted to Nether Brick
