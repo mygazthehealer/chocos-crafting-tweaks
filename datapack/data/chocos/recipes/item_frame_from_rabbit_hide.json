@@ -16,7 +16,7 @@
     "###"
   ],
   "result": {
+    "count": 1,
     "item": "minecraft:item_frame"
-  },
-  "show_notification": true
+  }
 }

@@ -1,16 +1,17 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "building",
-  "pattern": [
-    "##",
-    "##"
-  ],
   "key": {
     "#": {
       "item": "minecraft:sculk_vein"
     }
   },
+  "pattern": [
+    "##",
+    "##"
+  ],
   "result": {
+    "count": 1,
     "item": "minecraft:sculk"
   }
 }
