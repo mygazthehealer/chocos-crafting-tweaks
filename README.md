@@ -26,7 +26,7 @@ Join [MCS](https://discord.com/invite/NtVxyW5) and visit the [CCT brainforum](ht
 - Leather from Rabbit Hide, Leather Horse Armour crafting recipes no longer work
 - Smithing Netherite gear no longer requires Upgrade Template
 - Gilded Blackstone can now be smelted to Gold Ingot
-- Nylium can now be smelted to Nether Brick
+- Crimson Nylium, Warped Nylium can now be smelted to Nether Brick
 - Furnace-exclusive items can now be smelted in either Blast Furnace or Smoker
 - More stonecutting recipes for Deepslate, Stone, Blackstone, Prismarine
 - Consistent stonecutting yield for Cut Copper items
