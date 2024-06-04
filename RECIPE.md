@@ -435,8 +435,8 @@
 - New Recipe for Pottery Sherds (can be Crafted from 1 Pottery Sherd and 1 Brick)
   
 ### (Removed Recipes)
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/leather.png?raw=true">
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/leather_horse_armour.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/leather_removed.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/leather_horse_armour_removed.png?raw=true">
 
 - Vanilla Recipe for Leather and Leather Horse Armour no longer work
 
@@ -447,7 +447,11 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_activator_removed.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_detector_removed.png?raw=true">
 
-- Vanilla Recipe for Activator Rail and Detector Rail no longer work 
+- Vanilla Recipe for Activator Rail and Detector Rail replaced
+
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/sea_lantern_removed.png?raw=true">
+
+- Vanilla Recipe for Sea Lantern replaced
 
 ## Smithing
 ### Netherite Gear
