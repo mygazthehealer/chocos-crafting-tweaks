@@ -432,7 +432,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/prismarine_dark.gif?raw=true">
 
 - New Recipes for Dark Prismarine
-- Input is 8 Prismarine/Ptismarine Bricks and 1 Black Dye for 4 Dark Prismarine
+- Input is 8 Prismarine/Prismarine Bricks and 1 Black Dye for 4 Dark Prismarine
 
 ### Sculk
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/sculk.png?raw=true">
@@ -474,7 +474,7 @@
 
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_red_from_beetroot.png?raw=true">
 
-- Vanilla Recipe for Red Dye (from Beetroot) no longer work
+- Vanilla Recipe for Red Dye (from Beetroot) moved
 
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_activator_removed.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_detector_removed.png?raw=true">
