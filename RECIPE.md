@@ -405,7 +405,7 @@
 ### Spectral Arrow
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/arrow_glow.png?raw=true">
 
-- Recipe can now be Crafted 2x2
+- Recipe is now Shapeless
 - Input is 1 Arrow and 1 Glowstone Dust for 1 Spectral Arrow (instead of 1 Arrow and 4 Glowstone Dust for 2 Spectral Arrow)
 
 ### Soul Torch
@@ -414,7 +414,7 @@
 - Recipe can now be Crafted 2x2
 
 ### Brush
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/brush.gif?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/brush.png?raw=true">
 
 - Recipe can now be Crafted 2x2
 
