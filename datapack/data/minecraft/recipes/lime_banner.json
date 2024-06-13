@@ -1,23 +1,23 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "group": "item_frame",
+  "group": "banner",
   "key": {
     "#": {
-      "item": "minecraft:stick"
+      "item": "minecraft:lime_wool"
     },
-    "X": {
-      "item": "minecraft:leather"
+    "|": {
+      "item": "minecraft:stick"
     }
   },
   "pattern": [
-    " # ",
-    "#X#",
-    " # "
+    "#",
+    "#",
+    "|"
   ],
   "result": {
     "count": 1,
-    "item": "minecraft:item_frame"
+    "item": "minecraft:lime_banner"
   },
   "show_notification": true
 }

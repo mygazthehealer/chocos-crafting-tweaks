@@ -138,6 +138,7 @@
 ### Tripwire Hook
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/tripwire_hook.png?raw=true">
 
+- Recipe can now be Crafted 2x2
 - Output is 4 (instead of 1)
 
 ### Redstone Torch
@@ -336,6 +337,11 @@
 
 - Output is 4 Snows for 2 Snow Blocks (instead of 6 Snows for 3 Snow Blocks)
 
+### Banner
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/banner.gif?raw=true">
+
+- Input is 1 Stick and 2 Wool (instead of 1 Stick and 6 Wool)
+
 ### Dyed Candles
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/candle.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/candle_dyed.gif?raw=true">
@@ -377,14 +383,40 @@
 - New Recipe for Book (can also be Crafted from 3 Paper and 1 Rabbit Hide)
 
 ### Item Frame
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/item_frame.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/item_frame.gif?raw=true">
 
-- New Recipe for Item Frame (can also be Crafted from 8 Sticks and 1 Rabbit Hide)
+- Input is 4 Sticks and 1 Leather/Rabbit Hide (instead of 8 Sticks and 1 Leather)
 
 ### Glow Item Frame
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/item_frame_glow.png?raw=true">
 
 - New Recipe for Glow Item Frame (can also be Crafted from 1 Item Frame and 1 Glowstone Dust)
+
+### Painting
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/painting.png?raw=true">
+
+- Input is 4 Sticks and 1 Wool (instead of 8 Sticks and 1 Wool)
+
+### Arrow
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/arrow.png?raw=true">
+
+- Recipe can now be Crafted 2x2
+
+### Spectral Arrow
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/arrow_glow.png?raw=true">
+
+- Recipe can now be Crafted 2x2
+- Input is 1 Arrow and 1 Glowstone Dust for 1 Spectral Arrow (instead of 1 Arrow and 4 Glowstone Dust for 2 Spectral Arrow)
+
+### Soul Torch
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/soul_torch.gif?raw=true">
+
+- Recipe can now be Crafted 2x2
+
+### Brush
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/brush.gif?raw=true">
+
+- Recipe can now be Crafted 2x2
 
 ### Sea Lantern
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/sea_lantern.png?raw=true">

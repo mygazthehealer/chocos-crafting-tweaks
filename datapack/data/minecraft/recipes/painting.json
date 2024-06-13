@@ -1,13 +1,12 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "group": "item_frame",
   "key": {
     "#": {
       "item": "minecraft:stick"
     },
     "X": {
-      "item": "minecraft:rabbit_hide"
+      "tag": "minecraft:wool"
     }
   },
   "pattern": [
@@ -16,7 +15,7 @@
     " # "
   ],
   "result": {
-    "count": 1,
-    "item": "minecraft:item_frame"
-  }
+    "item": "minecraft:painting"
+  },
+  "show_notification": true
 }

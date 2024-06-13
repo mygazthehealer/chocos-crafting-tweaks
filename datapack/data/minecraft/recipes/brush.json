@@ -1,23 +1,24 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "group": "item_frame",
+  "category": "equipment",
   "key": {
     "#": {
+      "item": "minecraft:copper_ingot"
+    },
+    "I": {
       "item": "minecraft:stick"
     },
     "X": {
-      "item": "minecraft:leather"
+      "item": "minecraft:feather"
     }
   },
   "pattern": [
-    " # ",
-    "#X#",
-    " # "
+    " X",
+    "I#"
   ],
   "result": {
     "count": 1,
-    "item": "minecraft:item_frame"
+    "item": "minecraft:brush"
   },
   "show_notification": true
 }
