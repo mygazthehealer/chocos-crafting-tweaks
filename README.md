@@ -4,6 +4,8 @@ CCT is a minecraft datapack created to improve the vanilla building experience b
 
 Join [MCS](https://discord.com/invite/NtVxyW5) and visit the [CVT brainforum](https://discord.com/channels/308744621616529410/1243802341824663602) for discussions on existing recipes and suggestions for new content.
 
+For the complete list of changes, read the [CCT Wiki](https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/RECIPE.md). If you dislike a certain recipe but still want to use the datapack, you may delete the .json file corresponding to that recipe.
+
 ## Features
 - Consistent Stair, Trapdoor, Fence, Fence Gate, Pressure Plate, Sign, Carpet yield
 - Increased Button, Ladder, Lever, Tripwire Hook, Redstone Torch, Candle, Lead yield
@@ -31,5 +33,3 @@ Join [MCS](https://discord.com/invite/NtVxyW5) and visit the [CVT brainforum](ht
 - More stonecutting recipes for Deepslate, Stone, Blackstone, Prismarine
 - Consistent stonecutting yield for Cut Copper items
 - Stonecutting recipes for Log/Stem, Wood/Hyphae and Planks
-
-(for the complete list of changes, read the [CCT Wiki](https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/RECIPE.md))
