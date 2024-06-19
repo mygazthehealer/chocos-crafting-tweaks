@@ -28,5 +28,6 @@
   "result": {
     "count": 1,
     "item": "minecraft:blast_furnace"
-  }
+  },
+  "show_notification": true
 }

@@ -17,5 +17,6 @@
   "result": {
     "count": 1,
     "item": "minecraft:loom"
-  }
+  },
+  "show_notification": true
 }

@@ -21,5 +21,6 @@
   "result": {
     "count": 1,
     "item": "minecraft:stonecutter"
-  }
+  },
+  "show_notification": true
 }

@@ -13,5 +13,6 @@
   "result": {
     "count": 1,
     "item": "minecraft:sea_lantern"
-  }
+  },
+  "show_notification": true
 }

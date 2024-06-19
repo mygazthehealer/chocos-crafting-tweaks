@@ -16,5 +16,6 @@
   "result": {
     "count": 4,
     "item": "minecraft:candle"
-  }
+  },
+  "show_notification": true
 }

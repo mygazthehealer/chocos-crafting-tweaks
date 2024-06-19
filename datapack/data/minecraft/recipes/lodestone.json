@@ -25,5 +25,6 @@
   "result": {
     "count": 1,
     "item": "minecraft:lodestone"
-  }
+  },
+  "show_notification": true
 }

@@ -15,5 +15,6 @@
   "result": {
     "count": 1,
     "item": "minecraft:bread"
-  }
+  },
+  "show_notification": true
 }
