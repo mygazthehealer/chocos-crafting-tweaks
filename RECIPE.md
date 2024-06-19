@@ -191,6 +191,16 @@
 
 - Input is 5 Iron Ingots (instead of 5 Iron Ingots and 1 Chest)
 
+### Anvil
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/anvil_chipped.png?raw=true">
+
+- New Recipe for Anvil (can be crafted from 1 Chipped Anvil and 1 Iron Block)
+
+### Chipped Anvil
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/anvil_damaged.png?raw=true">
+
+- New Recipe for Chipped Anvil (can be crafted from 1 Damaged Anvil and 1 Iron Block)
+
 ### Enchanted Golden Apple
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/enchanted_golden_apple.png?raw=true">
 
@@ -257,6 +267,11 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dead_coral_block.gif?raw=true">
 
 - New Recipe for Coral Block/Dead Coral Block (can be Crafted from 4 Coral/Dead Coral)
+
+### Bucket of Fish
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/bucket_fish.gif?raw=true">
+
+- New Recipfe for Bucket of Salmon/Cod/Pufferfish/Tropical Fish (can be Crafted from 1 Water Bucket and 1 Salmon/Cod/Pufferfish/Tropical Fish)
 
 ### Bread
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/bread.png?raw=true">
@@ -407,6 +422,17 @@
 
 - Recipe is now Shapeless
 - Input is 1 Arrow and 1 Glowstone Dust for 1 Spectral Arrow (instead of 1 Arrow and 4 Glowstone Dust for 2 Spectral Arrow)
+
+### Tinted Glass
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/tinted_glass.png?raw=true">
+
+- Recipe is now Shapeless
+- Input is 1 Glass and 1 Amethyst Shard for 1 Tinted Glass (instead of 1 Glass and 4 Amethyst Shard for 2 Tinted Glass)
+
+### Concrete
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/concrete.gif?raw=true">
+
+- Input is 4 Sand/Red Sand, 4 Gravel and 1 Dye (instead of 4 Sand, 4 Gravel and 1 Dye)
 
 ### Soul Torch
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/soul_torch.gif?raw=true">
@@ -559,8 +585,15 @@
 
 ### Glass
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/glass.gif?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/glass_from_stained_glass.gif?raw=true">
 
 - Glass can also be Blasted from Sand, Red Sand
+- Glass can also be Smelted/Blasted from Stained Glass
+
+### Glass Pane
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/glass_pane.gif?raw=true">
+
+- Glass Pane can also be Smelted/Blasted from Stained Glass Pane
 
 ### Sponge
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/sponge.png?raw=true">
@@ -571,6 +604,51 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/charcoal.gif?raw=true">
 
 - Charcoal can also be Smoked from Log/Wood or Stripped Log/Wood
+
+### Iron Nugget
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/shears.png?raw=true">
+
+- Shears can be Smelted/Blasted to yield Iron Nugget
+
+### Iron Block
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/block_iron.png?raw=true">
+
+- Raw Iron Block can be Smelted/Blasted to yield Iron Block
+
+### Gold Block
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/block_gold.png?raw=true">
+
+- Raw Gold Block can be Smelted/Blasted to yield Gold Block
+
+### Copper Block
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/block_copper.png?raw=true">
+
+- Raw Copper Block can be Smelted/Blasted to yield Copper Block
+
+### (Removed Recipes)
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/horse_armour_gold_removed.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/horse_armour_iron_removed.png?raw=true">
+
+- Golden Horse Armour can no longer be Smelted/Blasted to yield Gold Nugget
+- Iron Horse Armour can no longer be Smelted/Blasted to yield Iron Nugget
+
+### (Planned Recipes)
+
+- Golden Hoe, Golden Sword can be Smelted/Blasted to yield 2 Gold Nuggets
+- Golden Axe, Golden Pickaxe can be Smelted/Blasted to yield 3 Gold Nuggets
+- Golden Boots can be Smelted/Blasted to yield 4 Gold Nuggets
+- Golden Helmet can be Smelted/Blasted to yield 5 Gold Nuggets
+- Golden Leggings can be Smelted/Blasted to yield 7 Gold Nuggets
+- Golden Chestplate can be Smelted/Blasted to yield 8 Gold Nuggets
+
+- Iron Hoe, Iron Sword, Shears can be Smelted/Blasted to yield 2 Iron Nuggets
+- Iron Axe, Iron Pickaxe can be Smelted/Blasted to yield 3 Iron Nuggets
+- Iron Boots, Chainmail Boots can be Smelted/Blasted to yield 4 Iron Nuggets
+- Iron Helmet, Chainmail Helmet can be Smelted/Blasted to yield 5 Iron Nuggets
+- Iron Leggings, Chainmail Leggings can be Smelted/Blasted to yield 7 Iron Nuggets
+- Iron Chestplate, Chainmail Chestplate can be Smelted/Blasted to yield 8 Iron Nuggets
+
+(This is currently not possible since Smelting/Blasting/Smoking does not allow "result" to have "count" parameter, hence the output cannot yield more than one item)
 
 ## Stonecutting
 ### Deepslate
