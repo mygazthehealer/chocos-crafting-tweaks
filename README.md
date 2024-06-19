@@ -23,7 +23,8 @@ For the complete list of changes, read the [CCT Wiki](https://github.com/mygazth
 - New recipes for Bucket of Salmon, Cod, Pufferfish, Tropical Fish
 - Shapeless recipes for Bread, Cookie, Paper
 - More recipes for Dyes from Flowers, other Dyes and Smelting
-- Red Sand can be substituted for Sand (in Dyed Concrete)
+- Red Sand can be substituted for Sand (in Concrete Powder)
+- New recipes for Concrete, Wet Sponge
 - String from Cobwebs (removed Bedrock Edition recipe)
 - Cheaper recipes for Upgrade/Smithing Template 
 - Rabbit Hide can be substituted for Leather (in Armour, Book, Item Frame)

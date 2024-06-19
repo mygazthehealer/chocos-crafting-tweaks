@@ -273,6 +273,11 @@
 
 - New Recipe for Coral Block/Dead Coral Block (can be Crafted from 4 Coral/Dead Coral)
 
+### Wet Sponge
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/wet_sponge.png?raw=true">
+
+- New Recipe for Wet Sponge (can be Crafted from 4 Sponge and 1 Water Bucket)
+
 ### Bucket of Fish
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/bucket_fish.gif?raw=true">
 
@@ -369,10 +374,15 @@
 - Output is 4 Candles (instead of 1)
 - New Recipe for Dyed Candles (can also be Crafted from 1 String, 1 Honeycomb and 1 Dye)
 
+### Concrete Powder
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/concrete_powder.gif?raw=true">
+
+- Input is 4 Sand/Red Sand, 4 Gravel and 1 Dye (instead of 4 Sand, 4 Gravel and 1 Dye)
+
 ### Concrete
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/concrete.gif?raw=true">
 
-- Input is 4 Sand/Red Sand, 4 Gravel and 1 Dye (instead of 4 Sand, 4 Gravel and 1 Dye)
+- New Recipe for Concrete (can be Crafted from 8 Concrete Powder and 1 Water Bucket)
 
 ### Lead
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/lead.gif?raw=true">
