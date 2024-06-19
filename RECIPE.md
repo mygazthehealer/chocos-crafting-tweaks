@@ -276,7 +276,7 @@
 ### Bucket of Fish
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/bucket_fish.gif?raw=true">
 
-- New Recipfe for Bucket of Salmon/Cod/Pufferfish/Tropical Fish (can be Crafted from 1 Water Bucket and 1 Salmon/Cod/Pufferfish/Tropical Fish)
+- New Recipe for Bucket of Salmon/Cod/Pufferfish/Tropical Fish (can be Crafted from 1 Water Bucket and 1 Salmon/Cod/Pufferfish/Tropical Fish)
 
 ### Bread
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/bread.png?raw=true">
@@ -514,6 +514,15 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/sea_lantern_removed.png?raw=true">
 
 - Vanilla Recipe for Sea Lantern replaced
+
+### (Planned Recipes)
+
+- Mossy Block and Brush/Shears can be crafted to yield Block (with Brush/Shears left minus 1 Durability)
+- Concrete Powder and Water Bottle can be crafted to yield Concrete (with Glass Bottle left)
+- Dirt/Grass Block and Water Bottle can be crafted to yield Mud (with Glass Bottle left)
+- Sponge and Water Bottle can be crafted to yield Wet Sponge (with Glass Bottle left)
+
+(This can be partially implemented via Water Buckets, but I would prefer precise recipes involving stackable Water Bottles)
 
 ## Smithing
 ### Netherite Gear
