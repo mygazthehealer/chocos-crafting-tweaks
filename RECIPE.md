@@ -521,8 +521,11 @@
 - Concrete Powder and Water Bottle can be crafted to yield Concrete (with Glass Bottle left)
 - Dirt/Grass Block and Water Bottle can be crafted to yield Mud (with Glass Bottle left)
 - Sponge and Water Bottle can be crafted to yield Wet Sponge (with Glass Bottle left)
+- OR using Water Bottle on Concrete Powder converts it into Concrete
+- OR using Water Bottle on Grass Block converts it into Mud
+- OR using Water Bottle on Sponge converts it into Wet Sponge
 
-(This can be partially implemented via Water Buckets, but I would prefer precise recipes involving stackable Water Bottles)
+(This can be partially implemented via Water Buckets, but I would prefer precise recipes or interactions involving stackable Water Bottles)
 
 ## Smithing
 ### Netherite Gear
@@ -653,7 +656,6 @@
 - Golden Helmet can be Smelted/Blasted to yield 5 Gold Nuggets
 - Golden Leggings can be Smelted/Blasted to yield 7 Gold Nuggets
 - Golden Chestplate can be Smelted/Blasted to yield 8 Gold Nuggets
-
 - Iron Hoe, Iron Sword, Shears can be Smelted/Blasted to yield 2 Iron Nuggets
 - Iron Axe, Iron Pickaxe can be Smelted/Blasted to yield 3 Iron Nuggets
 - Iron Boots, Chainmail Boots can be Smelted/Blasted to yield 4 Iron Nuggets

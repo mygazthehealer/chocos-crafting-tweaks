@@ -9,7 +9,7 @@ For the complete list of changes, read the [CCT Wiki](https://github.com/mygazth
 ## Features
 - Consistent Stair, Trapdoor, Fence, Fence Gate, Pressure Plate, Sign, Carpet, Banner yield
 - Increased Button, Ladder, Lever, Tripwire Hook, Redstone Torch, Candle, Lead, Blaze Powder yield
-- Shapeless recipes for Tripwire Hook, Arrows, Spectral Arrow, Soul Torch, Brush
+- Shapeless recipes for Tripwire Hook, Arrows, Spectral Arrow, Tinted Glass, Soul Torch, Brush
 - New recipes for Boat with Chest, Minecart with Workbench, Dispenser (allows stacking)
 - Deepslate, Blackstone can be used completely interchangeably with Stone (in Dispenser, Dropper, Observer, Piston, Stonecutter, Lodestone, Blast Furnace, Armour Stand, Lever, Repeater, Comparator)
 - Better recipes for Activator Rail, Detector Rail, Powered Rail
@@ -17,17 +17,17 @@ For the complete list of changes, read the [CCT Wiki](https://github.com/mygazth
 - Cheaper recipes for Hopper, Enchanted Golden Apple
 - Repair recipes for Chipped Anvil and Damaged Anvil
 - Cheaper recipes for Crimson Wart Block, Packed Ice, Blue Ice
-- Shapeless recipes for Red Nether Bricks, Coarse Dirt, Diorite, Tinted Glass
+- Shapeless recipes for Red Nether Bricks, Coarse Dirt, Diorite
 - Storage recipes for Bamboo and Melon (allows lossless conversion)
-- New recipes for Coral, Dead Coral Blocks, Sculk
-- New recipes for Bucket of Salmon/Cod/Pufferfish/Tropical Fish
+- New recipes for Warped Wart Block, Coral, Dead Coral Blocks, Sculk
+- New recipes for Bucket of Salmon, Cod, Pufferfish, Tropical Fish
 - Shapeless recipes for Bread, Cookie, Paper
 - More recipes for Dyes from Flowers, other Dyes and Smelting
+- Red Sand can be substituted for Sand (in Dyed Concrete)
 - String from Cobwebs (removed Bedrock Edition recipe)
 - Cheaper recipes for Upgrade/Smithing Template 
 - Rabbit Hide can be substituted for Leather (in Armour, Book, Item Frame)
 - Cheaper recipes for Item Frame, Painting
-- Red Sand can be substituted for Sand (in Dyed Concrete)
 - Shapeless recipe for Undyed and Dyed Shulker Box
 - New recipe for Pottery Sherd duping
 - Leather from Rabbit Hide, Leather Horse Armour crafting recipes no longer work
