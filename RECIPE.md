@@ -159,22 +159,27 @@
 ### Activator Rail
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_activator.png?raw=true">
 
-- Input is 1 Redstone Torch and 1 Rail (instead of 1 Redstone Torch, 2 Sticks and 6 Iron Ingots)
+- Input is 1 Redstone Torch, 1 Redstone Dust and 1 Rail (instead of 1 Redstone Torch, 2 Sticks and 6 Iron Ingots)
 
 ### Detector Rail
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_detector.gif?raw=true">
 
-- Input is 1 Stone/Blackstone Pressure Plate and 1 Rail (instead of 1 Stone Pressure Plate, 1 Redstone Dust and 6 Iron Ingots)
+- Input is 1 Stone/Blackstone Pressure Plate, 1 Redstone Dust and 1 Rail (instead of 1 Stone Pressure Plate, 1 Redstone Dust and 6 Iron Ingots)
 
-### Deepslate Bricks
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/deepslate_bricks.png?raw=true">
+### Powered Rail
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_powered.png?raw=true">
 
-- Input is 4 Deepslate (instead of 4 Polished Deepslate)
+- Input is 1 Gold Ingot, 1 Redstone Dust and 1 Rail (instead of 1 Redstone Dust, 1 Stick and 6 Gold Ingots)
 
-### Cracked Deepslate Tiles
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/cracked_deepslate_tiles.png?raw=true">
+### Chiseled Deepslate
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/deepslate_chiseled.png?raw=true">
 
-- New Recipe for Cracked Deepslate Tiles (can be crafted from 4 Cracked Deepslate Bricks)
+- Input is 2 Polished Deepslate Slabs (instead of 2 Cobbled Deepslate Slabs)
+
+### Polished Deepslate
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/deepslate_polished.png?raw=true">
+
+- Input is 4 Deepslate (instead of 4 Cobbled Deepslate)
 
 ### Mossy Cobblestone
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/mossy_cobblestone.gif?raw=true">
@@ -364,6 +369,11 @@
 - Output is 4 Candles (instead of 1)
 - New Recipe for Dyed Candles (can also be Crafted from 1 String, 1 Honeycomb and 1 Dye)
 
+### Concrete
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/concrete.gif?raw=true">
+
+- Input is 4 Sand/Red Sand, 4 Gravel and 1 Dye (instead of 4 Sand, 4 Gravel and 1 Dye)
+
 ### Lead
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/lead.gif?raw=true">
 
@@ -380,6 +390,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/template_upgrade.png?raw=true">
 
 - Input is 1 Template, 1 Diamond and 7 Blocks (instead of 1 Template, 7 Diamonds and 1 Block)
+- Block corresponding to Rib Smithing Template is Nether Bricks (instead of Netherrack)
 
 ### Leather Armour
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/leather_helmet.png?raw=true">
@@ -388,9 +399,6 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/leather_boots.png?raw=true">
 
 - Leather Armour can also be Crafted from Rabbit Hide
-<details>
-
-- Created "leathers" tag for Leather, Rabbit Hide</details>
 
 ### Book
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/book.png?raw=true">
@@ -428,11 +436,6 @@
 
 - Recipe is now Shapeless
 - Input is 1 Glass and 1 Amethyst Shard for 1 Tinted Glass (instead of 1 Glass and 4 Amethyst Shard for 2 Tinted Glass)
-
-### Concrete
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/concrete.gif?raw=true">
-
-- Input is 4 Sand/Red Sand, 4 Gravel and 1 Dye (instead of 4 Sand, 4 Gravel and 1 Dye)
 
 ### Soul Torch
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/soul_torch.gif?raw=true">
@@ -496,7 +499,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/leather_removed.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/leather_horse_armour_removed.png?raw=true">
 
-- Vanilla Recipe for Leather and Leather Horse Armour no longer work
+- Vanilla Recipe for Leather, Leather Horse Armour no longer work
 
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_red_from_beetroot.png?raw=true">
 
@@ -504,8 +507,9 @@
 
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_activator_removed.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_detector_removed.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_powered_removed.png?raw=true">
 
-- Vanilla Recipe for Activator Rail and Detector Rail replaced
+- Vanilla Recipe for Activator Rail, Detector Rail, Powered Rail replaced
 
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/sea_lantern_removed.png?raw=true">
 
@@ -653,12 +657,13 @@
 ## Stonecutting
 ### Deepslate
 
-- Deepslate can be Stonecut into Cobbled Deepslate (Stairs/2 Slabs/Walls), Chiseled Deepslate, Deepslate Bricks (Stairs/2 Slabs/Walls), Deepslate Tiles (Stairs/2 Slabs/Walls), Polished Deepslate (Stairs/Slabs/Walls)
-- Cracked Deepslate Bricks can be Stonecut into Cracked Deepslate Tiles
+- Cobbled Deepslate can no longer be Stonecut into Chiseled Deepslate, Polished Deepslate (Stair/Slabs/Wall), Deepslate Bricks (Stair/Slabs/Wall), Deepslate Tiles (Stair/Slabs/Wall)
+- Deepslate can be Stonecut into Chiseled Deepslate, Cobbled Deepslate (Stair/Slabs/Wall), Polished Deepslate (Stair/Slabs/Wall), Deepslate Bricks (Stair/Slabs/Wall), Deepslate Tiles (Stair/Slabs/Wall)
+- Polished Deepslate can be Stonecut into Chiseled Deepslate
 
 ### Stone
 
-- Stone can be Stonecut into Cobblestone (Stairs/2 Slabs/Walls), 4 Stone Buttons, 2 Stone Pressure Plate
+- Stone can be Stonecut into Cobblestone (Stair/Slabs/Wall), 4 Stone Buttons, 2 Stone Pressure Plate
 
 ### Blackstone
 
@@ -666,7 +671,7 @@
 
 ### Prismarine 
 
-- Prismarine can be Stonecut into Prismarine Bricks (Stairs/2 Slabs)
+- Prismarine can be Stonecut into Prismarine Bricks (Stairs/Slabs)
 
 ### Cut Copper
 
@@ -674,11 +679,20 @@
 
 ### Wooden Planks
 
-- Log/Stem/Wood/Hyphae can be Stonecut into Stripped Log/Stem/Wood/Hyphae, 4 Wooden Planks/Products and 2 Doors
-- Wooden Planks can be Stonecut into Wooden Stairs, 2 Slabs, Fence, Fence Gate, Trapdoor, Sign, 2 Pressure Plates and 4 Buttons
+- Log/Stem/Wood/Hyphae can be Stonecut into Stripped Log/Stem/Wood/Hyphae, 4 Wooden Planks/Products, 2 Doors
+- Wooden Planks can be Stonecut into Wooden Stairs, 2 Slabs, Fence, Fence Gate, Trapdoor, Sign, 2 Pressure Plates, 4 Buttons
 
 ### Bamboo
 
 - Bamboo Planks can be Stonecut into Bamboo Mosaic (Stairs/2 Slabs)
 - Bamboo Mosaic can be Stonecut into Bamboo Mosaic Stairs, 2 Slabs
 - Bamboo Block can be Stonecut into Stripped Bamboo Block
+
+### (Planned Recipes)
+
+- Stone and Pickaxe can be crafted to yield Cobblestone (with Pickaxe left minus 1 Durability)
+- Deepslate and Pickaxe can be crafted to yield Cobbled Deepslate (with Pickaxe left minus 1 Durability)
+- Log/Wood/Stem/Hyphae and Axe can be crafted to yield Stripped Log/Wood/Stem/Hyphae (with Axe left minus 1 Durability)
+- Bamboo Block and Axe can be crafted to yield Stripped Bamboo Block (with Axe left minus 1 Durability)
+
+(This is partially implemented via Stonecutting, since I don't know how to add this via Crafting)

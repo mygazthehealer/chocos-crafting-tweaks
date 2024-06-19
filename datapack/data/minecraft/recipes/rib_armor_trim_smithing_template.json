@@ -6,7 +6,7 @@
       "item": "minecraft:diamond"
     },
     "#": {
-      "item": "minecraft:netherrack"
+      "item": "minecraft:nether_bricks"
     },
     "S": {
       "item": "minecraft:rib_armor_trim_smithing_template"

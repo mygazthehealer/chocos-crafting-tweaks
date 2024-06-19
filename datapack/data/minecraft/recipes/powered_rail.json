@@ -1,9 +1,9 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "category": "redstone",
+  "category": "misc",
   "ingredients": [
     {
-      "item": "minecraft:redstone_torch"
+      "item": "minecraft:gold_ingot"
     },
     {
       "item": "minecraft:redstone"
@@ -14,6 +14,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "minecraft:activator_rail"
+    "item": "minecraft:powered_rail"
   }
 }
