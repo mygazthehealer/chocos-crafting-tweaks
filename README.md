@@ -47,3 +47,37 @@ For the complete list of changes, read the [CCT Wiki](https://github.com/mygazth
 - More stonecutting recipes for Deepslate, Stone, Blackstone, Prismarine
 - Consistent stonecutting yield for Cut Copper items
 - Stonecutting recipes for Log/Stem, Wood/Hyphae and Planks
+
+## (Planned Features)
+- Golden Hoe, Golden Sword can be Smelted/Blasted to yield 2 Gold Nuggets
+- Golden Axe, Golden Pickaxe can be Smelted/Blasted to yield 3 Gold Nuggets
+- Golden Boots can be Smelted/Blasted to yield 4 Gold Nuggets
+- Golden Helmet can be Smelted/Blasted to yield 5 Gold Nuggets
+- Golden Leggings can be Smelted/Blasted to yield 7 Gold Nuggets
+- Golden Chestplate can be Smelted/Blasted to yield 8 Gold Nuggets
+- Iron Hoe, Iron Sword, Shears can be Smelted/Blasted to yield 2 Iron Nuggets
+- Iron Axe, Iron Pickaxe can be Smelted/Blasted to yield 3 Iron Nuggets
+- Iron Boots, Chainmail Boots can be Smelted/Blasted to yield 4 Iron Nuggets
+- Iron Helmet, Chainmail Helmet can be Smelted/Blasted to yield 5 Iron Nuggets
+- Iron Leggings, Chainmail Leggings can be Smelted/Blasted to yield 7 Iron Nuggets
+- Iron Chestplate, Chainmail Chestplate can be Smelted/Blasted to yield 8 Iron Nuggets
+
+(This is currently not possible since Smelting/Blasting/Smoking does not allow "result" to have "count" parameter, hence the output cannot yield more than one item)
+
+- Stone and Pickaxe can be crafted to yield Cobblestone (with Pickaxe left minus 1 Durability)
+- Deepslate and Pickaxe can be crafted to yield Cobbled Deepslate (with Pickaxe left minus 1 Durability)
+- Log/Wood/Stem/Hyphae and Axe can be crafted to yield Stripped Log/Wood/Stem/Hyphae (with Axe left minus 1 Durability)
+- Bamboo Block and Axe can be crafted to yield Stripped Bamboo Block (with Axe left minus 1 Durability)
+- Mossy Block and Brush/Shears can be crafted to yield Block (with Brush/Shears left minus 1 Durability)
+
+(This is partially implemented via Stonecutting, since I don't know how to add this via Crafting)
+
+- Concrete Powder and Water Bottle can be crafted to yield Concrete (with Glass Bottle left)
+- Dirt/Grass Block and Water Bottle can be crafted to yield Mud (with Glass Bottle left)
+- Sponge and Water Bottle can be crafted to yield Wet Sponge (with Glass Bottle left)
+- OR using Water Bottle on Concrete Powder converts it into Concrete
+- OR using Water Bottle on Grass Block converts it into Mud
+- OR using Water Bottle on Sponge converts it into Wet Sponge
+- using Glowstone Dust on Sign/Hanging Sign converts it into Glowing Sign/Hanging Sign
+
+(This can be partially implemented via Water Buckets, but I would prefer precise recipes or interactions involving stackable Water Bottles)
