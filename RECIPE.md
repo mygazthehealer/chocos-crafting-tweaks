@@ -278,11 +278,6 @@
 
 - New Recipe for Wet Sponge (can be Crafted from 4 Sponge and 1 Water Bucket)
 
-### Bucket of Fish
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/bucket_fish.gif?raw=true">
-
-- New Recipe for Bucket of Salmon/Cod/Pufferfish/Tropical Fish (can be Crafted from 1 Water Bucket and 1 Salmon/Cod/Pufferfish/Tropical Fish)
-
 ### Bread
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/bread.png?raw=true">
 

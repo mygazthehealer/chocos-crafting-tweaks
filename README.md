@@ -20,7 +20,6 @@ For the complete list of changes, read the [CCT Wiki](https://github.com/mygazth
 - Shapeless recipes for Red Nether Bricks, Coarse Dirt, Diorite
 - Storage recipes for Bamboo and Melon (allows lossless conversion)
 - New recipes for Warped Wart Block, Coral, Dead Coral Blocks, Sculk
-- New recipes for Bucket of Salmon, Cod, Pufferfish, Tropical Fish
 - Shapeless recipes for Bread, Cookie, Paper
 - More recipes for Dyes from Flowers, other Dyes and Smelting
 - Red Sand can be substituted for Sand (in Concrete Powder)
