@@ -534,6 +534,7 @@
 - OR using Water Bottle on Concrete Powder converts it into Concrete
 - OR using Water Bottle on Grass Block converts it into Mud
 - OR using Water Bottle on Sponge converts it into Wet Sponge
+- using Glowstone Dust on Sign/Hanging Sign converts it into Glowing Sign/Hanging Sign
 
 (This can be partially implemented via Water Buckets, but I would prefer precise recipes or interactions involving stackable Water Bottles)
 
