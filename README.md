@@ -42,8 +42,8 @@ For the complete list of changes, read the [CCT Wiki](https://github.com/mygazth
 - Raw Gold Block can now be smelted to Gold Block
 - Raw Copper Block can now be smelted to Copper Block
 - Shears can now be smelted to Iron Nugget
-- Iron Nugget from Iron Horse Armour smelting recipes no longer work
-- Gold Nugget from Gold Horse Armour smelting recipes no longer work
+- Iron Nugget from Iron Horse Armour smelting recipe no longer work
+- Gold Nugget from Gold Horse Armour smelting recipe no longer work
 - More stonecutting recipes for Deepslate, Stone, Blackstone, Prismarine
 - Consistent stonecutting yield for Cut Copper items
 - Stonecutting recipes for Log/Stem, Wood/Hyphae and Planks
