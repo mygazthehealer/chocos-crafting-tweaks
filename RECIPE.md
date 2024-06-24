@@ -227,9 +227,14 @@
 - New Recipe for Red Nether Bricks (can also be Crafted from 1 Nether Bricks and 1 Nether Wart Block)
 
 ### Coarse Dirt
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/coarse_dirt.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dirt_coarse.png?raw=true">
 
 - Recipe is now Shapeless
+
+### Rooted Dirt
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dirt_rooted.png?raw=true">
+
+- New Recipe for Rooted Dirt (can also be Crafted from 1 Dirt and 1 Hanging Root)
 
 ### Andesite 
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/andesite.png?raw=true">
@@ -451,6 +456,12 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/brush.png?raw=true">
 
 - Recipe can now be Crafted 2x2
+
+### Spy Glass
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/spyglass.png?raw=true">
+
+- Recipe can now be Crafted 2x2
+- Input is 1 Copper Ingot and 1 Amethyst Shard (instead of 2 Copper Ingot and 1 Amethyst Shard)
 
 ### Sea Lantern
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/sea_lantern.png?raw=true">
