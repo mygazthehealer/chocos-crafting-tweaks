@@ -3,9 +3,14 @@
   "category": "building",
   "group": "dead_coral_blocks",
   "key": {
-    "#": {
+    "#": [
+      {
         "item": "minecraft:dead_brain_coral"
+    }, 
+      {
+        "item": "minecraft:dead_brain_coral_fan"
     }
+  ]
   },
   "pattern": [
     "##",

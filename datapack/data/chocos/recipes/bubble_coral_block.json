@@ -3,9 +3,14 @@
   "category": "building",
   "group": "coral_blocks",
   "key": {
-    "#": {
+    "#": [
+      {
         "item": "minecraft:bubble_coral"
+    }, 
+      {
+        "item": "minecraft:bubble_coral_fan"
     }
+  ]
   },
   "pattern": [
     "##",

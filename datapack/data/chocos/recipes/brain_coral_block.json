@@ -3,9 +3,14 @@
   "category": "building",
   "group": "coral_blocks",
   "key": {
-    "#": {
+    "#": [
+      {
         "item": "minecraft:brain_coral"
+    }, 
+      {
+        "item": "minecraft:brain_coral_fan"
     }
+  ]
   },
   "pattern": [
     "##",

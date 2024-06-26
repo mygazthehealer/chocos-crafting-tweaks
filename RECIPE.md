@@ -276,7 +276,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/coral_block.gif?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dead_coral_block.gif?raw=true">
 
-- New Recipe for Coral Block/Dead Coral Block (can be Crafted from 4 Coral/Dead Coral)
+- New Recipe for Coral Block/Dead Coral Block (can be Crafted from 4 Coral/Dead Coral or Coral Fan)
 
 ### Wet Sponge
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/wet_sponge.png?raw=true">
@@ -547,14 +547,13 @@
 ### Gold Ingot
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/gold_ingot.png?raw=true">
 
-- Gold Ingot can also be Smelted from Gilded Blackstone
-- Gold Ingot can also be Blasted from Gilded Blackstone
+- Gold Ingot can also be Smelted/Blasted from Gilded Blackstone (1.0 XP)
 
 ### Nether Brick
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/nether_brick.gif?raw=true">
 
-- Nether Brick can also be Smelted/Blasted from Crimson Nylium, Warped Nylium
-- Nether Brick can also be Blasted from Netherrack
+- Nether Brick can also be Smelted/Blasted from Crimson Nylium, Warped Nylium (0.3 XP)
+- Nether Brick can also be Blasted from Netherrack (0.3 XP rather than 0.1 XP)
 <details>
 
 - Created "nylium" tag for Crimson Nylium, Warped Nylium</details>
@@ -562,88 +561,88 @@
 ### Brick
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/brick.png?raw=true">
 
-- Brick can also be Blasted from Clay Ball
+- Brick can also be Blasted from Clay Ball (0.3 XP)
 
 ### Dyes
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/dyes.gif?raw=true">
 
-- Red Dye can also be Smelted/Smoked from Beetroot
-- Orange Dye can also be Smelted/Smoked from Carrot
-- Green Dye can also be Smoked from Cactus
-- Lime Dye can also be Smoked from Sea Pickle
+- Red Dye can also be Smelted/Smoked from Beetroot (0.2 XP)
+- Orange Dye can also be Smelted/Smoked from Carrot (0.2 XP)
+- Green Dye can also be Smoked from Cactus (1.0 XP)
+- Lime Dye can also be Smoked from Sea Pickle (0.2 XP rather than 0.1 XP)
 
 ### Stones
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/stones.gif?raw=true">
 
-- Stone can also be Blasted from Cobblestone
-- Deepslate can also be Blasted from Cobbled Deepslate
+- Stone can also be Blasted from Cobblestone (0.1 XP)
+- Deepslate can also be Blasted from Cobbled Deepslate (0.1 XP)
 
 ### Smooth Stones
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/smooth_stones.gif?raw=true">
 
-- Smooth Stone can also be Blasted from Stone
-- Smooth Sandstone can also be Blasted from Sandstone
-- Smooth Red Sandstone can also be Blasted from Red Sandstone
-- Smooth Basalt can also be Blasted from Basalt
-- Smooth Quartz can also be Blasted from Block of Quartz
+- Smooth Stone can also be Blasted from Stone (0.1 XP)
+- Smooth Sandstone can also be Blasted from Sandstone (0.1 XP)
+- Smooth Red Sandstone can also be Blasted from Red Sandstone (0.1 XP)
+- Smooth Basalt can also be Blasted from Basalt (0.1 XP)
+- Smooth Quartz can also be Blasted from Block of Quartz (0.1 XP)
 
 ### Cracked Bricks
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/cracked_bricks.gif?raw=true">
 
-- Cracked Stone Bricks can also be Blasted from Stone Bricks
-- Cracked Deepslate Bricks can also be Blasted from Deepslate Bricks
-- Cracked Deepslate Tiles can also be Blasted from Deepslate Tiles
-- Cracked Nether Bricks can also be Blasted from Nether Bricks
-- Cracked Polished Blackstone Bricks can also be Blasted from Polished Blackstone Bricks
+- Cracked Stone Bricks can also be Blasted from Stone Bricks (0.1 XP)
+- Cracked Deepslate Bricks can also be Blasted from Deepslate Bricks (0.1 XP)
+- Cracked Deepslate Tiles can also be Blasted from Deepslate Tiles (0.1 XP)
+- Cracked Nether Bricks can also be Blasted from Nether Bricks (0.1 XP)
+- Cracked Polished Blackstone Bricks can also be Blasted from Polished Blackstone Bricks (0.1 XP)
 
 ### Glazed Terracotta
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/terracotta.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/terracotta_glazed.gif?raw=true">
 
-- Terracotta can also be Blasted from Clay
-- Glazed Terracotta can also be Blasted from Dyed Terracotta
+- Terracotta can also be Blasted from Clay (0.35 XP)
+- Glazed Terracotta can also be Blasted from Dyed Terracotta (0.1 XP)
 
 ### Glass
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/glass.gif?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/glass_from_stained_glass.gif?raw=true">
 
-- Glass can also be Blasted from Sand, Red Sand
-- Glass can also be Smelted/Blasted from Stained Glass
+- Glass can also be Blasted from Sand, Red Sand (0.1 XP)
+- Glass can also be Smelted/Blasted from Stained Glass (0.1 XP)
 
 ### Glass Pane
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/glass_pane.gif?raw=true">
 
-- Glass Pane can also be Smelted/Blasted from Stained Glass Pane
+- Glass Pane can also be Smelted/Blasted from Stained Glass Pane (0.1 XP)
 
 ### Sponge
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/sponge.png?raw=true">
 
-- Sponge can also be Smoked from Wet Sponge
+- Sponge can also be Smoked from Wet Sponge (0.15 XP)
 
 ### Charcoal
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/charcoal.gif?raw=true">
 
-- Charcoal can also be Smoked from Log/Wood or Stripped Log/Wood
+- Charcoal can also be Smoked from Log/Wood or Stripped Log/Wood (0.15 XP)
 
 ### Iron Nugget
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/shears.png?raw=true">
 
-- Shears can be Smelted/Blasted to yield Iron Nugget
+- Shears can be Smelted/Blasted to yield Iron Nugget (0.1 XP)
 
 ### Iron Block
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/block_iron.png?raw=true">
 
-- Raw Iron Block can be Smelted/Blasted to yield Iron Block
+- Raw Iron Block can be Smelted/Blasted to yield Iron Block (0.7 XP)
 
 ### Gold Block
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/block_gold.png?raw=true">
 
-- Raw Gold Block can be Smelted/Blasted to yield Gold Block
+- Raw Gold Block can be Smelted/Blasted to yield Gold Block (1.0 XP)
 
 ### Copper Block
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/block_copper.png?raw=true">
 
-- Raw Copper Block can be Smelted/Blasted to yield Copper Block
+- Raw Copper Block can be Smelted/Blasted to yield Copper Block (0.7 XP)
 
 ### (Removed Recipes)
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/horse_armour_gold_removed.png?raw=true">
@@ -673,16 +672,16 @@
 
 ### Cut Copper
 
-- Copper can be Stonecut into 1 Cut Copper/Products (instead of 4) (also applies to Waxed/Exposed/Weathered/Oxidised Cut Copper/Products)
+- Copper can be Stonecut into 1 Cut Copper (and Products) (instead of 4) (also applies to Waxed/Exposed/Weathered/Oxidised Cut Copper)
 
 ### Wooden Planks
 
-- Log/Stem/Wood/Hyphae can be Stonecut into Stripped Log/Stem/Wood/Hyphae, 4 Wooden Planks/Products, 2 Doors
+- Wood/Hyphae can be Stonecut into Stripped Wood/Hyphae, Log/Stem (and Products)
+- Log/Stem can be Stonecut into Stripped Log/Stem, 2 Doors, 4 Wooden Planks (and Products)
 - Wooden Planks can be Stonecut into Wooden Stairs, 2 Slabs, Fence, Fence Gate, Trapdoor, Sign, 2 Pressure Plates, 4 Buttons
 
 ### Bamboo
 
-- Bamboo Planks can be Stonecut into Bamboo Mosaic (Stairs/2 Slabs)
-- Bamboo Mosaic can be Stonecut into Bamboo Mosaic Stairs, 2 Slabs
 - Bamboo Block can be Stonecut into Stripped Bamboo Block
-- 
+- Bamboo Planks can be Stonecut into Bamboo Stairs, 2 Slabs, Fence, Fence Gate, Trapdoor, Sign, 2 Pressure Plates, 4 Buttons Bamboo Mosaic (Stairs/2 Slabs), Bamboo Mosaic (Stairs/Slabs)
+- Bamboo Mosaic can be Stonecut into Bamboo Mosaic Stairs, 2 Slabs
