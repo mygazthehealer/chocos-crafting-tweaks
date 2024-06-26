@@ -683,5 +683,5 @@
 ### Bamboo
 
 - Bamboo Block can be Stonecut into Stripped Bamboo Block
-- Bamboo Planks can be Stonecut into Bamboo Stairs, 2 Slabs, Fence, Fence Gate, Trapdoor, Sign, 2 Pressure Plates, 4 Buttons Bamboo Mosaic (Stairs/2 Slabs), Bamboo Mosaic (Stairs/Slabs)
+- Bamboo Planks can be Stonecut into Bamboo Stairs, 2 Slabs, Fence, Fence Gate, Trapdoor, Sign, 2 Pressure Plates, 4 Buttons, Bamboo Mosaic (Stairs/Slabs)
 - Bamboo Mosaic can be Stonecut into Bamboo Mosaic Stairs, 2 Slabs
