@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "soul_lantern",
+  "key": {
+    "S": {
+      "tag": "minecraft:soul_fire_base_blocks"
+    },
+    "#": {
+      "item": "minecraft:lantern"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#S#",
+    " # "
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:soul_lantern"
+  },
+  "show_notification": true
+}

@@ -3,24 +3,17 @@
   "category": "misc",
   "group": "soul_torch",
   "key": {
-    "#": {
-      "item": "minecraft:stick"
-    },
     "S": {
       "tag": "minecraft:soul_fire_base_blocks"
     },
-    "X": [
-      {
-        "item": "minecraft:coal"
-      },
-      {
-        "item": "minecraft:charcoal"
-      }
-    ]
+    "#": {
+      "item": "minecraft:torch"
+    }
   },
   "pattern": [
-    " X",
-    "S#"
+    " # ",
+    "#S#",
+    " # "
   ],
   "result": {
     "count": 4,

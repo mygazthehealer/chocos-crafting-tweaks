@@ -47,6 +47,8 @@ For the complete list of changes, read the [CCT Wiki](https://github.com/mygazth
 - Consistent stonecutting yield for Cut Copper items
 - Stonecutting recipes for Log/Stem, Wood/Hyphae and Planks
 
+## Reasons
+
 ## (Planned Features)
 - Golden Hoe, Golden Sword can be Smelted/Blasted to yield 2 Gold Nuggets
 - Golden Axe, Golden Pickaxe can be Smelted/Blasted to yield 3 Gold Nuggets

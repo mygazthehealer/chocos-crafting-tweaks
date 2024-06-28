@@ -257,6 +257,17 @@
 
 - Input is 4 Packed Ice (instead of 9)
 
+### Snow Block
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/snow_block.gif?raw=true">
+
+- Input is 9 Snow Balls (instead of 4)
+- New Recipe for Snow Block (can be Crafted from 8 Snow)
+
+### Snow Balls
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/snow_ball.png?raw=true">
+
+- New Recipe for Snow Balls (can be Crafted from 1 Snow Block)
+
 ### Melon Slices
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/melon_slices.png?raw=true">
 
@@ -449,8 +460,15 @@
 
 ### Soul Torch
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/soul_torch.gif?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/soul_torch_from_torch.gif?raw=true">
 
 - Recipe can now be Crafted 2x2
+- New Recipe for Soul Torch (can be Crafted from 4 Torch and 1 Soul Sand/Soil)
+
+### Soul Lantern
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/soul_lantern.gif?raw=true">
+
+- New Recipe for Soul Lantern (can be Crafted from 4 Lantern and 1 Soul Sand/Soil)
 
 ### Brush
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/brush.png?raw=true">
