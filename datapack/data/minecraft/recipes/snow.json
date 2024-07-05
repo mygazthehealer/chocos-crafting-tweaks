@@ -3,14 +3,14 @@
   "category": "misc",
   "key": {
     "#": {
-      "item": "minecraft:snow_block"
+      "item": "minecraft:snowball"
     }
   },
   "pattern": [
     "##"
   ],
   "result": {
-    "count": 4,
+    "count": 2,
     "item": "minecraft:snow"
   },
   "show_notification": true

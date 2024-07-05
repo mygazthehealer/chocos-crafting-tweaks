@@ -89,7 +89,7 @@ Nether Wart Block, Packed Ice, Blue Ice
 - Recipe shape is consistent with other 2x2 Decor Blocks 
 
 Snow Block
-- Recipe shape/output is consistent with other 3x3 Storage Block
+- Recipe shape/output is consistent with Slime Block recipe
 - New recipe allows converting Snow to Snow Blocks (without having to place Block repeatedly)
 
 Warped Wart Block
@@ -130,7 +130,8 @@ Wool Carpet, Moss Carpet
 - Recipe output is consistent with Pressure Plate
 
 Snow
-- Recipe output is consistent with Carpet 
+- New recipe allows lossless conversion
+- Recipe output is consistent with Carpet
 - Convenient 2x2 recipe for Crafting by hand
 
 Banner

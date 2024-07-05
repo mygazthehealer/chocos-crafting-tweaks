@@ -92,7 +92,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dispenser_from_dropper.png?raw=true">
 
 - Input is 1 Redstone Dust, 1 Tripwire Hook and 7 Cobblestone/Cobbled Deepslate/Blackstone (instead of 1 Redstone Dust, 1 Bow and 7 Cobblestone)
-- New Recipe for Dispenser (can also be Crafted 1 Dropper and 1 Tripwire Hook)
+- New Recipe for Dispenser (can also be Crafted from 1 Dropper and 1 Tripwire Hook)
 
 ### Dropper
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dropper.png?raw=true">
@@ -184,12 +184,12 @@
 ### Mossy Cobblestone
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/mossy_cobblestone.gif?raw=true">
 
-- New Recipe for Mossy Cobblestone Stairs/Slabs/Walls (can be crafted from 1 Cobblestone Stairs/Slabs/Walls and 1 Vine/Moss Block)
+- New Recipe for Mossy Cobblestone Stairs/Slabs/Walls (can be Crafted from 1 Cobblestone Stairs/Slabs/Walls and 1 Vine/Moss Block)
 
 ### Mossy Stone Bricks
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/mossy_stone_bricks.gif?raw=true">
 
-- New Recipe for Mossy Stone Bricks Stairs/Slabs/Walls (can be crafted from 1 Stone Bricks Stairs/Slabs/Walls and 1 Vine/Moss Block)
+- New Recipe for Mossy Stone Bricks Stairs/Slabs/Walls (can be Crafted from 1 Stone Bricks Stairs/Slabs/Walls and 1 Vine/Moss Block)
 
 ### Hopper
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/hopper.png?raw=true">
@@ -199,17 +199,17 @@
 ### Anvil
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/anvil_chipped.png?raw=true">
 
-- New Recipe for Anvil (can be crafted from 1 Chipped Anvil and 1 Iron Block)
+- New Recipe for Anvil (can be Crafted from 1 Chipped Anvil and 1 Iron Block)
 
 ### Chipped Anvil
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/anvil_damaged.png?raw=true">
 
-- New Recipe for Chipped Anvil (can be crafted from 1 Damaged Anvil and 1 Iron Block)
+- New Recipe for Chipped Anvil (can be Crafted from 1 Damaged Anvil and 1 Iron Block)
 
 ### Enchanted Golden Apple
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/enchanted_golden_apple.png?raw=true">
 
-- New Recipe for Enchanted Golden Apple (can be creafted from 8 Gold Blocks and 1 Golden Apple)
+- New Recipe for Enchanted Golden Apple (can be Crafted from 8 Gold Blocks and 1 Golden Apple)
 
 ### Nether Wart Block
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/wart_block_crimson.png?raw=true">
@@ -371,7 +371,7 @@
 
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/carpet_snow.png?raw=true">
 
-- Output is 4 Snows for 2 Snow Blocks (instead of 6 Snows for 3 Snow Blocks)
+- Output is 2 Snows for 2 Snow Balls (instead of 6 Snows for 3 Snow Blocks)
 
 ### Banner
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/banner.gif?raw=true">
