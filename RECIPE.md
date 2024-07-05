@@ -684,6 +684,10 @@
 
 - Blackstone/Polished Blackstone can be Stonecut into 4 Polished Blackstone Buttons, 2 Polished Blackstone Pressure Plate
 
+### Nether Bricks
+
+- Nether Bricks can be Stoncut into Nether Brick Fence
+
 ### Prismarine 
 
 - Prismarine can be Stonecut into Prismarine Bricks (Stairs/Slabs)
