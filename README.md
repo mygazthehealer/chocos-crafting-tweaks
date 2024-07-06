@@ -6,6 +6,8 @@ Join [MCS](https://discord.com/invite/NtVxyW5) and visit the [CVT brainforum](ht
 
 For the complete list of changes, read the [CCT Wiki](https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/RECIPE.md). If you dislike a certain recipe but still want to use the datapack, you may delete the .json file corresponding to that recipe.
 
+(I'm considering removing the Features/Planned Features section entirely, but have let it be for now)
+
 ## Features
 - Consistent Stair, Trapdoor, Fence, Fence Gate, Pressure Plate, Sign, Carpet, Banner yield
 - Increased Button, Ladder, Lever, Tripwire Hook, Redstone Torch, Candle, Lead, Blaze Powder yield
@@ -47,8 +49,6 @@ For the complete list of changes, read the [CCT Wiki](https://github.com/mygazth
 - Consistent stonecutting yield for Cut Copper items
 - Stonecutting recipes for Log/Stem, Wood/Hyphae and Planks
 
-## Reasons
-
 ## (Planned Features)
 - Golden Hoe, Golden Sword can be Smelted/Blasted to yield 2 Gold Nuggets
 - Golden Axe, Golden Pickaxe can be Smelted/Blasted to yield 3 Gold Nuggets
@@ -76,9 +76,5 @@ For the complete list of changes, read the [CCT Wiki](https://github.com/mygazth
 - Concrete Powder and Water Bottle can be crafted to yield Concrete (with Glass Bottle left)
 - Dirt/Grass Block and Water Bottle can be crafted to yield Mud (with Glass Bottle left)
 - Sponge and Water Bottle can be crafted to yield Wet Sponge (with Glass Bottle left)
-- OR using Water Bottle on Concrete Powder converts it into Concrete
-- OR using Water Bottle on Grass Block converts it into Mud
-- OR using Water Bottle on Sponge converts it into Wet Sponge
-- using Glowstone Dust on Sign/Hanging Sign converts it into Glowing Sign/Hanging Sign
 
 (This can be partially implemented via Water Buckets, but I would prefer precise recipes or interactions involving stackable Water Bottles)
