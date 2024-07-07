@@ -6,7 +6,7 @@ Join [MCS](https://discord.com/invite/NtVxyW5) and visit the [CVT brainforum](ht
 
 For the complete list of changes, read the [CCT Wiki](https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/RECIPE.md). If you dislike a certain recipe but still want to use the datapack, you may delete the .json file corresponding to that recipe.
 
-(I'm considering removing the Features/Planned Features section entirely, but have let it be for now)
+(I'm considering removing the Features/Planned Features section entirely, but have let it be for now)(Also have to add advancements that grant custom recipes)(Also have to add toggle for certain recipes/recipe groups)
 
 ## Features
 - Consistent Stair, Trapdoor, Fence, Fence Gate, Pressure Plate, Sign, Carpet, Banner yield
