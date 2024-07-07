@@ -1,13 +1,14 @@
 # Chocos' Crafting Tweaks
 
-CCT is a minecraft datapack created to improve the vanilla building experience by correcting inconsistent recipes and adding new recipes for greater variety.
+CCT is a minecraft datapack created to improve the vanilla building experience by correcting inconsistent recipes/yields and adding new recipes for greater variety in gameplay.
 
-Join [MCS](https://discord.com/invite/NtVxyW5) and visit the [CVT brainforum](https://discord.com/channels/308744621616529410/1243802341824663602) for discussions on existing recipes and suggestions for new content.
+Visit the [CVT brainforum](https://discord.com/channels/308744621616529410/1243802341824663602) in [MCS](https://discord.com/invite/NtVxyW5) for discussions on existing recipes and recommendation/suggestions for new content.
 
-For the complete list of changes, read the [CCT Wiki](https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/RECIPE.md). If you dislike a certain recipe but still want to use the datapack, you may delete the .json file corresponding to that recipe.
+For the complete list of changes, read the [CCT Wiki](https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/RECIPE.md). If you dislike a certain recipe but still want to use the datapack, you may delete the .json file corresponding to that recipe. (Will be adding toggle for certain recipes/recipe groups eventually)
 
-(I'm considering removing the Features/Planned Features section entirely, but have let it be for now)(Also have to add advancements that grant custom recipes)(Also have to add toggle for certain recipes/recipe groups)
+(I'm considering removing the Features/Planned Features section entirely, but have let it be for now)(Also have to add advancements that grant the custom recipes)
 
+<details>
 ## Features
 - Consistent Stair, Trapdoor, Fence, Fence Gate, Pressure Plate, Sign, Carpet, Banner yield
 - Increased Button, Ladder, Lever, Tripwire Hook, Redstone Torch, Candle, Lead, Blaze Powder yield
@@ -78,3 +79,4 @@ For the complete list of changes, read the [CCT Wiki](https://github.com/mygazth
 - Sponge and Water Bottle can be crafted to yield Wet Sponge (with Glass Bottle left)
 
 (This can be partially implemented via Water Buckets, but I would prefer precise recipes or interactions involving stackable Water Bottles)
+</details>
