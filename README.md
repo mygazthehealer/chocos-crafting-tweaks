@@ -9,6 +9,7 @@ For the complete list of changes, read the [CCT Wiki](https://github.com/mygazth
 (I'm considering removing the Features/Planned Features section entirely, but have let it be for now)(Also have to add advancements that grant the custom recipes)
 
 <details>
+
 ## Features
 - Consistent Stair, Trapdoor, Fence, Fence Gate, Pressure Plate, Sign, Carpet, Banner yield
 - Increased Button, Ladder, Lever, Tripwire Hook, Redstone Torch, Candle, Lead, Blaze Powder yield
