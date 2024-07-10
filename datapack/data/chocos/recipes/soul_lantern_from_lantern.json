@@ -1,19 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "group": "soul_lantern",
-  "key": {
-    "S": {
+  "ingredients": [
+    {
       "tag": "minecraft:soul_fire_base_blocks"
     },
-    "#": {
+    {
+      "item": "minecraft:lantern"
+    },
+    {
+      "item": "minecraft:lantern"
+    },
+    {
+      "item": "minecraft:lantern"
+    },
+    {
       "item": "minecraft:lantern"
     }
-  },
-  "pattern": [
-    " # ",
-    "#S#",
-    " # "
   ],
   "result": {
     "count": 4,

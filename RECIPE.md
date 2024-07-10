@@ -294,6 +294,11 @@
 
 - New Recipe for Wet Sponge (can be Crafted from 4 Sponge and 1 Water Bucket)
 
+### Mud
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/mud.gif?raw=true">
+
+- New Recipe for Mud (can be Crafted from 8 Dirt/Grass Block and 1 Water Bucket)
+
 ### Bread
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/bread.png?raw=true">
 
