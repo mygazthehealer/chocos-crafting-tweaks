@@ -98,7 +98,7 @@
 
 ### Mossy Cobblestone, Mossy Stone Bricks
 
-- New recipe allows converting Cobblestone, Stone Brick items to mossy varient
+- New recipe allows converting Cobblestone, Stone Brick items to Mossy varient
 
 ### Hopper 
 
@@ -128,7 +128,7 @@
 
 ### Red Nether Bricks
 
-- New recipe allows converting Nether Bricks to Red Nether Bricks
+- New recipe allows converting Nether Bricks items to Red Nether Bricks variants
 
 ### Coarse Dirt, Andesite, Diorite 
 
