@@ -222,9 +222,11 @@
 - New Recipe for Warped Wart Block (can be Crafted from 4 Nether Sprouts)
 
 ### Red Nether Bricks
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/red_nether_bricks.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/red_nether_bricks.gif?raw=true">
 
+- Input is 1 Nether Bricks and 1 Weeping Vine (instead of 2 Nether Brick and 2 Nether Warts)
 - New Recipe for Red Nether Bricks (can also be Crafted from 1 Nether Bricks and 1 Nether Wart Block)
+- New Recipe for Red Nether Bricks Stairs/Slabs/Walls (can be Crafted from 1 Nether Bricks Stairs/Slabs/Walls and 1 Weeping Vine/Nether Wart Block)
 
 ### Coarse Dirt
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dirt_coarse.png?raw=true">

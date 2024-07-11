@@ -1,18 +1,18 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "building",
-  "group": "mossy_stone_brick_stairs",
+  "group": "mossy_stone_brick_slab",
   "key": {
     "#": {
       "item": "minecraft:mossy_stone_bricks"
     }
   },
   "pattern": [
-    "# ",
-    "##"
+    "###"
   ],
   "result": {
-    "count": 3,
-    "item": "minecraft:mossy_stone_brick_stairs"
-  }
+    "count": 6,
+    "item": "minecraft:mossy_stone_brick_slab"
+  },
+  "show_notification": true
 }

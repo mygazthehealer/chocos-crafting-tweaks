@@ -6,14 +6,9 @@
     {
       "item": "minecraft:cobblestone_wall"
     },
-    [
-      {
-        "item": "minecraft:vine"
-    }, 
-      {
-        "item": "minecraft:mosss_block"
+    {
+        "item": "minecraft:moss_block"
     }
-  ]
   ],
   "result": {
     "count": 1,
