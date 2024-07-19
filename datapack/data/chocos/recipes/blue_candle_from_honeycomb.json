@@ -1,21 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "group": "dyed_candle",
-  "key": {
-    "H": {
+  "ingredients": [
+    {
       "item": "minecraft:honeycomb"
     },
-    "S": {
+    {
       "item": "minecraft:string"
     },
-    "D": {
+    {
       "item": "minecraft:blue_dye"
     }
-  },
-  "pattern": [
-    "S ",
-    "HD"
   ],
   "result": {
     "count": 4,

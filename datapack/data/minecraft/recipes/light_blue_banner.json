@@ -1,19 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "group": "banner",
-  "key": {
-    "#": {
+  "ingredients": [
+    {
       "item": "minecraft:light_blue_wool"
     },
-    "|": {
+    {
+      "item": "minecraft:light_blue_wool"
+    },
+    {
       "item": "minecraft:stick"
     }
-  },
-  "pattern": [
-    "#",
-    "#",
-    "|"
   ],
   "result": {
     "count": 1,

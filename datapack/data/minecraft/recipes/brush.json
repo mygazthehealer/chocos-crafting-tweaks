@@ -1,20 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "category": "equipment",
-  "key": {
-    "#": {
+  "ingredients": [
+    {
       "item": "minecraft:copper_ingot"
     },
-    "I": {
-      "item": "minecraft:stick"
-    },
-    "X": {
+    {
       "item": "minecraft:feather"
+    },
+    {
+      "item": "minecraft:stick"
     }
-  },
-  "pattern": [
-    " X",
-    "I#"
   ],
   "result": {
     "count": 1,

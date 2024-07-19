@@ -1,26 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "group": "soul_torch",
-  "key": {
-    "#": {
-      "item": "minecraft:stick"
-    },
-    "S": {
+  "ingredients": [
+    {
       "tag": "minecraft:soul_fire_base_blocks"
     },
-    "X": [
+    [
       {
         "item": "minecraft:coal"
       },
       {
         "item": "minecraft:charcoal"
       }
-    ]
-  },
-  "pattern": [
-    " X",
-    "S#"
+    ],
+    {
+      "item": "minecraft:stick"
+    }
   ],
   "result": {
     "count": 4,

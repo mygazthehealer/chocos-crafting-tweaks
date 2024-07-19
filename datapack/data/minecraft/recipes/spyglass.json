@@ -1,17 +1,13 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "category": "equipment",
-  "key": {
-    "#": {
+  "ingredients": [
+    {
       "item": "minecraft:amethyst_shard"
     },
-    "X": {
+    {
       "item": "minecraft:copper_ingot"
     }
-  },
-  "pattern": [
-    " #",
-    "X "
   ],
   "result": {
     "item": "minecraft:spyglass"

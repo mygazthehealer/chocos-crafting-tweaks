@@ -1,11 +1,68 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "category": "building",
-  "key": {
-    "I": {
+  "group": "dark_prismarine",
+  "ingredients": [
+    {
       "item": "minecraft:black_dye"
     },
-    "S": [
+    [
+      {
+      "item": "minecraft:prismarine"
+    },
+    {
+      "item": "minecraft:prismarine_bricks"
+    }
+  ],
+    [
+      {
+      "item": "minecraft:prismarine"
+    },
+    {
+      "item": "minecraft:prismarine_bricks"
+    }
+  ],
+    [
+      {
+      "item": "minecraft:prismarine"
+    },
+    {
+      "item": "minecraft:prismarine_bricks"
+    }
+  ],
+    [
+      {
+      "item": "minecraft:prismarine"
+    },
+    {
+      "item": "minecraft:prismarine_bricks"
+    }
+  ],
+    [
+      {
+      "item": "minecraft:prismarine"
+    },
+    {
+      "item": "minecraft:prismarine_bricks"
+    }
+  ],
+    [
+      {
+      "item": "minecraft:prismarine"
+    },
+    {
+      "item": "minecraft:prismarine_bricks"
+    }
+  ],
+    [
+      {
+      "item": "minecraft:prismarine"
+    },
+    {
+      "item": "minecraft:prismarine_bricks"
+    }
+  ],
+    [
       {
       "item": "minecraft:prismarine"
     },
@@ -13,11 +70,6 @@
       "item": "minecraft:prismarine_bricks"
     }
   ]
-  },
-  "pattern": [
-    "SSS",
-    "SIS",
-    "SSS"
   ],
   "result": {
     "count": 4,

@@ -1,20 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "category": "equipment",
-  "key": {
-    "#": {
-      "item": "minecraft:stick"
-    },
-    "X": {
+  "ingredients": [
+    {
       "item": "minecraft:flint"
     },
-    "Y": {
+    {
       "item": "minecraft:feather"
+    },
+    {
+      "item": "minecraft:stick"
     }
-  },
-  "pattern": [
-    " X",
-    "Y#"
   ],
   "result": {
     "count": 4,

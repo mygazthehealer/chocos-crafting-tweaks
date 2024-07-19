@@ -1,20 +1,36 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "category": "building",
   "group": "concrete",
-  "pattern": [
-    "###",
-    "#W#",
-    "###"
-  ],
-  "key": {
-    "W": {
+  "ingredients": [
+    {
       "item": "minecraft:water_bucket"
     },
-    "#": {
+    {
+      "item": "minecraft:cyan_concrete_powder"
+    },
+    {
+      "item": "minecraft:cyan_concrete_powder"
+    },
+    {
+      "item": "minecraft:cyan_concrete_powder"
+    },
+    {
+      "item": "minecraft:cyan_concrete_powder"
+    },
+    {
+      "item": "minecraft:cyan_concrete_powder"
+    },
+    {
+      "item": "minecraft:cyan_concrete_powder"
+    },
+    {
+      "item": "minecraft:cyan_concrete_powder"
+    },
+    {
       "item": "minecraft:cyan_concrete_powder"
     }
-  },
+  ],
   "result": {
     "item": "minecraft:cyan_concrete",
 	"count": 8
