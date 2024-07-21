@@ -138,7 +138,7 @@
 ### Tripwire Hook
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/tripwire_hook.png?raw=true">
 
-- Recipe can now be Crafted 2x2
+- Recipe is now Shapeless
 - Output is 4 (instead of 1)
 
 ### Redstone Torch
@@ -159,16 +159,19 @@
 ### Activator Rail
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_activator.png?raw=true">
 
+- Recipe is now Shapeless
 - Input is 1 Redstone Torch, 1 Redstone Dust and 1 Rail (instead of 1 Redstone Torch, 2 Sticks and 6 Iron Ingots)
 
 ### Detector Rail
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_detector.gif?raw=true">
 
+- Recipe is now Shapeless
 - Input is 1 Stone/Blackstone Pressure Plate, 1 Redstone Dust and 1 Rail (instead of 1 Stone Pressure Plate, 1 Redstone Dust and 6 Iron Ingots)
 
 ### Powered Rail
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_powered.png?raw=true">
 
+- Recipe is now Shapeless
 - Input is 1 Gold Ingot, 1 Redstone Dust and 1 Rail (instead of 1 Redstone Dust, 1 Stick and 6 Gold Ingots)
 
 ### Chiseled Deepslate
@@ -383,9 +386,10 @@
 ### Banner
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/banner.gif?raw=true">
 
+- Recipe is now Shapeless
 - Input is 1 Stick and 2 Wool (instead of 1 Stick and 6 Wool)
 
-### Dyed Candles
+### Candles
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/candle.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/candle_dyed.gif?raw=true">
 
@@ -451,7 +455,7 @@
 ### Arrow
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/arrow.png?raw=true">
 
-- Recipe can now be Crafted 2x2
+- Recipe is now Shapeless
 
 ### Spectral Arrow
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/arrow_glow.png?raw=true">
@@ -469,7 +473,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/soul_torch.gif?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/soul_torch_from_torch.gif?raw=true">
 
-- Recipe can now be Crafted 2x2
+- Recipe is now Shapeless
 - New Recipe for Soul Torch (can be Crafted from 4 Torch and 1 Soul Sand/Soil)
 
 ### Soul Lantern
@@ -480,12 +484,12 @@
 ### Brush
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/brush.png?raw=true">
 
-- Recipe can now be Crafted 2x2
+- Recipe is now Shapeless
 
 ### Spy Glass
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/spyglass.png?raw=true">
 
-- Recipe can now be Crafted 2x2
+- Recipe is now Shapeless
 - Input is 1 Copper Ingot and 1 Amethyst Shard (instead of 2 Copper Ingot and 1 Amethyst Shard)
 
 ### Sea Lantern
