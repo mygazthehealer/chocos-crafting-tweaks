@@ -4,16 +4,10 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/stairs_wooden.gif?raw=true">
 
 - Output is 6 Stairs (instead of 4)
-- New Recipe for Stairs (can also be Crafted with 3 Blocks)
 - Quartz Stairs can no longer be Crafted from Quartz Pillar, Chiseled Quartz Block
 - Puppur Stairs can no longer be Crafted from Purpur Pillar
 - Sandstone Stairs can no longer be Crafted from Cut Sandstone, Chiseled Sandstone
 - Red Sandstone Stairs can no longer be Crafted from Cut Red Sandstone, Chiseled Red Sandstone
-<details>
-  
-- Added Bamboo Mosaic Stairs to "wooden_stairs" tag
-- Removed "waxed_weathered_cut_copper_stairs" "waxed_oxidized_cut_copper_stairs" "waxed_exposed_cut_copper_stairs" tags
-- Added Waxed Exposed Cut Copper Stairs, Waxed Weathered Cut Copper Stairs, Waxed Oxidized Cut Copper Stairs to "waxed_cut_copper_stairs" tag</details>
 
 ### Trapdoor
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/trapdoor_wooden.gif?raw=true">
@@ -575,9 +569,6 @@
 
 - Nether Brick can also be Smelted/Blasted from Crimson Nylium, Warped Nylium (0.3 XP)
 - Nether Brick can also be Blasted from Netherrack (0.3 XP rather than 0.1 XP)
-<details>
-
-- Created "nylium" tag for Crimson Nylium, Warped Nylium</details>
 
 ### Brick
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/brick.png?raw=true">
@@ -674,39 +665,47 @@
 
 ## Stonecutting
 ### Deepslate
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/cobbled_deepslate.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/deepslate.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/polished_deepslate.png?raw=true">
 
 - Cobbled Deepslate can no longer be Stonecut into Chiseled Deepslate, Polished Deepslate (Stair/Slabs/Wall), Deepslate Bricks (Stair/Slabs/Wall), Deepslate Tiles (Stair/Slabs/Wall)
 - Deepslate can be Stonecut into Chiseled Deepslate, Cobbled Deepslate (Stair/Slabs/Wall), Polished Deepslate (Stair/Slabs/Wall), Deepslate Bricks (Stair/Slabs/Wall), Deepslate Tiles (Stair/Slabs/Wall)
 - Polished Deepslate can be Stonecut into Chiseled Deepslate
 
 ### Stone
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/stone.png?raw=true">
 
 - Stone can be Stonecut into Cobblestone (Stair/Slabs/Wall), 4 Stone Buttons, 2 Stone Pressure Plate
 
 ### Blackstone
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/blackstone.gif?raw=true">
 
 - Blackstone/Polished Blackstone can be Stonecut into 4 Polished Blackstone Buttons, 2 Polished Blackstone Pressure Plate
 
 ### Prismarine 
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/prismarine.png?raw=true">
 
 - Prismarine can be Stonecut into Prismarine Bricks (Stairs/Slabs)
 
 ### Nether Bricks
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/nether_bricks.png?raw=true">
 
 - Nether Bricks can be Stoncut into Nether Brick Fence
 
 ### Cut Copper
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/copper.gif?raw=true">
 
 - Copper can be Stonecut into 1 Cut Copper (and Products) (instead of 4) (also applies to Waxed/Exposed/Weathered/Oxidised Cut Copper)
 
 ### Wooden Planks
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/wooden_planks.gif?raw=true">
 
-- Wood/Hyphae can be Stonecut into Stripped Wood/Hyphae, Log/Stem (and Products)
-- Log/Stem can be Stonecut into Stripped Log/Stem, 2 Doors, 4 Wooden Planks (and Products)
 - Wooden Planks can be Stonecut into Wooden Stairs, 2 Slabs, Fence, Fence Gate, Trapdoor, Sign, 2 Pressure Plates, 4 Buttons
 
 ### Bamboo
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/bamboo_planks.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/bamboo_mosaic.png?raw=true">
 
-- Bamboo Block can be Stonecut into Stripped Bamboo Block
 - Bamboo Planks can be Stonecut into Bamboo Stairs, 2 Slabs, Fence, Fence Gate, Trapdoor, Sign, 2 Pressure Plates, 4 Buttons, Bamboo Mosaic (Stairs/Slabs)
 - Bamboo Mosaic can be Stonecut into Bamboo Mosaic Stairs, 2 Slabs
