@@ -2,7 +2,6 @@
 ## Crafting
 ### Stairs
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/stairs_wooden.gif?raw=true">
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/stairs_wooden_alt.gif?raw=true">
 
 - Output is 6 Stairs (instead of 4)
 - New Recipe for Stairs (can also be Crafted with 3 Blocks)
@@ -117,7 +116,7 @@
 ### Lodestone
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/lodestone.png?raw=true">
 
-- Input is 8 Chiseled Stone Bricks/Chiseled Deepslate/Chiseled Polished Blackstone and 1 Netherite Ingot (instead of 8 Chiseled Stone Bricks and 1 Netherite Ingot)
+- Input is 8 Chiseled Stone Bricks/Chiseled Deepslate/Chiseled Polished Blackstone and 1 Iron Ingot (instead of 8 Chiseled Stone Bricks and 1 Netherite Ingot)
 
 ### Blast Furnace
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/blast_furnace.png?raw=true">
@@ -215,14 +214,14 @@
 - New Recipe for Enchanted Golden Apple (can be Crafted from 8 Gold Blocks and 1 Golden Apple)
 
 ### Nether Wart Block
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/wart_block_crimson.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/wart_block_crimson.gif?raw=true">
 
-- Input is 4 Nether Warts (instead of 9)
+- Input is 4 Crimson Roots/Weeping Vines (instead of 9 Nether Warts)
 
 ### Warped Wart Block
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/wart_block_warped.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/wart_block_warped.gif?raw=true">
 
-- New Recipe for Warped Wart Block (can be Crafted from 4 Nether Sprouts)
+- New Recipe for Warped Wart Block (can be Crafted from 4 Warped Roots/Twisting Vines)
 
 ### Red Nether Bricks
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/red_nether_bricks.gif?raw=true">
@@ -293,11 +292,6 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dead_coral_block.gif?raw=true">
 
 - New Recipe for Coral Block/Dead Coral Block (can be Crafted from 4 Coral/Dead Coral or Coral Fan)
-
-### Wet Sponge
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/wet_sponge.png?raw=true">
-
-- New Recipe for Wet Sponge (can be Crafted from 4 Sponge and 1 Water Bucket)
 
 ### Mud
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/mud.gif?raw=true">
@@ -421,7 +415,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/template_smithing.gif?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/template_upgrade.png?raw=true">
 
-- Input is 1 Template, 1 Diamond and 7 Blocks (instead of 1 Template, 7 Diamonds and 1 Block)
+- Input is 1 Template, 2 Diamond and 7 Blocks (instead of 1 Template, 7 Diamonds and 1 Block)
 - Block corresponding to Rib Smithing Template is Nether Bricks (instead of Netherrack)
 
 ### Leather Armour
@@ -481,6 +475,11 @@
 
 - New Recipe for Soul Lantern (can be Crafted from 4 Lantern and 1 Soul Sand/Soil)
 
+### Gilded Blackstone
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/gilded_blackstone.png?raw=true">
+
+- New Recipe for Gilded Blackstone (can be Crafted from 4 Gold Nuggets  and 1 Blackstone)
+
 ### Brush
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/brush.png?raw=true">
 
@@ -525,10 +524,8 @@
 
 ### Shulker Box
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/shulker_box.png?raw=true">
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/shulker_box_dyed.gif?raw=true">
 
-- Recipe is now Shapeless
-- New Recipe for Dyed Shulker Box (cab be Crafted from 2 Shulker Shells, 1 Chest and 1 Dye)
+- Input is 2 Shulker Shells (instead of 2 Shulker Shells and 1 Chest)
 
 ### Blaze Powder
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/blaze_powder.png?raw=true">
@@ -573,11 +570,6 @@
 - Netherite Gear can be Smithed from Diamond Gear and Netherite Ingot
 
 ## Smelting
-### Gold Ingot
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/gold_ingot.png?raw=true">
-
-- Gold Ingot can also be Smelted/Blasted from Gilded Blackstone (1.0 XP)
-
 ### Nether Brick
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/nether_brick.gif?raw=true">
 

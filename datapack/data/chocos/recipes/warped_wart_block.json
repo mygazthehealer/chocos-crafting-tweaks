@@ -2,9 +2,14 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:nether_sprouts"
+    "#": [
+    {
+      "item": "minecraft:warped_roots"
+    },
+    {
+      "item": "minecraft:twisting_vines"
     }
+  ]
   },
   "pattern": [
     "##",
