@@ -91,7 +91,7 @@
 - Convenient shapeless recipe for Crafting by hand
 - New recipes allow consistent, precise output (vanilla recipe shapes are inconsistent and output feels arbitrary)
 
-### Chiseled Deepslate, Polished Deepslate 
+### Chiseled Tuff, Chiseled Deepslate, Polished Deepslate 
 
 - Recipe input is consistent with other Chiseled, Polished Stoneset recipes
 
@@ -162,7 +162,7 @@
 - More appropriate to get White Dye from White flowers (rather than Light Grey Dye)
 - More appropriate to get Purple Dye from Allium (rather than Magenta Dye)
 - New recipes for Pink, Black, Red, Cyan Dye from flowers (gives uses to Spore Blossom, Crimson Roots, Warped Roots)
-- New recipes for Brown, Green (Players have more variety/options)
+- New recipes for Brown, Green (Players have more options/variety in obtaining Dyes)
 
 ### Wool Carpet, Moss Carpet
 
@@ -202,13 +202,19 @@
 
 ### Smithing Template
 
-- Cheaper recipe using 2 Diamonds (requiring 7 diamonds is arbitrarily expensive)
+- Cheaper recipe using 2 Diamonds (requiring 7 Diamonds is arbitrarily expensive)
 - Recipe shape feels appropriate considering the Item sprite itself appears to be Diamond gleam encased in Stone
-- Rib Template associated Block: Nether Bricks is more appropriate compared to Nethrrack
+- Rib Smithing Template (Nether Bricks is more appropriate compared to Netherrack)
+- Bolt Smithing Template (Copper Ingot is more appropriate than Copper Block)
 
 ### Leather Armour, Book
 
 - Convenient to substitute Rabbit Hide for Leather
+
+### Bundle
+
+- Convenient to substitute Leather for Rabbit Hide
+- Cheaper recipe (requiring 6 Rabbit Hide is arbitrarily expensive)
 
 ### Item Frame, Painting 
 
@@ -231,6 +237,15 @@
 ### Soul Lantern
 
 - New recipe allows converting Lantern to Soul Lantern
+ 
+### Gilded Blackstone
+- New recipe allows converting Blackstone to Gilded Blackstone
+
+### Copper Bulb
+- 1-to-1 output ratio
+
+### Copper Grate
+- New Recipe shape is more appropriate
 
 ### Spyglass 
 

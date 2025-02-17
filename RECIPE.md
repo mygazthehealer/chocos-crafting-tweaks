@@ -2,6 +2,7 @@
 ## Crafting
 ### Stairs
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/stairs_wooden.gif?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/stairs_tuff.gif?raw=true">
 
 - Output is 6 Stairs (instead of 4)
 - Quartz Stairs can no longer be Crafted from Quartz Pillar, Chiseled Quartz Block
@@ -17,6 +18,11 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/trapdoor_iron.png?raw=true">
 
 - Output is 4 Trapdoors (instead of 1 for Iron Ingot)
+
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/trapdoor_copper.png?raw=true">
+
+- Input is 4 Copper Ingots (instead of 6)
+- Output is 4 Trapdoors (instead of 2)
 
 ### Button
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/button.gif?raw=true">
@@ -166,6 +172,11 @@
 
 - Recipe is now Shapeless
 - Input is 1 Gold Ingot, 1 Redstone Dust and 1 Rail (instead of 1 Redstone Dust, 1 Stick and 6 Gold Ingots)
+
+### Chiseled Tuff
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/tuff_chiseled.png?raw=true">
+
+- Input is 2 Polished Tuff Slabs (instead of 2 Tuff Slabs)
 
 ### Chiseled Deepslate
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/deepslate_chiseled.png?raw=true">
@@ -409,8 +420,12 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/template_smithing.gif?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/template_upgrade.png?raw=true">
 
-- Input is 1 Template, 2 Diamond and 7 Blocks (instead of 1 Template, 7 Diamonds and 1 Block)
+- Input is 1 Template, 2 Diamond and 6 Blocks (instead of 1 Template, 7 Diamonds and 1 Block)
 - Block corresponding to Rib Smithing Template is Nether Bricks (instead of Netherrack)
+
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/template_smithing_2.gif?raw=true">
+
+- Item corresponding to Bolt Smithing Template is Copper Ingot (instead of Copper Block)
 
 ### Leather Armour
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/leather_helmet.png?raw=true">
@@ -424,6 +439,11 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/book.png?raw=true">
 
 - New Recipe for Book (can also be Crafted from 3 Paper and 1 Rabbit Hide)
+
+### Bundle
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/bundle.gif?raw=true">
+
+- Input is 1 String and 1 Leather/Rabbit Hide Recipe (instead of 2 String and 6 Rabbit Hide)
 
 ### Item Frame
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/item_frame.gif?raw=true">
@@ -473,6 +493,16 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/gilded_blackstone.png?raw=true">
 
 - New Recipe for Gilded Blackstone (can be Crafted from 4 Gold Nuggets  and 1 Blackstone)
+
+### Copper Bulb
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/copper_bulb.gif?raw=true">
+
+- Output is 3 Copper Bulb (instead of 4)
+
+### Copper Grate
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/copper_grate.png?raw=true">
+
+- Input is 8 Copper Ingots (instead of 4 Copper Blocks)
 
 ### Brush
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/brush.png?raw=true">
@@ -528,6 +558,7 @@
  
 ### Pottery Sherds
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/pottery_sherds.gif?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/pottery_sherds_2.gif?raw=true">
 
 - New Recipe for Pottery Sherds (can be Crafted from 1 Pottery Sherd and 1 Brick)
   
@@ -550,6 +581,10 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/sea_lantern_removed.png?raw=true">
 
 - Vanilla Recipe for Sea Lantern replaced
+
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/copper_grate_removed.gif?raw=true">
+
+- Vanilla Recipe for Copper Grate replaced
 
 ## Smithing
 ### Netherite Gear
@@ -696,7 +731,7 @@
 ### Cut Copper
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/copper.gif?raw=true">
 
-- Copper can be Stonecut into 1 Cut Copper (instead of 4) (also applies to Waxed/Exposed/Weathered/Oxidised Cut Copper)
+- Copper can be Stonecut into 1 Cut Copper, Chiselled Copper, Copper Grate (instead of 4) (also applies to Waxed/Exposed/Weathered/Oxidised variants)
 
 ### Wooden Planks
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/wooden_planks.gif?raw=true">
