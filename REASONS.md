@@ -2,18 +2,17 @@
 ## Crafting
 ### Stairs
 
-- Crafting recipe is consistent with Stonecutting (1-to-1 output ratio)
-- Convenient 2x2 recipe for Crafting by hand
-- Stonecutting recipe (Wooden Stairs) for precise output
+- Crafting yield is now consistent with Stonecutting (1-to-1 output ratio)
+- Stonecutting recipe (for Wooden Planks) for precise output
 
-### Trapdoor, Door
+### Trapdoor
 
-- Recipe output is consistent with Door recipe (Both Iron and Wooden Doors)
+- Recipe yield is consistent with Door recipe
 - Stonecutting recipe for precise output
 
 ### Button, Pressure Plate
 
-- Output is higher cos more convenient for Players to spend 1 Plank rather than 4
+- Recipe yield was increased (Players are likely to use more than one Button or Pressure Plate)
 - Stonecutting recipe for precise output
 
 ### Fence, Fence Gate
@@ -23,13 +22,13 @@
 
 ### Signs
 
-- Recipe output is consistent with Hanging Sign recipe
+- Recipe yield is consistent with Hanging Sign recipe
 - Stonecutting recipe for precise output
 
 ### Hanging Sign
 
 - Recipe shape is consistent with Sign recipe
-- More convenient to use 1 Chain and also Stripped Logs as ingredients rather than 2 Chains and only Stripped Wood
+- Convenient to use 1 Chain and Stripped Logs as ingredients (requiring 2 Chains feels arbitrary)
 
 ### Bowls
 
@@ -37,7 +36,7 @@
 
 ### Ladder
 
-- Output is higher cos more convenient 
+- Convenient to have more Ladders, hence Recipe yield was increased 
 
 ### Boat with Chest, Minecart with Workbench
 
@@ -45,51 +44,51 @@
 
 ### Loom
 
-- Recipe shape is consistent with other Workbenches
+- Recipe shape is consistent with other Workbench recipes
 
 ### Dispenser
 
-- using Tripwire Hook allows stacking for bulk crafting (also using Bow as ingredient felt arbitrary)
+- using Tripwire Hook allows stacking for bulk crafting (rather than using Bow as ingredient, which feels arbitrary)
 - New recipe allows converting Dropper to Dispenser
-- More convenient to also use Cobbled Deepslate, Blackstone rather than only Cobblestone
+- Convenient to substitute Cobbled Deepslate, Blackstone for Cobblestone (consistent with Furnace recipe)
 
 ### Dropper, Piston 
 
-- More convenient to also use Cobbled Deepslate, Blackstone rather than only Cobblestone
+- Convenient to substitute Cobbled Deepslate, Blackstone for Cobblestone (consistent with Furnace recipe)
 
 ### Observer
 
-- More convenient to use 1 Redstone Dust and also Cobbled Deepslate, Blackstone rather than 2 Redstone Dust and only Cobblestone (also using 2 Redstone Dust felt arbitrary)
+- Convenient to substitute Cobbled Deepslate, Blackstone for Cobblestone (consistent with Furnace recipe) and use 1 Redstone Dust (requiring 2 Redstone Dust feels arbitrary)
 
 ### Stonecutter, Repeater, Comparator
 
-- More convenient to also use Deepslate rather than only Cobblestone
+- Convenient to substitute Deepslate for Cobblestone (consistent with Bedrock recipes)
 
 ### Lodestone
 
-- More convenient to also use Chiseled Deepslate, Chiseled Blackstone rather than only Chiseled Stone
+- Convenient to substitute Chiseled Deepslate, Chiseled Blackstone for Chiseled Stone (consistent with general idea of Deepslate, Blackstone being substitues for Stone)
 
 ### Blast Furnace, Armour Stand
 
-- More convenient to also use Polished Deepslate, Polished Blackstone rather than only Smooth Stone
+- Convenient to substitute Polished Deepslate, Polished Blackstone for Smooth Stone (consistent with general idea of Deepslate, Blackstone being substitues for Stone)
 
 ### Lever
 
-- More convenient to also use Cobbled Deepslate, Blackstone rather than only Cobblestone
-- Recipe output is consistent with Torch recipe
+- Convenient to substitute Cobbled Deepslate, Blackstone for Cobblestone
+- Recipe yield is consistent with Torch recipe
 
 ### Redstone Torch, Candles
 
-- Recipe output is consistent with Torch recipe
+- Recipe yield is consistent with Torch recipe
 
 ### Tripwire Hook
 
-- Recipe output is consistent with Torch recipe
-- Convenient 2x2 recipe for Crafting by hand
+- Recipe yield is consistent with Torch recipe
+- Convenient shapeless recipe for Crafting by hand
 
 ### Activator Rail, Detector Rail, Powered Rail
 
-- Convenient 2x2 recipe for Crafting by hand
+- Convenient shapeless recipe for Crafting by hand
 - New recipes allow consistent, precise output (vanilla recipe shapes are inconsistent and output feels arbitrary)
 
 ### Chiseled Deepslate, Polished Deepslate 
@@ -98,11 +97,11 @@
 
 ### Mossy Cobblestone, Mossy Stone Bricks
 
-- New recipe allows converting Cobblestone, Stone Brick items to Mossy varient
+- New recipe allows converting Cobblestone, Stone Brick items to Mossy variant
 
 ### Hopper 
 
-- Slightly cheaper (also using Chest as ingredient feels arbitrary)
+- Slightly cheaper (requiring Chest as ingredient feels arbitrary)
 
 ### Anvil, Chipped Anvil
 
@@ -110,7 +109,7 @@
 
 ### Enchanted Golden Apple
 
-- New recipe cos it's too rare (also slightly more expensive than former vanilla recipe)
+- Debatable and divisive topic, but God Apples are too rare and unsustainable as loot, hence the New recipe (which is slightly more expensive than its former vanilla recipe, to reflect its cost)
 
 ### Nether Wart Block, Packed Ice, Blue Ice
 
@@ -119,11 +118,10 @@
 ### Snow Block
 
 - Recipe shape/output is consistent with Slime Block recipe
-- New recipe allows converting Snow to Snow Blocks (without having to place Block repeatedly)
+- New recipe allows converting Snow layers to Snow Blocks
 
 ### Warped Wart Block
 
-- Gives minor use to Nether Sprouts (warped Nether Wart counterpart)
 - Consistent with Nether Wart Block recipe
 
 ### Red Nether Bricks
@@ -136,18 +134,16 @@
 
 ### Rooted Dirt
 
-- Gives minor use to Hanging Roots
 - Consistent with Muddy Mangrove Roots recipe
 
 ### Andesite, Diorite 
 
-- Shapeless recipe allows precise output
-- using Cobblestone as ingredient feels arbitrary, Stone is more appropriate
-- Consistent with Granite recipe
+- Shapeless recipe allows precise output (Consistent with Granite recipe)
+- using Stone is more appropriate (using Cobblestone as ingredient feels arbitrary)
 
 ### Melon, Bamboo Block
 
-- Recipe output is consistent with other 3x3 Storage Blocks 
+- Recipe yield is consistent with other 3x3 Storage Blocks 
 
 ### Bamboo Plank
 
@@ -155,25 +151,28 @@
 
 ### Coral Blocks, Dead Coral Blocks, Sculk
 
-- New recipe makes Block renewable
-
-### Wet Sponge 
-
-- New recipe allows converting Sponge to Wet Sponge (without having to place Block and Water repeatedly)
+- New recipe makes Coral Blocks renewable
 
 ### Bread, Cookie, Paper
 
-- Convenient 2x2 recipe for Crafting by hand
+- Convenient shapeless recipe for Crafting by hand
+
+### Dyes
+
+- More appropriate to get White Dye from White flowers (rather than Light Grey Dye)
+- More appropriate to get Purple Dye from Allium (rather than Magenta Dye)
+- New recipes for Pink, Black, Red, Cyan Dye from flowers (gives uses to Spore Blossom, Crimson Roots, Warped Roots)
+- New recipes for Brown, Green (Players have more variety/options)
 
 ### Wool Carpet, Moss Carpet
 
-- Recipe output is consistent with Pressure Plate
+- Recipe yield is consistent with Pressure Plate recipe
 
 ### Snow
 
 - New recipe allows lossless conversion
-- Recipe output is consistent with Carpet
-- Convenient 2x2 recipe for Crafting by hand
+- Recipe output is consistent with Carpet recipe
+- Convenient shapeless recipe for Crafting by hand
 
 ### Banner
 
@@ -181,48 +180,52 @@
 
 ### Concrete Powder
 
-- More convenient to also use Red Sand
+- Convenient to substitute Red Sand for Sand
 
 ### Concrete
 
-- New recipe allows converting Concrete Powder to Concrete (without having to place Block and Water repeatedly)
+- New recipe allows converting Concrete Powder to Concrete (without having to place Water repeatedly)
+
+### Mud
+
+- New recipe allows converting Dirt/Grass Block to Mud (without having to use Water bottles repeatedly)
 
 ### Lead
 
-- More convenient to also use Honey Bottle
+- Convenient to substitute Honey Bottle for Slimeball
 - 1-to-1 output ratio
 
 ### String 
 
-- Convenient for gathering string from cobweb
+- Convenient for gathering string from Cobwebs
 - former Bedrock Edition recipe (true Java parity)
 
 ### Smithing Template
 
-- Cheaper recipe using 1 Diamond (Template requiring 7 diamond is arbitrarily expensive)
-- Recipe shape feels appropriate cos Item sprite itself appears to be Diamond gleam covered by Stone
+- Cheaper recipe using 2 Diamonds (requiring 7 diamonds is arbitrarily expensive)
+- Recipe shape feels appropriate considering the Item sprite itself appears to be Diamond gleam encased in Stone
 - Rib Template associated Block: Nether Bricks is more appropriate compared to Nethrrack
 
 ### Leather Armour, Book
 
-- More convenient to also use Rabbit Hide
+- Convenient to substitute Rabbit Hide for Leather
 
 ### Item Frame, Painting 
 
-- More convenient to also use Rabbit Hide
-- Slightly cheaper (using 8 Sticks as ingredient feels arbitrary)
+- Convenient to substitute Rabbit Hide for Leather
+- Slightly cheaper (requiring 8 Sticks feels arbitrary)
 
 ### Glow Item Frame
 
-- more convenient to also use Glowstone Dust
+- Convenient to substitute Glowstone Dust for Glow Ink Sac
 
 ### Arrow, Spectral Arrow, Tinted Glass, Brush
 
-- Convenient 2x2 recipe for Crafting by hand
+- Convenient shapeless recipe for Crafting by hand
 
 ### Soul Torch
 
-- Convenient 2x2 recipe for Crafting by hand
+- Convenient shapeless recipe for Crafting by hand
 - New recipe allows converting Torch to Soul Torch
 
 ### Soul Lantern
@@ -231,17 +234,17 @@
 
 ### Spyglass 
 
-- Slightly cheaper (using 2 Copper Ingots as ingredient is arbitrary)
-- Convenient 2x2 recipe for Crafting by hand
+- Slightly cheaper (requiring 2 Copper Ingots feels arbitrary)
+- Convenient shapeless recipe for Crafting by hand
 
 ### Sea Lantern
 
-- Convenient 2x2 recipe for Crafting by hand (vanilla recipe shape is arbitrary)(using 5 Prismarine Crystals and 4 Prismarine Shards as ingredient is arbitrary)
+- Convenient 2x2 recipe for Crafting by hand (Vanilla recipe shape is nonsensical, requiring 5 Prismarine Crystals and 4 Prismarine Shards is arbitrary)
 
 ### Prismarine Bricks
 
 - Recipe input is consistent with other Stoneset Bricks recipes
-- Convenient 2x2 recipe for Crafting by hand (using 9 Prismarine Shards as ingredient is arbitrary)
+- Convenient 2x2 recipe for Crafting by hand (requiring 9 Prismarine Shards is arbitrary)
 
 ### Dark Prismarine 
 
@@ -249,7 +252,7 @@
 
 ### Purpur Block
 
-- Recipe output is consistent with other 2x2 Decor Blocks
+- Recipe yield is consistent with other 2x2 Decor Blocks
 
 ### Purpur Pillar 
 
@@ -257,36 +260,35 @@
 
 ### Shulker Box
 
-- New recipe allows stacking for bulk crafting
-- Convenient 2x2 recipe for Crafting by hand
+- New recipe allows stacking for bulk crafting (requiring Chest as ingredient feels arbitrary)
+- Convenient shapeless recipe for Crafting by hand
 
 ### Blaze Powder
 
-- Recipe output is consistent with Bonemeal recipe
+- Recipe yield is consistent with Bonemeal recipe
 
 ### Pottery Sherds
 
-- New recipe for Pottery Sherd duping
+- New recipe allows Pottery Sherd duping
 
 ### Removed Recipes
 
-- Leather from Rabbit Hide is unnecessary 
-- Horse Armours are treasure items, they should not have recipes 
-- Red Dye from Beetroot is better as Smelting recipe like Green Dye from Cactus
+- Rabbit Hide as substitute for Leather is more appropriate
+- Horse Armour is a Treasure item, they should not be obtainable from Crafting
+- Red Dye from Beetroot is more appropriate as Smelting recipe (consistent with Green Dye from Cactus recipe)
 
 ## Smithing
 
-- Netherite Upgrade Template is an arbitrary step in an already difficult process, we don't need to make getting Netherite Gear harder than it already is
+- Netherite Upgrade Template is an arbitrary pointless step in an already lengthy/difficult process, we don't need to make obtaining Netherite Gear harder than it already is
 
 ## Smelting
 
-- Gilded Blackstone is basically Blackstone Gold Ore
-- Nylium is basically Overgrown Netherrack
-- Orange Dye from Carrots gives carrots another use
+- Nylium can be smelted to Nether Bricks (consistent since its basically Overgrown Netherrack)
+- New recipe for Orange Dye from Carrot (gives another use to Carrot)
 - Stained Glass, Stained Glass Pane can be recycled to Glass, Glass Pane
-- Shear is an Iron tool
-- Smelting Raw Ore Block is convenient for smelting more ingots faster and saving up on fuel, but experience is sacrificed 
-- Only tools with durability should be smelting; Horse Armours are treasure items; they should have no usage beyond itself
+- Shear is an Iron tool (consistent with other Iron Gear Smelting recipes)
+- Smelting Raw Ore Block is convenient for smelting more ingots faster and saving up on fuel, while experience is sacrificed 
+- Only tools with durability should be smelting; Horse Armours are treasure items hence they should have no usage beyond itself
 
 ## Blasting
 
@@ -298,8 +300,7 @@
 
 ## Stonecutting
 
-- Deepslate recipes are more appropriate and consistent with other Stoneset recipes (using Cobbled Deepslate is arbitrary)
+- Deepslate recipes are now consistent with other Stoneset recipes (requiring Cobbled Deepslate for Polished Deepslate, Deepslate Bricks is arbitrary; using Deepslate is more appropriate)
 - Deepslate, Stone can be converted to Cobbled Deepslate, Cobblestone
-- Button, Pressure Plate recipes are convenient for precise output
-- Cut Copper output was arbitrarily high
-- Woodcutting recipes are very convenient and needed
+- Cut Copper stonecutting yield was corrected (Vanilla recipe output was arbitrarily high)
+- Woodcutting recipes are neccessary and very convenient for Players

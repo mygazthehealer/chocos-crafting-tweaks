@@ -669,14 +669,14 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/deepslate.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/polished_deepslate.png?raw=true">
 
-- Cobbled Deepslate can no longer be Stonecut into Chiseled Deepslate, Polished Deepslate (Stair/Slabs/Wall), Deepslate Bricks (Stair/Slabs/Wall), Deepslate Tiles (Stair/Slabs/Wall)
-- Deepslate can be Stonecut into Chiseled Deepslate, Cobbled Deepslate (Stair/Slabs/Wall), Polished Deepslate (Stair/Slabs/Wall), Deepslate Bricks (Stair/Slabs/Wall), Deepslate Tiles (Stair/Slabs/Wall)
+- Cobbled Deepslate can no longer be Stonecut into Chiseled Deepslate, Polished Deepslate, Deepslate Bricks and Deepslate Tiles
+- Deepslate can be Stonecut into Chiseled Deepslate, Cobbled Deepslate, Polished Deepslate, Deepslate Bricks and Deepslate Tiles
 - Polished Deepslate can be Stonecut into Chiseled Deepslate
 
 ### Stone
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/stone.png?raw=true">
 
-- Stone can be Stonecut into Cobblestone (Stair/Slabs/Wall), 4 Stone Buttons, 2 Stone Pressure Plate
+- Stone can be Stonecut into 4 Stone Buttons, 2 Stone Pressure Plate and Cobblestone
 
 ### Blackstone
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/blackstone.gif?raw=true">
@@ -696,16 +696,16 @@
 ### Cut Copper
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/copper.gif?raw=true">
 
-- Copper can be Stonecut into 1 Cut Copper (and Products) (instead of 4) (also applies to Waxed/Exposed/Weathered/Oxidised Cut Copper)
+- Copper can be Stonecut into 1 Cut Copper (instead of 4) (also applies to Waxed/Exposed/Weathered/Oxidised Cut Copper)
 
 ### Wooden Planks
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/wooden_planks.gif?raw=true">
 
-- Wooden Planks can be Stonecut into Wooden Stairs, 2 Slabs, Fence, Fence Gate, Trapdoor, Sign, 2 Pressure Plates, 4 Buttons
+- Wooden Planks can be Stonecut into Wooden Stairs, 2 Slabs, Fence, Fence Gate, 2 Pressure Plates, 4 Buttons, Trapdoor and Sign
 
 ### Bamboo
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/bamboo_planks.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/bamboo_mosaic.png?raw=true">
 
-- Bamboo Planks can be Stonecut into Bamboo Stairs, 2 Slabs, Fence, Fence Gate, Trapdoor, Sign, 2 Pressure Plates, 4 Buttons, Bamboo Mosaic (Stairs/Slabs)
-- Bamboo Mosaic can be Stonecut into Bamboo Mosaic Stairs, 2 Slabs
+- Bamboo Planks can be Stonecut into Bamboo Stairs, 2 Slabs, Fence, Fence Gate, 2 Pressure Plates, 4 Buttons, Bamboo Mosaic, Trapdoor and Sign
+- Bamboo Mosaic can be Stonecut into Bamboo Mosaic Stairs and 2 Slabs
