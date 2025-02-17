@@ -91,7 +91,7 @@
 - Convenient shapeless recipe for Crafting by hand
 - New recipes allow consistent, precise output (vanilla recipe shapes are inconsistent and output feels arbitrary)
 
-### Chiseled Tuff, Chiseled Deepslate, Polished Deepslate 
+### Polished Deepslate, Chiseled Deepslate, Chiseled Tuff
 
 - Recipe input is consistent with other Chiseled, Polished Stoneset recipes
 

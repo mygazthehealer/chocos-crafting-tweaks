@@ -173,20 +173,20 @@
 - Recipe is now Shapeless
 - Input is 1 Gold Ingot, 1 Redstone Dust and 1 Rail (instead of 1 Redstone Dust, 1 Stick and 6 Gold Ingots)
 
-### Chiseled Tuff
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/tuff_chiseled.png?raw=true">
+### Polished Deepslate
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/deepslate_polished.png?raw=true">
 
-- Input is 2 Polished Tuff Slabs (instead of 2 Tuff Slabs)
+- Input is 4 Deepslate (instead of 4 Cobbled Deepslate)
 
 ### Chiseled Deepslate
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/deepslate_chiseled.png?raw=true">
 
 - Input is 2 Polished Deepslate Slabs (instead of 2 Cobbled Deepslate Slabs)
 
-### Polished Deepslate
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/deepslate_polished.png?raw=true">
+### Chiseled Tuff
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/tuff_chiseled.png?raw=true">
 
-- Input is 4 Deepslate (instead of 4 Cobbled Deepslate)
+- Input is 2 Polished Tuff Slabs (instead of 2 Tuff Slabs)
 
 ### Mossy Cobblestone
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/mossy_cobblestone.gif?raw=true">
@@ -298,11 +298,6 @@
 
 - New Recipe for Coral Block/Dead Coral Block (can be Crafted from 4 Coral/Dead Coral or Coral Fan)
 
-### Mud
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/mud.gif?raw=true">
-
-- New Recipe for Mud (can be Crafted from 8 Dirt/Grass Block and 1 Water Bucket)
-
 ### Bread
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/bread.png?raw=true">
 
@@ -404,6 +399,11 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/concrete.gif?raw=true">
 
 - New Recipe for Concrete (can be Crafted from 8 Concrete Powder and 1 Water Bucket)
+
+### Mud
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/mud.gif?raw=true">
+
+- New Recipe for Mud (can be Crafted from 8 Dirt/Grass Block and 1 Water Bucket)
 
 ### Lead
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/lead.gif?raw=true">
