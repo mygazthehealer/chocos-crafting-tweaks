@@ -140,6 +140,11 @@
 - Recipe is now Shapeless
 - Output is 4 (instead of 1)
 
+### Chain
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/chain.png?raw=true">
+
+- Recipe is now Shapeless
+
 ### Redstone Torch
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/redstone_torch.png?raw=true">
 
@@ -371,7 +376,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/carpet_wool.gif?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/carpet_moss.png?raw=true">
 
-- Output is 4 Carpets (instead of 3 for Wools and Moss Block)
+- Output is 4 Carpets (instead of 3 for Wools, Moss and Pale Moss Block)
 
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/carpet_snow.png?raw=true">
 
@@ -418,13 +423,12 @@
 
 ### Smithing/Upgrade Template
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/template_smithing.gif?raw=true">
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/template_upgrade.png?raw=true">
 
 - Input is 1 Template, 2 Diamond and 6 Blocks (instead of 1 Template, 7 Diamonds and 1 Block)
-- Block corresponding to Rib Smithing Template is Nether Bricks (instead of Netherrack)
 
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/template_smithing_2.gif?raw=true">
 
+- Item corresponding to Rib Smithing Template is Nether Brick (instead of Netherrack)
 - Item corresponding to Bolt Smithing Template is Copper Ingot (instead of Copper Block)
 
 ### Leather Armour
@@ -561,12 +565,22 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/pottery_sherds_2.gif?raw=true">
 
 - New Recipe for Pottery Sherds (can be Crafted from 1 Pottery Sherd and 1 Brick)
-  
+
+### Saddle
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/saddle.png?raw=true">
+
+- New Recipe for Saddle (can be Crafted from 3 Leather/Rabbit Hide, 2 String and 2 Iron Ingot)
+
+### Horse Armour
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/horse_armour.gif?raw=true">
+
+- Input is 1 Wool and 6 Leather/Rabbit Hide (instead of 7 Leather)
+- New Recipe for Iron/Golden/Diamond Horse Armour (can be Crafted from 6 Iron Ingot/Gold Ingot/Diamond and 1 Wool)
+
 ### (Removed Recipes)
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/leather_removed.png?raw=true">
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/leather_horse_armour_removed.png?raw=true">
 
-- Vanilla Recipe for Leather, Leather Horse Armour no longer work
+- Vanilla Recipe for Leather no longer work
 
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_red_from_beetroot.png?raw=true">
 
@@ -671,10 +685,10 @@
 
 - Charcoal can also be Smoked from Log/Wood or Stripped Log/Wood (0.15 XP)
 
-### Iron Nugget
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/shears.png?raw=true">
+### Iron Ingot
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/ingot_iron_gif.png?raw=true">
 
-- Shears can be Smelted/Blasted to yield Iron Nugget (0.1 XP)
+- Shears can be Smelted/Blasted to yield Iron Ingot (0.1 XP)
 
 ### Iron Block
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/block_iron.png?raw=true">

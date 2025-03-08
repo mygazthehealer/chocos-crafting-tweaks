@@ -10,18 +10,21 @@
       "item": "minecraft:rabbit_hide"
     }
   ],
-    "W": {
-      "tag": "minecraft:wool"
+    "S": {
+      "item": "minecraft:string"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
     }
   },
   "pattern": [
-    "  X",
-    "XWX",
-    "XXX"
+    "XXX",
+    "S S",
+    "I I"
   ],
   "result": {
     "count": 1,
-    "item": "minecraft:leather_horse_armor"
+    "item": "minecraft:saddle"
   },
   "show_notification": true
 }

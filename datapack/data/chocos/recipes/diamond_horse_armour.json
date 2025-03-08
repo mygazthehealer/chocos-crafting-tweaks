@@ -4,7 +4,7 @@
   "key": {
     "X": [
       {
-      "item": "minecraft:leather"
+      "item": "minecraft:diamond"
     },
       {
       "item": "minecraft:rabbit_hide"
@@ -21,7 +21,7 @@
   ],
   "result": {
     "count": 1,
-    "item": "minecraft:leather_horse_armor"
+    "item": "minecraft:diamond_horse_armor"
   },
   "show_notification": true
 }
