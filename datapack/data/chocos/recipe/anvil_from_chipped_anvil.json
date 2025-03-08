@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": ["minecraft:chipped_anvil", "minecraft:iron_block"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:anvil"
+  }
+}

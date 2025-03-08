@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": ["minecraft:nether_brick_wall", "minecraft:weeping_vines"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:red_nether_brick_wall"
+  }
+}

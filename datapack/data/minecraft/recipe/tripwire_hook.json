@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "#minecraft:planks","minecraft:iron_ingot","minecraft:stick"
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:tripwire_hook"
+  }
+}

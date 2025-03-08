@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "I": "minecraft:black_dye",
+    "S": ["minecraft:prismarine","minecraft:prismarine_bricks"]
+  },
+  "pattern": [
+    "SSS",
+    "SIS",
+    "SSS"
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:dark_prismarine"
+  }
+}

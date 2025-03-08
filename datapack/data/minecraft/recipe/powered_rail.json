@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": ["minecraft:gold_ingot", "minecraft:redstone", "minecraft:rail"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:powered_rail"
+  }
+}

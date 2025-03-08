@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": ["minecraft:leather","minecraft:rabbit_hide"],
+    "W": "#minecraft:wool"
+  },
+  "pattern": [
+    "  X",
+    "XWX",
+    "XXX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:leather_horse_armor"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "minecraft:water_bucket",
+    ["minecraft:dirt","minecraft:grass_block"],
+    ["minecraft:dirt","minecraft:grass_block"],
+    ["minecraft:dirt","minecraft:grass_block"],
+    ["minecraft:dirt","minecraft:grass_block"],
+    ["minecraft:dirt","minecraft:grass_block"],
+    ["minecraft:dirt","minecraft:grass_block"],
+    ["minecraft:dirt","minecraft:grass_block"],
+    ["minecraft:dirt","minecraft:grass_block"]
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:mud"
+  }
+}

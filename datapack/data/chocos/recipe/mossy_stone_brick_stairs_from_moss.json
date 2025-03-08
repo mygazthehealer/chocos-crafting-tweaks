@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": ["minecraft:stone_brick_stairs", ["minecraft:vine", "minecraft:moss_block"]],
+  "result": {
+    "count": 1,
+    "id": "minecraft:mossy_stone_brick_stairs"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:stick",
+    "#minecraft:soul_fire_base_blocks",
+    [
+      "minecraft:coal",
+      "minecraft:charcoal"
+    ]
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:soul_torch"
+  }
+}

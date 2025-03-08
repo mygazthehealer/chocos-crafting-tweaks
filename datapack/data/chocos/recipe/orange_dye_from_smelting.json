@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.2,
+  "ingredient": "minecraft:carrot",
+  "result": {
+    "id": "minecraft:orange_dye"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.3,
+  "ingredient": ["minecraft:netherrack","minecraft:warped_nylium","minecraft:crimson_nylium"],
+  "result": {
+    "id": "minecraft:nether_brick"
+  }
+}

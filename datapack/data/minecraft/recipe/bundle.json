@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "group": "bundle",
+  "ingredients": [
+    ["minecraft:leather","minecraft:rabbit_hide"],
+    "minecraft:string"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:bundle"
+  }
+}

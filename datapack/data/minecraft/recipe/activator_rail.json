@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": ["minecraft:redstone_torch", "minecraft:redstone", "minecraft:rail"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:activator_rail"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "minecraft:prismarine",
+    "minecraft:prismarine",
+    "minecraft:prismarine",
+    "minecraft:prismarine"
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:prismarine_bricks"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": ["minecraft:cobblestone_wall", ["minecraft:vine", "minecraft:moss_block"]],
+  "result": {
+    "count": 1,
+    "id": "minecraft:mossy_cobblestone_wall"
+  }
+}

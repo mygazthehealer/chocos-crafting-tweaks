@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:waxed_exposed_copper"
-  },
-  "count": 1,
-  "result": "minecraft:waxed_exposed_cut_copper"
-}

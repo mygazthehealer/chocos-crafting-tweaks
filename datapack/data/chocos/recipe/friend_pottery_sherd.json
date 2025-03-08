@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "decorated_pot_sherds",
+  "ingredients": [
+    "minecraft:friend_pottery_sherd",
+    "minecraft:brick"
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:friend_pottery_sherd"
+  }
+}

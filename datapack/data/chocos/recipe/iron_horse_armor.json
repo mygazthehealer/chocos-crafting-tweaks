@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": "minecraft:iron_ingot",
+    "W": "#minecraft:wool"
+  },
+  "pattern": [
+    "  X",
+    "XWX",
+    "XXX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_horse_armor"
+  }
+}
