@@ -153,7 +153,7 @@
 
 - New recipe makes Coral Blocks renewable
 
-### Bread, Cookie, Paper
+### Bread, Cookie, Paper, Chain
 
 - Convenient shapeless recipe for Crafting by hand
 
@@ -164,7 +164,7 @@
 - New recipes for Pink, Black, Red, Cyan Dye from flowers (gives uses to Spore Blossom, Crimson Roots, Warped Roots)
 - New recipes for Brown, Green (Players have more options/variety in obtaining Dyes)
 
-### Wool Carpet, Moss Carpet
+### Wool/Moss/Pale Moss Carpet
 
 - Recipe yield is consistent with Pressure Plate recipe
 
@@ -204,7 +204,7 @@
 
 - Cheaper recipe using 2 Diamonds (requiring 7 Diamonds is arbitrarily expensive)
 - Recipe shape feels appropriate considering the Item sprite itself appears to be Diamond gleam encased in Stone
-- Rib Smithing Template (Nether Bricks is more appropriate compared to Netherrack)
+- Rib Smithing Template (Nether Brick is more appropriate compared to Netherrack)
 - Bolt Smithing Template (Copper Ingot is more appropriate than Copper Block)
 
 ### Leather Armour, Book
@@ -286,10 +286,14 @@
 
 - New recipe allows Pottery Sherd duping
 
+### Saddle, Horse Armour, Name Tag
+
+- No reason to lock these items behind an arbitrary loot table (given how useful they are)
+- Saddle is too common to even qualify as loot
+
 ### Removed Recipes
 
 - Rabbit Hide as substitute for Leather is more appropriate
-- Horse Armour is a Treasure item, they should not be obtainable from Crafting
 - Red Dye from Beetroot is more appropriate as Smelting recipe (consistent with Green Dye from Cactus recipe)
 
 ## Smithing

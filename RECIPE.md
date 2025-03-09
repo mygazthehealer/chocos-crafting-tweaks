@@ -145,6 +145,11 @@
 
 - Recipe is now Shapeless
 
+### Name Tag
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/name_tag.png?raw=true">
+
+- New Recipe for Name Tag (can be Crafted from 1 String and 2 Paper)
+
 ### Redstone Torch
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/redstone_torch.png?raw=true">
 
@@ -374,7 +379,7 @@
 
 ### Carpet
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/carpet_wool.gif?raw=true">
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/carpet_moss.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/carpet_moss.gif?raw=true">
 
 - Output is 4 Carpets (instead of 3 for Wools, Moss and Pale Moss Block)
 
@@ -686,9 +691,15 @@
 - Charcoal can also be Smoked from Log/Wood or Stripped Log/Wood (0.15 XP)
 
 ### Iron Ingot
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/ingot_iron_gif.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/ingot_iron.gif?raw=true">
 
 - Shears can be Smelted/Blasted to yield Iron Ingot (0.1 XP)
+- smelting Iron Gear now yields Iron Ingot (instead of Iron Nugget)
+
+### Gold Ingot
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/ingot_gold.gif?raw=true">
+
+- smelting Gold Gear now yields Gold Ingot (instead of Gold Nugget)
 
 ### Iron Block
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/block_iron.png?raw=true">
