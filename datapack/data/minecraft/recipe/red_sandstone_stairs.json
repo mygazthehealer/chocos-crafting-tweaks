@@ -2,11 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "#": [
-      "minecraft:red_sandstone",
-      "minecraft:chiseled_red_sandstone",
-      "minecraft:cut_red_sandstone"
-    ]
+    "#": "minecraft:red_sandstone"
   },
   "pattern": [
     "#  ",

@@ -2,11 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "#": [
-      "minecraft:chiseled_quartz_block",
-      "minecraft:quartz_block",
-      "minecraft:quartz_pillar"
-    ]
+    "#": "minecraft:quartz_block"
   },
   "pattern": [
     "#  ",

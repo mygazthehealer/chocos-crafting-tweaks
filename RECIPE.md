@@ -144,6 +144,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/chain.png?raw=true">
 
 - Recipe is now Shapeless
+- Output is 4 (instead of 1)
 
 ### Name Tag
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/name_tag.png?raw=true">

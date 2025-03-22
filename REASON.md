@@ -67,6 +67,7 @@
 ### Lodestone
 
 - Convenient to substitute Chiseled Deepslate, Chiseled Blackstone for Chiseled Stone (consistent with general idea of Deepslate, Blackstone being substitues for Stone)
+- requiring Netherite Ingot as ingredient is arbitrarily expensive, Iron Ingot is more appropriate
 
 ### Blast Furnace, Armour Stand
 
@@ -77,14 +78,14 @@
 - Convenient to substitute Cobbled Deepslate, Blackstone for Cobblestone
 - Recipe yield is consistent with Torch recipe
 
-### Redstone Torch, Candles
-
-- Recipe yield is consistent with Torch recipe
-
-### Tripwire Hook
+### Tripwire Hook, Chain
 
 - Recipe yield is consistent with Torch recipe
 - Convenient shapeless recipe for Crafting by hand
+
+### Redstone Torch, Candles
+
+- Recipe yield is consistent with Torch recipe
 
 ### Activator Rail, Detector Rail, Powered Rail
 
@@ -97,7 +98,7 @@
 
 ### Mossy Cobblestone, Mossy Stone Bricks
 
-- New recipe allows converting Cobblestone, Stone Brick items to Mossy variant
+- New recipe allows converting Cobblestone, Stone Brick items to Mossy variants
 
 ### Hopper 
 
@@ -128,7 +129,7 @@
 
 - New recipe allows converting Nether Bricks items to Red Nether Bricks variants
 
-### Coarse Dirt, Andesite, Diorite 
+### Coarse Dirt 
 
 - Shapeless recipe allows precise output
 
@@ -153,7 +154,7 @@
 
 - New recipe makes Coral Blocks renewable
 
-### Bread, Cookie, Paper, Chain
+### Bread, Cookie, Paper
 
 - Convenient shapeless recipe for Crafting by hand
 
