@@ -4,7 +4,7 @@
   "key": {
     "X": ["minecraft:leather","minecraft:rabbit_hide"],
     "S": "minecraft:string",
-    "I": "minecraft:iron_ingot"
+    "I": "minecraft:iron_nugget"
   },
   "pattern": [
     "XXX",

@@ -575,7 +575,7 @@
 ### Saddle
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/saddle.png?raw=true">
 
-- New Recipe for Saddle (can be Crafted from 3 Leather/Rabbit Hide, 2 String and 2 Iron Ingot)
+- New Recipe for Saddle (can be Crafted from 3 Leather/Rabbit Hide, 2 String and 2 Iron Nugget)
 
 ### Horse Armour
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/horse_armour.gif?raw=true">
