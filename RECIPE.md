@@ -283,7 +283,7 @@
 - Input is 9 Snow Balls (instead of 4)
 - New Recipe for Snow Block (can be Crafted from 8 Snow)
 
-### Snow Balls
+### Snow Ball
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/snow_ball.png?raw=true">
 
 - New Recipe for Snow Balls (can be Crafted from 1 Snow Block)
@@ -386,7 +386,7 @@
 
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/carpet_snow.png?raw=true">
 
-- Output is 2 Snows for 2 Snow Balls (instead of 6 Snows for 3 Snow Blocks)
+- Output is 1 Snow for 2 Snow Balls (instead of 6 Snows for 3 Snow Blocks)
 
 ### Banner
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/banner.gif?raw=true">
