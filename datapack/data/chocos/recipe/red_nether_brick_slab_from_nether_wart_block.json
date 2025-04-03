@@ -3,7 +3,7 @@
   "category": "building",
   "ingredients": ["minecraft:nether_brick_slab", "minecraft:nether_wart_block"],
   "result": {
-    "count": 2,
+    "count": 1,
     "id": "minecraft:red_nether_brick_slab"
   }
 }

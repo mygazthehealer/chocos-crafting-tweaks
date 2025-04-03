@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "minecraft:red_dye",
+    "minecraft:sand",
+    "minecraft:sand",
+    "minecraft:sand",
+    "minecraft:sand",
+    "minecraft:sand",
+    "minecraft:sand",
+    "minecraft:sand",
+    "minecraft:sand"
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:red_sand"
+  }
+}

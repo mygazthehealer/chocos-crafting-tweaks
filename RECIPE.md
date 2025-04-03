@@ -409,6 +409,11 @@
 
 - New Recipe for _Concrete_ (can be Crafted from 8 _Concrete Powder_ and 1 ``Water Bucket``)
 
+### Red Sand
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/red_sand.png?raw=true">
+
+- New Recipe for ``Red Sand`` (can be Crafted from 8 ``Sand`` and 1 ``Red Dye``)
+
 ### Mud
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/mud.gif?raw=true">
 
@@ -626,7 +631,12 @@
 ### Brick
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/brick.png?raw=true">
 
-- ``Brick`` can also be ``Blasted`` from ``Clay Ball`` (0.3 XP)
+- ``Brick`` can also be Blasted from ``Clay Ball`` (0.3 XP)
+
+### Prismarine Crystal
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/prismarine_crystal.png?raw=true">
+
+- ``Prismarine Crystal`` can also be Smelted/Blasted from ``Prismarine Shard`` (0.4 XP)
 
 ### Dyes
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/dyes.gif?raw=true">
