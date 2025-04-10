@@ -521,6 +521,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/brush.png?raw=true">
 
 - Recipe is now Shapeless
+- Input is 1 ``Feather``, 1 ``String``, 1 ``Stick`` (instead of 1 ``Feather``, 1 ``Copper Ingot``, 1 ``Stick``)
 
 ### Spy Glass
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/spyglass.png?raw=true">

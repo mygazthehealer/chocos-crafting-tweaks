@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "category": "equipment",
   "ingredients": [
-    "minecraft:copper_ingot",
+    "minecraft:string",
     "minecraft:stick",
     "minecraft:feather"
   ],
