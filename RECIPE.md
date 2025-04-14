@@ -149,6 +149,11 @@
 
 - New Recipe for ``Name Tag`` (can be Crafted from 1 ``String`` and 2 ``Paper``)
 
+### Banner Pattern
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/banner_pattern_apple.png?raw=true">
+
+- Input is 1 Paper and 1 Golden Apple (instead of 1 Paper and 1 Enchanted Golden Apple)
+
 ### Redstone Torch
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/redstone_torch.png?raw=true">
 
@@ -505,7 +510,7 @@
 ### Gilded Blackstone
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/gilded_blackstone.png?raw=true">
 
-- New Recipe for ``Gilded Blackstone`` (can be Crafted from 4 ``Gold Nugget`` and 1 ``Blackstone``)
+- New Recipe for ``Gilded Blackstone`` (can be Crafted from 8 ``Blackstone`` and 1 ``Gold Ingot``)
 
 ### Copper Bulb
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/copper_bulb.gif?raw=true">
@@ -528,6 +533,11 @@
 
 - Recipe is now Shapeless
 - Input is 1 ``Copper Ingot`` and 1 ``Amethyst Shard`` (instead of 2 ``Copper Ingot`` and 1 ``Amethyst Shard``)
+
+### Conduit
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/conduit.png?raw=true">
+
+- Input is 8 ``Prismarine Crystal`` and 1 ``Heart of the Sea`` (instead of 8 ``Nautilus Shell`` and 1 ``Heart of the Sea``)
 
 ### Sea Lantern
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/sea_lantern.png?raw=true">
@@ -569,7 +579,12 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/blaze_powder.png?raw=true">
 
 - Output is 3 ``Blaze Powder`` (instead of 2)
- 
+
+### Bricks
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/bricks.png?raw=true">
+
+- New Recipe for ``Bricks`` (can be crafted from 4 ``Terracotta``)
+
 ### Pottery Sherd
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/pottery_sherds.gif?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/pottery_sherds_2.gif?raw=true">
