@@ -512,6 +512,11 @@
 
 - New Recipe for ``Gilded Blackstone`` (can be Crafted from 8 ``Blackstone`` and 1 ``Gold Ingot``)
 
+### Lightning Rod
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/lightning_rod.png?raw=true">
+
+- Output is 3 ``Lightning Rod`` (instead of 1)
+
 ### Copper Bulb
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/copper_bulb.gif?raw=true">
 
