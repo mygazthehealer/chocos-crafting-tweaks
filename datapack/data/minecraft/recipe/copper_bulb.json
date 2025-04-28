@@ -3,7 +3,7 @@
   "category": "redstone",
   "key": {
     "B": "minecraft:blaze_rod",
-    "C": "minecraft:copper_block",
+    "C": "minecraft:copper_ingot",
     "R": "minecraft:redstone"
   },
   "pattern": [
@@ -12,7 +12,7 @@
     " R "
   ],
   "result": {
-    "count": 3,
+    "count": 1,
     "id": "minecraft:copper_bulb"
   }
 }

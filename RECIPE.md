@@ -518,9 +518,10 @@
 - Output is 3 ``Lightning Rod`` (instead of 1)
 
 ### Copper Bulb
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/copper_bulb.gif?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/copper_bulb.png?raw=true">
 
-- Output is 3 ``Copper Bulb`` (instead of 4)
+- Input is 3 ``Copper Ingot``, 1 ``Blaze Rod`` and 1 ``Redstone Dust`` (instead of 3 ``Copper Block``, 1 ``Blaze Rod`` and 1 ``Redstone Dust``)
+- Output is 1 ``Copper Bulb`` (instead of 4)
 
 ### Copper Grate
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/copper_grate.png?raw=true">
@@ -627,8 +628,9 @@
 - Vanilla Recipe for ``Sea Lantern`` replaced
 
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/copper_grate_removed.gif?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/copper_bulb_removed.gif?raw=true">
 
-- Vanilla Recipe for ``Copper Grate`` replaced
+- Vanilla Recipe for ``Copper Grate``, ``Copper Bulb`` replaced
 
 ## Smithing
 ### Netherite Gear
