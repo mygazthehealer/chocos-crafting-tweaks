@@ -444,6 +444,16 @@
 
 - New Recipe for ``Magma`` (can be Crafted from 8 ``Netherrack``/``Crimson Nylium``/``Warped Nylium`` and 1 ``Lava Bucket``)
 
+### Honey Bottle
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/honey_bottle.png?raw=true">
+
+- Input is 8 ``Honey Bottle`` (instead of 4)
+
+### Honey Block
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/honey_block.png?raw=true">
+
+- Input is 8 ``Glass Bottle`` and 1 ``Honey Block`` (instead of 4 ``Glass Bottle`` and 1 ``Honey Block``)
+
 ### Lead
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/lead.gif?raw=true">
 
