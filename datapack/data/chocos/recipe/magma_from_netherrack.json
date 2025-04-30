@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "minecraft:lava_bucket",
+    ["minecraft:netherrack","minecraft:warped_nylium","minecraft:crimson_nylium"],
+    ["minecraft:netherrack","minecraft:warped_nylium","minecraft:crimson_nylium"],
+    ["minecraft:netherrack","minecraft:warped_nylium","minecraft:crimson_nylium"],
+    ["minecraft:netherrack","minecraft:warped_nylium","minecraft:crimson_nylium"],
+    ["minecraft:netherrack","minecraft:warped_nylium","minecraft:crimson_nylium"],
+    ["minecraft:netherrack","minecraft:warped_nylium","minecraft:crimson_nylium"],
+    ["minecraft:netherrack","minecraft:warped_nylium","minecraft:crimson_nylium"],
+    ["minecraft:netherrack","minecraft:warped_nylium","minecraft:crimson_nylium"]
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:magma_block"
+  }
+}
