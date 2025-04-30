@@ -327,6 +327,21 @@
 
 - Recipe is now Shapeless
 
+### Mushroom Stew
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/mushroom_stew.gif?raw=true">
+
+- Input is 2 Red/Brown Mushroom and 1 Bowl (instead of 1 Red Mushroom, 1 Brown Mushroom and 1 Bowl)
+
+### Beetroot Soup
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/beetroot_soup.png?raw=true">
+
+- Input is 2 Beetroot and 1 Bowl (instead of 6 Beetroot and 1 Bowl)
+
+### Rabbit Stew
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rabbit_stew.png?raw=true">
+
+- Input is 1 Cooked Rabbit, 1 Baked Potato, 1 Carrot and 1 Bowl (no Red/Brown Mushroom)
+
 ### Dyes from Flowers
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_white.gif?raw=true">
 
@@ -423,6 +438,11 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/mud.gif?raw=true">
 
 - New Recipe for ``Mud`` (can be Crafted from 8 ``Dirt``/``Grass Block`` and 1 ``Water Bucket``)
+
+### Magma
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/magma.gif?raw=true">
+
+- New Recipe for ``Magma`` (can be Crafted from 8 ``Netherrack``/``Crimson Nylium``/``Warped Nylium`` and 1 ``Lava Bucket``)
 
 ### Lead
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/lead.gif?raw=true">
