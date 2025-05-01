@@ -147,7 +147,7 @@
 ### Name Tag
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/name_tag.png?raw=true">
 
-- New Recipe for ``Name Tag`` (can be Crafted from 1 ``String`` and 2 ``Paper``)
+- New Recipe for ``Name Tag`` (can be Crafted from 1 ``String``, 1 ``Paper`` and 1 ``Iron Ingot``)
 
 ### Banner Pattern
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/banner_pattern_apple.png?raw=true">
