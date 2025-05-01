@@ -142,7 +142,6 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/chain.png?raw=true">
 
 - Recipe is now Shapeless
-- Output is 4 (instead of 1)
 
 ### Name Tag
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/name_tag.png?raw=true">
@@ -475,11 +474,13 @@
 - Item corresponding to ``Rib Smithing Template`` is ``Nether Brick`` (instead of ``Netherrack``)
 - Item corresponding to ``Bolt Smithing Template`` is ``Copper Ingot`` (instead of ``Copper Block``)
 
+### Chainmail Armour
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/chainmail_armour.gif?raw=true">
+
+- New Recipe for _Chainmail Armour_ (can be Crafted from ``Chain``)
+
 ### Leather Armour
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/leather_helmet.png?raw=true">
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/leather_chestplate.png?raw=true">
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/leather_leggings.png?raw=true">
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/leather_boots.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/leather_armour.gif?raw=true">
 
 - ``Leather Armour`` can also be Crafted from ``Rabbit Hide``
 
