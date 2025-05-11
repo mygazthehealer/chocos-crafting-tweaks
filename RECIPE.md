@@ -290,6 +290,16 @@
 
 - New Recipe for ``Snow Ball`` (can be Crafted from 1 ``Snow Block``)
 
+### Amethyst Block
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/amethyst_block.png?raw=true">
+
+- Input is 9 ``Amethyst Shard`` (instead of 4)
+
+### Amethyst Shard
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/amethyst_shard.png?raw=true">
+
+- New Recipe for ``Amethyst Shard`` (can be Crafted from 1 ``Amethyst Block``)
+
 ### Melon Slice
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/melon_slices.png?raw=true">
 
