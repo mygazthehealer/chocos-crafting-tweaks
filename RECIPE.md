@@ -336,6 +336,11 @@
 
 - Recipe is now Shapeless
 
+### Beetroot Seeds
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/beetroot_seeds.png?raw=true">
+
+- New Recipe for ``Beetroot Seeds`` (can be Crafted from ``Beetroot``)
+
 ### Mushroom Stew
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/mushroom_stew.gif?raw=true">
 
@@ -641,7 +646,7 @@
 ### Saddle
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/saddle.png?raw=true">
 
-- New Recipe for Saddle (can be Crafted from 3 Leather/Rabbit Hide, 2 String and 2 Iron Nugget)
+- New Recipe for Saddle (can be Crafted from 3 Leather/Rabbit Hide and 1 Iron Ingot)
 
 ### Horse Armour
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/horse_armour.gif?raw=true">
