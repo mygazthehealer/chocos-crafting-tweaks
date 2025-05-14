@@ -3,13 +3,11 @@
   "category": "misc",
   "key": {
     "X": ["minecraft:leather","minecraft:rabbit_hide"],
-    "S": "minecraft:string",
-    "I": "minecraft:iron_nugget"
+    "I": "minecraft:iron_ingot"
   },
   "pattern": [
-    "XXX",
-    "S S",
-    "I I"
+    " X ",
+    "XIX"
   ],
   "result": {
     "count": 1,
