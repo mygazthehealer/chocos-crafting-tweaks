@@ -2,76 +2,71 @@
 ## Crafting
 ### Stairs
 
-- Crafting yield is now consistent with Stonecutting (1-to-1 output ratio)
-- Stonecutting recipe (for Wooden Planks) for precise output
+- Recipe yield is now consistent with Stonecutting
 
 ### Trapdoor
 
 - Recipe yield is consistent with Door recipe
-- Stonecutting recipe for precise output
 
 ### Button, Pressure Plate
 
-- Recipe yield was increased (Players are likely to use more than one Button or Pressure Plate)
-- Stonecutting recipe for precise output
+- Recipe yield was increased [No reason to make Button, Pressure Plate cost more Planks considering how often Players need these items in bulk]
 
 ### Fence, Fence Gate
 
-- 1-to-1 output ratio
-- Stonecutting recipe for precise output
+- Recipe yield is now consistent with Stonecutting
 
 ### Signs
 
 - Recipe yield is consistent with Hanging Sign recipe
-- Stonecutting recipe for precise output
 
 ### Hanging Sign
 
-- Recipe shape is consistent with Sign recipe
-- Convenient to use 1 Chain and Stripped Logs as ingredients (requiring 2 Chains feels arbitrary)
+- Recipe shape is consistent with Sign recipe [Slightly cheaper to use 1 Chain; much more convenient to use Stripped Logs as ingredients]
 
 ### Bowls
 
-- Recipe output is consistent with Glass Bottle recipe (1-to-1 output ratio)
+- Recipe output is consistent with Glass Bottle recipe
 
 ### Ladder
 
-- Convenient to have more Ladders, hence Recipe yield was increased 
+- Recipe yield was increased [considering Players need these items in bulk]
 
 ### Boat with Chest, Minecart with Workbench
 
-- New recipe allows stacking for bulk crafting
+- New recipe allows Players to stack ingredients for bulk crafting
 
 ### Loom
 
 - Recipe shape is consistent with other Workbench recipes
 
-### Dispenser
-
-- using Tripwire Hook allows stacking for bulk crafting (rather than using Bow as ingredient, which feels arbitrary)
-- New recipe allows converting Dropper to Dispenser
-- Convenient to substitute Cobbled Deepslate, Blackstone for Cobblestone (consistent with Furnace recipe)
-
 ### Dropper, Piston 
 
 - Convenient to substitute Cobbled Deepslate, Blackstone for Cobblestone (consistent with Furnace recipe)
 
+### Dispenser
+
+- Convenient to use Tripwire Hook since it allows Players to stack ingredients for bulk crafting
+- Convenient to substitute Cobbled Deepslate, Blackstone for Cobblestone (consistent with Furnace recipe)
+- New recipe allows converting Dropper to Dispenser
+
 ### Observer
 
-- Convenient to substitute Cobbled Deepslate, Blackstone for Cobblestone (consistent with Furnace recipe) and use 1 Redstone Dust (requiring 2 Redstone Dust feels arbitrary)
+- Slightly cheaper to use 1 Redstone Dust [Players save cost while bulk crafting]
+- Convenient to substitute Cobbled Deepslate, Blackstone for Cobblestone (consistent with Furnace recipe)
 
 ### Stonecutter, Repeater, Comparator
 
-- Convenient to substitute Deepslate for Cobblestone (consistent with Bedrock recipes)
+- Convenient to substitute Deepslate for Cobblestone (partial parity with Bedrock recipes)
 
 ### Lodestone
 
-- Convenient to substitute Chiseled Deepslate, Chiseled Blackstone for Chiseled Stone (consistent with general idea of Deepslate, Blackstone being substitues for Stone)
+- Slightly convenient to substitute Chiseled Deepslate, Chiseled Blackstone for Chiseled Stone
 - requiring Netherite Ingot as ingredient is arbitrarily expensive, Iron Ingot is more appropriate
 
 ### Blast Furnace, Armour Stand
 
-- Convenient to substitute Polished Deepslate, Polished Blackstone for Smooth Stone (consistent with general idea of Deepslate, Blackstone being substitues for Stone)
+- Slightly convenient to substitute Polished Deepslate, Polished Blackstone for Smooth Stone
 
 ### Lever
 
@@ -81,7 +76,7 @@
 ### Tripwire Hook, Chain
 
 - Recipe yield is consistent with Torch recipe
-- Convenient shapeless recipe for Crafting by hand
+- Convenient shapeless recipe for crafting by hand
 
 ### Redstone Torch, Candles
 

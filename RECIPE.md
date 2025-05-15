@@ -4,7 +4,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/stairs_wooden.gif?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/stairs_tuff.gif?raw=true">
 
-- Output is 6 _Stairs_ (instead of 4)
+- Output is 8 _Stairs_ (instead of 4)
 - ``Quartz Stairs`` can no longer be Crafted from ``Quartz Pillar``, ``Chiseled Quartz Block``
 - ``Purpur Stairs`` can no longer be Crafted from ``Purpur Pillar``
 - ``Sandstone Stairs`` can no longer be Crafted from ``Cut Sandstone``, ``Chiseled Sandstone``
@@ -40,9 +40,8 @@
 
 ### Fence
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/fence_wooden.gif?raw=true">
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/fence_nether_brick.png?raw=true">
 
-- Output is 4 _Fence_ (instead of 3 for _Wooden Planks_, 6 for ``Nether Bricks``)
+- Output is 6 _Fence_ (instead of 3 for _Wooden Planks_)
 
 ### Fence Gate
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/fence_gate.gif?raw=true">
@@ -58,11 +57,6 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/sign_hanging.gif?raw=true">
 
 - Input is 1 ``Chain`` and 6 _Stripped Log/Wood/Stem/Hyphae/Bamboo Block_ (instead of 2 ``Chain`` and 6 _Stripped Log/Stem/Bamboo Block_)
-
-### Bowl
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/bowl.gif?raw=true">
-
-- Output is 3 ``Bowl`` (instead of 4)
 
 ### Ladder
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/ladder.png?raw=true">
@@ -84,6 +78,11 @@
 
 - Input is 2 ``String`` and 4 _Wooden Planks_ (instead of 2 ``String`` and 2 _Wooden Planks_)
 
+### Dropper
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dropper.png?raw=true">
+
+- Input is 1 ``Redstone Dust`` and 7 ``Cobblestone``/``Cobbled Deepslate``/``Blackstone`` (instead of 1 ``Redstone Dust`` and 7 ``Cobblestone``)
+  
 ### Dispenser
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dispenser.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dispenser_from_dropper.png?raw=true">
@@ -91,11 +90,6 @@
 - Input is 1 ``Redstone Dust``, 1 ``Tripwire Hook`` and 7 ``Cobblestone``/``Cobbled Deepslate``/``Blackstone`` (instead of 1 ``Redstone Dust``, 1 ``Bow`` and 7 ``Cobblestone``)
 - New Recipe for ``Dispenser`` (can also be Crafted from 1 ``Dropper`` and 1 ``Tripwire Hook``)
 
-### Dropper
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dropper.png?raw=true">
-
-- Input is 1 ``Redstone Dust`` and 7 ``Cobblestone``/``Cobbled Deepslate``/``Blackstone`` (instead of 1 ``Redstone Dust`` and 7 ``Cobblestone``)
-  
 ### Observer
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/observer.png?raw=true">
 
@@ -142,16 +136,6 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/chain.png?raw=true">
 
 - Recipe is now Shapeless
-
-### Name Tag
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/name_tag.png?raw=true">
-
-- New Recipe for ``Name Tag`` (can be Crafted from 1 ``String``, 1 ``Paper`` and 1 ``Iron Ingot``)
-
-### Banner Pattern
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/banner_pattern_apple.png?raw=true">
-
-- Input is 1 Paper and 1 Golden Apple (instead of 1 Paper and 1 Enchanted Golden Apple)
 
 ### Redstone Torch
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/redstone_torch.png?raw=true">
@@ -336,6 +320,16 @@
 
 - Recipe is now Shapeless
 
+### Banner Pattern
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/banner_pattern_apple.png?raw=true">
+
+- Input is 1 Paper and 1 Golden Apple (instead of 1 Paper and 1 Enchanted Golden Apple)
+
+### Name Tag
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/name_tag.png?raw=true">
+
+- New Recipe for ``Name Tag`` (can be Crafted from 1 ``String``, 1 ``Paper`` and 1 ``Iron Ingot``)
+
 ### Beetroot Seeds
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/beetroot_seeds.png?raw=true">
 
@@ -467,6 +461,11 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/honey_block.png?raw=true">
 
 - Input is 8 ``Glass Bottle`` and 1 ``Honey Block`` (instead of 4 ``Glass Bottle`` and 1 ``Honey Block``)
+
+### Glass Bottle
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/glass_bottle.png?raw=true">
+
+- Output is 4 ``Glass Bottle`` (instead of 3)
 
 ### Lead
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/lead.gif?raw=true">
