@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "X": "minecraft:diamond",
-    "W": "#minecraft:wool"
+    "W": ["minecraft:leather","minecraft:rabbit_hide"]
   },
   "pattern": [
     "  X",

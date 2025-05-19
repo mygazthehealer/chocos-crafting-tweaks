@@ -2,12 +2,11 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "X": ["minecraft:leather","minecraft:rabbit_hide"],
-    "W": "#minecraft:wool"
+    "X": ["minecraft:leather","minecraft:rabbit_hide"]
   },
   "pattern": [
     "  X",
-    "XWX",
+    "XXX",
     "XXX"
   ],
   "result": {

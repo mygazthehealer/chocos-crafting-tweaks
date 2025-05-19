@@ -2,9 +2,9 @@
   "type": "minecraft:crafting_shapeless",
   "category": "equipment",
   "ingredients": [
+    ["minecraft:feather","minecraft:wheat"],
     "minecraft:string",
-    "minecraft:stick",
-    "minecraft:feather"
+    "minecraft:stick"
   ],
   "result": {
     "count": 1,

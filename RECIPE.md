@@ -136,6 +136,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/chain.png?raw=true">
 
 - Recipe is now Shapeless
+- Output is 2 (instead of 1)
 
 ### Redstone Torch
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/redstone_torch.png?raw=true">
@@ -151,6 +152,11 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/comparator.png?raw=true">
 
 - Input is 3 ``Redstone Torch``, 1 ``Nether Quartz`` and 3 ``Stone``/``Deepslate`` (instead of 3 ``Redstone Torch``, 1 ``Nether Quartz`` and 3 ``Stone``)
+
+### Rail
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail.png?raw=true">
+
+- Input is 3 ``Stick`` and 6 ``Iron Ingot`` (instead of 1 ``Stick`` and 6 ``Iron Ingot``)
 
 ### Activator Rail
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_activator.png?raw=true">
@@ -323,7 +329,7 @@
 ### Banner Pattern
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/banner_pattern_apple.png?raw=true">
 
-- Input is 1 Paper and 1 Golden Apple (instead of 1 Paper and 1 Enchanted Golden Apple)
+- Input is 1 ``Paper`` and 1 ``Golden Apple`` (instead of 1 ``Paper`` and 1 ``Enchanted Golden Apple``)
 
 ### Name Tag
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/name_tag.png?raw=true">
@@ -338,17 +344,22 @@
 ### Mushroom Stew
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/mushroom_stew.gif?raw=true">
 
-- Input is 2 Red/Brown Mushroom and 1 Bowl (instead of 1 Red Mushroom, 1 Brown Mushroom and 1 Bowl)
+- Input is 2 ``Red/Brown Mushroom`` and 1 ``Bowl`` (instead of 1 ``Red Mushroom``, 1 ``Brown Mushroom`` and 1 ``Bowl``)
 
 ### Beetroot Soup
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/beetroot_soup.png?raw=true">
 
-- Input is 2 Beetroot and 1 Bowl (instead of 6 Beetroot and 1 Bowl)
+- Input is 2 ``Beetroot`` and 1 ``Bowl`` (instead of 6 ``Beetroot`` and 1 ``Bowl``)
 
 ### Rabbit Stew
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rabbit_stew.png?raw=true">
 
-- Input is 1 Cooked Rabbit, 1 Baked Potato, 1 Carrot and 1 Bowl (no Red/Brown Mushroom)
+- Input is 1 ``Cooked Rabbit``, 1 ``Baked Potato``, 1 ``Carrot`` and 1 ``Bowl`` (no ``Red/Brown Mushroom``)
+
+### Cake
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/cake.png?raw=true">
+
+- Input is 1 ``Milk Bucket``, 1 ``Egg``, 1 ``Sweet Berry`` and 1 ``Bread`` (instead of 3 ``Milk Bucket``, 1 ``Egg``, 2 ``Sugar`` and 3 ``Wheat``)
 
 ### Dyes from Flowers
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_white.gif?raw=true">
@@ -381,7 +392,7 @@
 - New Recipe for ``Cyan Dye`` (can be Crafted from ``Warped Roots``, ``Glow Ink Sac``)
 - Output is 1 ``Cyan Dye``
 
-### Dyes from Dyes
+### Dyes from Mixing
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_magenta_from_dye.gif?raw=true">
 
 - Input is 1 ``Red Dye``, 1 ``Blue Dye``, 2 ``Pink Dye`` (instead of 1 ``Red Dye``, 1 ``Blue Dye``, 1 ``Pink Dye``)
@@ -427,11 +438,6 @@
 - Output is 4 _Candle_ (instead of 1)
 - New Recipe for _Dyed Candle_ (can also be Crafted from 1 ``String``, 1 ``Honeycomb`` and 1 _Dye_)
 
-### Concrete Powder
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/concrete_powder.gif?raw=true">
-
-- Input is 4 ``Sand/Red Sand``, 4 ``Gravel`` and 1 _Dye_ (instead of 4 ``Sand``, 4 ``Gravel`` and 1 _Dye_)
-
 ### Concrete
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/concrete.gif?raw=true">
 
@@ -470,8 +476,7 @@
 ### Lead
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/lead.gif?raw=true">
 
-- Output is 4 ``Lead`` (instead of 2)
-- New Recipe for ``Lead`` (can also be Crafted from 4 ``String`` and 1 ``Honey Bottle``)
+- Input is 2 ``String`` and 1 ``Honeycomb``/``Honey Bottle`` (instead of 4 ``String`` and 1 ``Slime Ball``)
 
 ### String
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/string.png?raw=true">
@@ -565,19 +570,20 @@
 ### Copper Bulb
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/copper_bulb.png?raw=true">
 
-- Input is 3 ``Copper Ingot``, 1 ``Blaze Rod`` and 1 ``Redstone Dust`` (instead of 3 ``Copper Block``, 1 ``Blaze Rod`` and 1 ``Redstone Dust``)
+- Input is 7 ``Copper Ingot``, 1 ``Blaze Rod`` and 1 ``Redstone Dust`` (instead of 3 ``Copper Block``, 1 ``Blaze Rod`` and 1 ``Redstone Dust``)
 - Output is 1 ``Copper Bulb`` (instead of 4)
 
 ### Copper Grate
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/copper_grate.png?raw=true">
 
 - Input is 8 ``Copper Ingot`` (instead of 4 ``Copper Block``)
+- Output is 1 ``Copper Grate`` (instead of 4)
 
 ### Brush
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/brush.png?raw=true">
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/brush.gif?raw=true">
 
 - Recipe is now Shapeless
-- Input is 1 ``Feather``, 1 ``String``, 1 ``Stick`` (instead of 1 ``Feather``, 1 ``Copper Ingot``, 1 ``Stick``)
+- Input is 1 ``Feather``/``Wheat``, 1 ``String``, 1 ``Stick`` (instead of 1 ``Feather``, 1 ``Copper Ingot``, 1 ``Stick``)
 
 ### Spy Glass
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/spyglass.png?raw=true">
@@ -645,13 +651,13 @@
 ### Saddle
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/saddle.png?raw=true">
 
-- New Recipe for Saddle (can be Crafted from 3 Leather/Rabbit Hide and 1 Iron Ingot)
+- New Recipe for ``Saddle`` (can be Crafted from 3 ``Leather``/``Rabbit Hide`` and 1 ``Iron Ingot``)
 
 ### Horse Armour
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/horse_armour.gif?raw=true">
 
-- Input is 1 _Wool_ and 6 ``Leather``/``Rabbit Hide`` (instead of 7 ``Leather``)
-- New Recipe for _Horse Armour_ (can be Crafted from 6 ``Iron Ingot``/``Gold Ingot``/``Diamond`` and 1 _Wool_)
+- Input is 7 ``Leather``/``Rabbit Hide`` (instead of 7 ``Leather``)
+- New Recipe for _Horse Armour_ (can be Crafted from 6 ``Iron Ingot``/``Gold Ingot``/``Diamond`` and 1 ``Leather``/``Rabbit Hide``)
 
 ### (Removed Recipes)
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/leather_removed.png?raw=true">
@@ -660,7 +666,7 @@
 
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dye_red_from_beetroot.png?raw=true">
 
-- Vanilla Recipe for ``Red Dye`` (from ``Beetroot``) moved
+- Vanilla Recipe for ``Red Dye`` from ``Beetroot`` moved
 
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_activator_removed.png?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/rail_detector_removed.png?raw=true">
@@ -676,6 +682,10 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/copper_bulb_removed.gif?raw=true">
 
 - Vanilla Recipe for ``Copper Grate``, ``Copper Bulb`` replaced
+
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/cake_removed.png?raw=true">
+
+- Vanilla Recipe for ``Cake`` replaced
 
 ## Smithing
 ### Netherite Gear
@@ -743,7 +753,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/terracotta_glazed.gif?raw=true">
 
 - ``Terracotta`` can also be Blasted from ``Clay`` (0.35 XP)
-- _Glazed Terracotta_ can also be Blasted from _Dyed Terracotta_ (0.1 XP)
+- _Glazed Terracotta_ can also be Blasted from _Stained Terracotta_ (0.1 XP)
 
 ### Glass
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/glass.gif?raw=true">
@@ -781,17 +791,17 @@
 ### Iron Block
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/block_iron.png?raw=true">
 
-- ``Raw Iron Block`` can be Smelted/Blasted to yield ``Iron Block`` (0.7 XP)
+- ``Raw Iron Block`` can be Smelted/Blasted to yield ``Iron Block`` (6.3 XP)
 
 ### Gold Block
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/block_gold.png?raw=true">
 
-- ``Raw Gold Block`` can be Smelted/Blasted to yield ``Gold Block`` (1.0 XP)
+- ``Raw Gold Block`` can be Smelted/Blasted to yield ``Gold Block`` (9.0 XP)
 
 ### Copper Block
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/block_copper.png?raw=true">
 
-- ``Raw Copper Block`` can be Smelted/Blasted to yield ``Copper Block`` (0.7 XP)
+- ``Raw Copper Block`` can be Smelted/Blasted to yield ``Copper Block`` (6.3 XP)
 
 ### (Removed Recipes)
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/smelting/horse_armour_gold_removed.png?raw=true">
@@ -820,15 +830,15 @@
 
 - ``Blackstone``/``Polished Blackstone`` can be Stonecut into 4 ``Polished Blackstone Button``, 2 ``Polished Blackstone Pressure Plate``
 
-### Prismarine 
-<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/prismarine.png?raw=true">
-
-- ``Prismarine`` can be Stonecut into ``Prismarine Brick``, ``Prismarine Brick Stairs``, 2 ``Prismarine Brick Slab``
-
 ### Nether Bricks
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/nether_bricks.png?raw=true">
 
 - ``Nether Bricks`` can be Stonecut into ``Nether Brick Fence``
+
+### Prismarine 
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/prismarine.png?raw=true">
+
+- ``Prismarine`` can be Stonecut into ``Prismarine Brick``, ``Prismarine Brick Stairs``, 2 ``Prismarine Brick Slab``
 
 ### Cut Copper
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/stonecutting/copper.gif?raw=true">

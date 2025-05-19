@@ -7,9 +7,9 @@
     "R": "minecraft:redstone"
   },
   "pattern": [
-    " C ",
+    "CCC",
     "CBC",
-    " R "
+    "CRC"
   ],
   "result": {
     "count": 1,

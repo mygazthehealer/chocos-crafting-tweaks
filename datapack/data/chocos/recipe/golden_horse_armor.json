@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "X": "minecraft:gold_ingot",
-    "W": "#minecraft:wool"
+    "W": ["minecraft:leather","minecraft:rabbit_hide"]
   },
   "pattern": [
     "  X",
