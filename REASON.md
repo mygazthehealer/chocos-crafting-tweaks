@@ -141,7 +141,7 @@
 ### Rabbit Stew
 - Convenient shapeless recipe allows crafting by hand (requiring Mushroom as ingredient is unneccessary)
 
-### Rabbit Stew
+### Cake
 - Convenient shapeless recipe allows crafting by hand (requiring 3 Milk Bucket as ingredient is unneccessary)
 
 ### Dyes from Flowers
