@@ -6,12 +6,11 @@
     "#": "minecraft:waxed_oxidized_cut_copper"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
-    "count": 8,
+    "count": 4,
     "id": "minecraft:waxed_oxidized_cut_copper_stairs"
   }
 }

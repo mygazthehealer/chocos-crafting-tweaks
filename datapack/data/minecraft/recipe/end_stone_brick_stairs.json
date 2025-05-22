@@ -5,12 +5,11 @@
     "#": "minecraft:end_stone_bricks"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
-    "count": 8,
+    "count": 4,
     "id": "minecraft:end_stone_brick_stairs"
   }
 }

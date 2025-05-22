@@ -5,12 +5,11 @@
     "#": "minecraft:andesite"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
-    "count": 8,
+    "count": 4,
     "id": "minecraft:andesite_stairs"
   }
 }

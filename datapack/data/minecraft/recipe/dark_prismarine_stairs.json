@@ -5,12 +5,11 @@
     "#": "minecraft:dark_prismarine"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
-    "count": 8,
+    "count": 4,
     "id": "minecraft:dark_prismarine_stairs"
   }
 }

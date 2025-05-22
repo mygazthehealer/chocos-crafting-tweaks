@@ -6,12 +6,11 @@
     "#": "minecraft:pale_oak_planks"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
-    "count": 8,
+    "count": 4,
     "id": "minecraft:pale_oak_stairs"
   }
 }

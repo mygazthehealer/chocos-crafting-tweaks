@@ -5,12 +5,11 @@
     "#": "minecraft:deepslate_tiles"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
-    "count": 8,
+    "count": 4,
     "id": "minecraft:deepslate_tile_stairs"
   }
 }

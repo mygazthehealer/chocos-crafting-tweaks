@@ -5,12 +5,11 @@
     "#": "minecraft:stone"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
-    "count": 8,
+    "count": 4,
     "id": "minecraft:stone_stairs"
   }
 }

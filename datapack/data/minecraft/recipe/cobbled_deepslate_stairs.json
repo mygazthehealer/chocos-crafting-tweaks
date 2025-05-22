@@ -5,12 +5,11 @@
     "#": "minecraft:cobbled_deepslate"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
-    "count": 8,
+    "count": 4,
     "id": "minecraft:cobbled_deepslate_stairs"
   }
 }

@@ -5,12 +5,11 @@
     "#": "minecraft:polished_deepslate"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
-    "count": 8,
+    "count": 4,
     "id": "minecraft:polished_deepslate_stairs"
   }
 }

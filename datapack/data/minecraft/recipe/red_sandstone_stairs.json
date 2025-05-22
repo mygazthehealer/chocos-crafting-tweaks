@@ -5,12 +5,11 @@
     "#": "minecraft:red_sandstone"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
-    "count": 8,
+    "count": 4,
     "id": "minecraft:red_sandstone_stairs"
   }
 }

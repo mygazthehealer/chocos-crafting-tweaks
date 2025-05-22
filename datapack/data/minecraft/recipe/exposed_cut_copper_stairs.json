@@ -5,12 +5,11 @@
     "#": "minecraft:exposed_cut_copper"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
-    "count": 8,
+    "count": 4,
     "id": "minecraft:exposed_cut_copper_stairs"
   }
 }

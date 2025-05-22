@@ -1,6 +1,6 @@
 ## Crafting
 ### Stairs
-- Recipe yield is now consistent with Stonecutting
+- Recipe input is now consistent with Stonecutting
 
 ### Trapdoor
 - Recipe yield is consistent with Door recipe
@@ -100,7 +100,7 @@
 ### Rooted Dirt
 - Consistent with Muddy Mangrove Roots recipe
 
-### Andesite, Diorite 
+### Andesite, Diorite
 - Shapeless recipe allows precise output (consistent with Granite recipe)
 - requiring Stone is more appropriate compared to Cobblestone
 
@@ -109,7 +109,7 @@
 - Convenient for directly converting Snow Carpets to Snow Blocks
 
 ### Snow Ball, Amethyst Shard, Melon Slice, Bamboo
-- Recipe yield is consistent with other 3x3 Storage Blocks 
+- Recipe yield is consistent with other 3x3 Storage Blocks
 
 ### Amethyst Block
 - Recipe shape was corrected (consistent with other 3x3 Storage Block recipes)

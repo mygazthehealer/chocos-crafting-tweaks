@@ -5,12 +5,11 @@
     "#": "minecraft:polished_granite"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
-    "count": 8,
+    "count": 4,
     "id": "minecraft:polished_granite_stairs"
   }
 }

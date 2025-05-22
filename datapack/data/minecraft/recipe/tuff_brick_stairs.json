@@ -5,12 +5,11 @@
     "#": "minecraft:tuff_bricks"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
-    "count": 8,
+    "count": 4,
     "id": "minecraft:tuff_brick_stairs"
   }
 }

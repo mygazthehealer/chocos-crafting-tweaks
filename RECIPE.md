@@ -4,7 +4,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/stairs_wooden.gif?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/stairs_tuff.gif?raw=true">
 
-- Output is 8 _Stairs_ (instead of 4)
+- Input is 3 Blocks (instead of 6)
 - ``Quartz Stairs`` can no longer be Crafted from ``Quartz Pillar``, ``Chiseled Quartz Block``
 - ``Purpur Stairs`` can no longer be Crafted from ``Purpur Pillar``
 - ``Sandstone Stairs`` can no longer be Crafted from ``Cut Sandstone``, ``Chiseled Sandstone``

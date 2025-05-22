@@ -5,12 +5,11 @@
     "#": "minecraft:quartz_block"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
-    "count": 8,
+    "count": 4,
     "id": "minecraft:quartz_stairs"
   }
 }

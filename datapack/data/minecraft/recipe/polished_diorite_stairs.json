@@ -5,12 +5,11 @@
     "#": "minecraft:polished_diorite"
   },
   "pattern": [
-    "#  ",
-    "## ",
-    "###"
+    "# ",
+    "##"
   ],
   "result": {
-    "count": 8,
+    "count": 4,
     "id": "minecraft:polished_diorite_stairs"
   }
 }
