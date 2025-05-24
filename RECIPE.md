@@ -71,7 +71,7 @@
 ### Minecart with Workbench
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/minecart_workbench.gif?raw=true">
 
-- New Recipe for _Minecart with Workbench_ (can be crafted from 5 ``Iron Ingot`` and 1 ``Chest``/``Furnace``/``Dropper``/``TNT``)
+- New Recipe for _Minecart with Workbench_ (can be crafted from 5 ``Iron Ingot`` and 1 ``Chest``/``Furnace``/``Hopper``/``TNT``)
 
 ### Loom
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/loom.gif?raw=true">
@@ -482,6 +482,11 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/string.png?raw=true">
 
 - New Recipe for ``String`` (can be Crafted from 1 ``Cobweb``)(removed Bedrock Edition recipe)
+
+### Scaffolding
+<img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/scaffolding.png?raw=true">
+
+- Input is 1 ``Wheat`` and 6 ``Bamboo`` (instead of 1 ``String`` and 6 ``Bamboo``)
 
 ### Smithing/Upgrade Template
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/template_smithing.gif?raw=true">

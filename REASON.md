@@ -194,6 +194,9 @@
 - Slightly convenient for gathering string from Cobwebs [Players are rewarded for using Shears]
 - former Bedrock Edition recipe (true Java parity)
 
+### Scaffolding
+- requiring Wheat is more appropriate compared to String
+
 ### Smithing Template
 - Smithing Templates dupe is unsustainable for Armour customization due to high cost (making it Diamond sink is arbitrarily expensive)
 - New recipe shape is cheaper and more appropriate (considering each template sprite appears to be gleaming diamond rune encased in stone)
