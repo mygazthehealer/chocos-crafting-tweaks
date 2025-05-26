@@ -203,6 +203,9 @@
 - Rib Smithing Template recipe was changed (Nether Brick is more closer compared to Netherrack)
 - Bolt Smithing Template recipe was changed (Copper Ingot is more appropriate than Copper Block)
 
+### Mace, Shield
+- New recipe shape is more appropriate
+
 ### Chainmail Armour
 - No reason to lock Chainmail Armour behind trading or structure loot, considering how useless it is compared to Iron Armour
 
