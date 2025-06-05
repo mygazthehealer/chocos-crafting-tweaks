@@ -4,7 +4,7 @@
   "group": "brown_dye",
   "ingredients": [
     "minecraft:black_dye",
-    "minecraft:red_dye"
+    "minecraft:orange_dye"
   ],
   "result": {
     "count": 2,

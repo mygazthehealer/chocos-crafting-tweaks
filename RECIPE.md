@@ -314,7 +314,7 @@
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/coral_block.gif?raw=true">
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/dead_coral_block.gif?raw=true">
 
-- New Recipe for _Coral Block_/_Dead Coral Block_ (can be Crafted from 4 _Coral_/_Dead Coral_ or _Coral Fan_)
+- New Recipe for _Coral Block_/_Dead Coral Block_ (can be Crafted from 4 _Coral_/_Coral Fan_ or _Dead Coral_/_Dead Coral Fan_)
 
 ### Bread
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/bread.png?raw=true">
@@ -575,7 +575,7 @@
 ### Gilded Blackstone
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/gilded_blackstone.png?raw=true">
 
-- New Recipe for ``Gilded Blackstone`` (can be Crafted from 8 ``Blackstone`` and 1 ``Gold Ingot``)
+- New Recipe for ``Gilded Blackstone`` (can be Crafted from 4 ``Gold Nugget`` and 1 ``Blackstone``)
 
 ### Lightning Rod
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/lightning_rod.png?raw=true">
