@@ -7,7 +7,7 @@
     "X": "minecraft:chain"
   },
   "pattern": [
-    " X ",
+    "X X",
     "###",
     "###"
   ],

@@ -56,7 +56,7 @@
 ### Hanging Sign
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/sign_hanging.gif?raw=true">
 
-- Input is 1 ``Chain`` and 6 _Stripped Log/Wood/Stem/Hyphae/Bamboo Block_ (instead of 2 ``Chain`` and 6 _Stripped Log/Stem/Bamboo Block_)
+- Input is 2 ``Chain`` and 6 _Stripped Log/Wood/Stem/Hyphae_ (instead of _Stripped Log/Stem_)
 
 ### Ladder
 <img src="https://github.com/mygazthehealer/chocos-crafting-tweaks/blob/main/other/crafting/ladder.png?raw=true">
